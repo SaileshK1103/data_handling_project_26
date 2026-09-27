@@ -1,0 +1,66 @@
+[
+  {
+    "query": "liver enzyme SGPT test result",
+    "gold_parameter_norm": "alanine aminotransferase (alt, sgpt)"
+  },
+  {
+    "query": "is my liver function enzyme okay",
+    "gold_parameter_norm": "alanine aminotransferase (alt, sgpt)"
+  },
+  {
+    "query": "blood sugar level test",
+    "gold_parameter_norm": "glucose"
+  },
+  {
+    "query": "fasting blood glucose normal range",
+    "gold_parameter_norm": "glucose"
+  },
+  {
+    "query": "Hgb level in blood",
+    "gold_parameter_norm": "hemoglobin"
+  },
+  {
+    "query": "Na+ electrolyte panel result",
+    "gold_parameter_norm": "sodium"
+  },
+  {
+    "query": "K+ electrolyte level",
+    "gold_parameter_norm": "potassium"
+  },
+  {
+    "query": "thyroid stimulating hormone test",
+    "gold_parameter_norm": "thyrotropin (thyroid--stimulating hormone, tsh)"
+  },
+  {
+    "query": "red blood cell count normal range",
+    "gold_parameter_norm": "red blood cell count"
+  },
+  {
+    "query": "white blood cell count normal range",
+    "gold_parameter_norm": "white blood cell count"
+  },
+  {
+    "query": "clotting cell count in blood",
+    "gold_parameter_norm": "platelet count"
+  },
+  {
+    "query": "iron storage protein blood test",
+    "gold_parameter_norm": "ferritin"
+  },
+  {
+    "query": "average blood sugar over three months",
+    "gold_parameter_norm": "hemoglobin a1c"
+  },
+  {
+    "query": "good cholesterol level (HDL)",
+    "gold_parameter_norm": "cholesterol, high-density lipoproteins (hdl)"
+  },
+  {
+    "query": "bad cholesterol level (LDL)",
+    "gold_parameter_norm": "cholesterol, low--density lipoproteins (ldl)"
+  },
+  {
+    "query": "kidney function creatinine test",
+    "gold_parameter_norm": "creatinine"
+  }
+]
