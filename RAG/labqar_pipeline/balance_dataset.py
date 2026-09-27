@@ -7,7 +7,7 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
     normal_records = []
     abnormal_records = []
 
-    with open(input_file, 'r', encoding='utf-8') as f:
+    with open(input_file, 'r') as f:
         for line in f:
             record = json.loads(line)
             output = json.loads(record['output'])
@@ -17,8 +17,6 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
                 abnormal_records.append(record)
 
     total_abnormal = len(abnormal_records)
-    if target_normal_ratio >= 1.0:
-        raise ValueError("target_normal_ratio must be less than 1.0")
     target_normal = int(total_abnormal * target_normal_ratio / (1 - target_normal_ratio))
 
     print(f"Abnormal records: {total_abnormal}")
@@ -46,10 +44,9 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
         print(f"         Consider generating more normal patients in Synthea instead.")
 
     balanced = balanced_normal + abnormal_records
-    random.seed(42)  # Ensure reproducibility
     random.shuffle(balanced)
 
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_file, 'w') as f:
         for record in balanced:
             f.write(json.dumps(record) + '\n')
 

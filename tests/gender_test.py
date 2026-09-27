@@ -14,93 +14,11 @@ Root cause:
   against the original gender strings instead of normalized ones.
 """
 
-import pandas as pd
+import sys
 import os
 
-
-class RangeChecker:
-
-    def __init__(self, ref_file="config/reference_ranges.csv"):
-        if not os.path.exists(ref_file):
-            raise FileNotFoundError(
-                f"Reference range config not found: {ref_file}"
-            )
-        self.df_ref = pd.read_csv(ref_file)
-
-    def _normalize_gender(self, gender: str) -> str:
-        """
-        FIXED VERSION: Normalize gender input to standard format.
-        
-        The key fix is checking lowercase against lowercase consistently.
-        """
-        if not gender:
-            return "all"
-
-        # Convert to lowercase for consistent comparison
-        gender_clean = str(gender).strip().lower()
-
-        # Now check against lowercase versions of each case
-        if gender_clean == "m":
-            return "Male"
-        elif gender_clean == "f":
-            return "Female"
-        elif gender_clean == "male":
-            return "Male"
-        elif gender_clean == "female":
-            return "Female"
-        else:
-            return "all"
-
-    def evaluate(self, parameter: str, value: float, gender: str = "all") -> str:
-        """Simplified for testing"""
-        param_clean = parameter.strip().lower()
-        matches = self.df_ref[
-            self.df_ref["parameter"].str.strip().str.lower() == param_clean
-        ]
-
-        if matches.empty:
-            return "Normal"
-
-        gender_normalized = self._normalize_gender(gender)
-
-        # Try gender-specific first
-        if gender_normalized != "all":
-            gender_matches = matches[
-                matches["gender"]
-                .astype(str)
-                .str.strip()
-                .str.lower()
-                == gender_normalized.lower()
-            ]
-            if not gender_matches.empty:
-                row = gender_matches.iloc[0]
-            else:
-                all_matches = matches[
-                    matches["gender"]
-                    .astype(str)
-                    .str.strip()
-                    .str.lower()
-                    == "all"
-                ]
-                row = all_matches.iloc[0] if not all_matches.empty else matches.iloc[0]
-        else:
-            all_matches = matches[
-                matches["gender"]
-                .astype(str)
-                .str.strip()
-                .str.lower()
-                == "all"
-            ]
-            row = all_matches.iloc[0] if not all_matches.empty else matches.iloc[0]
-
-        low = float(row["lower_bound"])
-        high = float(row["upper_bound"])
-
-        if value < low:
-            return "Low"
-        elif value > high:
-            return "High"
-        return "Normal"
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src', 'data'))
+from range_checker import RangeChecker
 
 
 # Test the fix
@@ -131,14 +49,14 @@ if __name__ == "__main__":
         exp = expected[gender]
         passed = result == exp
         all_pass = all_pass and passed
-        status = "✓" if passed else "✗"
+        status = "[OK]" if passed else "[FAIL]"
         print(f"{status} {gender:8} -> {result:8} (expected: {exp:8})")
 
     print("\n" + "="*80)
     if all_pass:
-        print("✓ GENDER NORMALIZATION FIX SUCCESSFUL")
+        print("[OK] GENDER NORMALIZATION FIX SUCCESSFUL")
     else:
-        print("✗ GENDER NORMALIZATION STILL HAS ISSUES")
+        print("[FAIL] GENDER NORMALIZATION STILL HAS ISSUES")
     print("="*80)
 
     print("\n2. Range Evaluation Test (with fixed gender handling):")
@@ -161,33 +79,33 @@ if __name__ == "__main__":
             result = checker.evaluate(param, value, gender=gender)
             passed = result == expected
             range_pass = range_pass and passed
-            status = "✓" if passed else "✗"
+            status = "[OK]" if passed else "[FAIL]"
             print(
                 f"{status} {param:12} = {value:5.1f} "
                 f"({gender:8}) -> {result:8} "
                 f"(expected: {expected:8})"
             )
         except Exception as e:
-            print(f"✗ {param:12} = {value:5.1f} ({gender:8}) -> ERROR: {e}")
+            print(f"[FAIL] {param:12} = {value:5.1f} ({gender:8}) -> ERROR: {e}")
             range_pass = False
 
     print("\n" + "="*80)
     if range_pass:
-        print("✓ RANGE EVALUATION WITH FIXED GENDER HANDLING WORKS")
+        print("[OK] RANGE EVALUATION WITH FIXED GENDER HANDLING WORKS")
     else:
-        print("✗ RANGE EVALUATION STILL HAS ISSUES")
+        print("[FAIL] RANGE EVALUATION STILL HAS ISSUES")
     print("="*80)
 
     print("\n" + "="*80)
     print("SUMMARY")
     print("="*80)
     if all_pass and range_pass:
-        print("✓✓ ALL TESTS PASSED - FIX IS WORKING!")
+        print("[OK] ALL TESTS PASSED - FIX IS WORKING!")
         print("\nYou can now:")
         print("  1. Replace range_checker.py with range_checker_FIXED.py")
         print("  2. Replace dataset_builder.py with dataset_builder_FIXED.py")
         print("  3. Run: python dataset_builder.py")
         print("  4. Verify dataset quality improved")
     else:
-        print("✗ SOME TESTS FAILED - CHECK REFERENCE RANGES CSV")
+        print("[FAIL] SOME TESTS FAILED - CHECK REFERENCE RANGES CSV")
     print("="*80)

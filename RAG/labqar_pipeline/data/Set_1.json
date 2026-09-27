@@ -1,0 +1,2752 @@
+[
+    {
+        "ID": 1,
+        "Question": "For the lab test 'Acetaminophen' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "70-200"
+    },
+    {
+        "ID": 2,
+        "Question": "For the lab test 'Acetoacetic acid' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.1"
+    },
+    {
+        "ID": 3,
+        "Question": "For the lab test 'Acetone' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.34"
+    },
+    {
+        "ID": 4,
+        "Question": "For the lab test 'Acetylcholinesterase' measuring in 'U/L' in Specimen 'Red blood cells' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-10"
+    },
+    {
+        "ID": 5,
+        "Question": "For the lab test 'Activated partial thromboplastin time (APTT)' measuring in 'seconds' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-40"
+    },
+    {
+        "ID": 6,
+        "Question": "For the lab test 'Adenosine deaminasea' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.20-0.43"
+    },
+    {
+        "ID": 7,
+        "Question": "For the lab test 'Adrenocorticotropic hormone' measuring in 'pmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Corticotropin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<26"
+    },
+    {
+        "ID": 8,
+        "Question": "For the lab test 'Alanine' measuring in 'μmol/day' in Specimen 'Plasma' for 'any gender' and 'Adult', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "210-661"
+    },
+    {
+        "ID": 9,
+        "Question": "For the lab test 'Alanine aminotransferase (ALT, SGPT)' measuring in 'U/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-40"
+    },
+    {
+        "ID": 10,
+        "Question": "For the lab test 'Albumin' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-50"
+    },
+    {
+        "ID": 11,
+        "Question": "For the lab test 'Alcohol' measuring in 'mmol/L' in Specimen 'Serum, whole blood' for 'any gender' and 'any age group' in the category 'Ethanol', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">17.4"
+    },
+    {
+        "ID": 12,
+        "Question": "For the lab test 'Alcohol' measuring in 'mmol/L' in Specimen 'Serum, whole blood' for 'any gender' and 'any age group' in the category 'Ethanol', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21.7"
+    },
+    {
+        "ID": 13,
+        "Question": "For the lab test 'Alcohol' measuring in 'mmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Isopropanol', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">6.64"
+    },
+    {
+        "ID": 14,
+        "Question": "For the lab test 'Alcohol' measuring in 'mmol/L' in Specimen 'Whole blood, serum' for 'any gender' and 'any age group' in the category 'Methanol', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">0.05"
+    },
+    {
+        "ID": 15,
+        "Question": "For the lab test 'Alcohol dehydrogenase' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.05"
+    },
+    {
+        "ID": 16,
+        "Question": "For the lab test 'Aldolase' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.02-0.13"
+    },
+    {
+        "ID": 17,
+        "Question": "For the lab test 'Aldosterone' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.19-0.83"
+    },
+    {
+        "ID": 18,
+        "Question": "For the lab test 'Aldosterone' measuring in 'nmol/day' in Specimen 'Urine, 24 h' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-55"
+    },
+    {
+        "ID": 19,
+        "Question": "For the lab test 'Alkaline phosphatase' measuring in 'U/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "50-120"
+    },
+    {
+        "ID": 20,
+        "Question": "For the lab test 'α1--Acid glycoprotein' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-1.2"
+    },
+    {
+        "ID": 21,
+        "Question": "For the lab test 'α2-­Macroglobulin' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.3-3.0"
+    },
+    {
+        "ID": 22,
+        "Question": "For the lab test 'Alprazolam' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-162"
+    },
+    {
+        "ID": 23,
+        "Question": "For the lab test 'Aluminum' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.0-222.4"
+    },
+    {
+        "ID": 24,
+        "Question": "For the lab test 'Amikacin' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "34-52"
+    },
+    {
+        "ID": 25,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Alanine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "210-661"
+    },
+    {
+        "ID": 26,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'α­-Aminobutyric acid', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-35"
+    },
+    {
+        "ID": 27,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Arginine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21-138"
+    },
+    {
+        "ID": 28,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Asparagine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "30-69"
+    },
+    {
+        "ID": 29,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Aspartic acid', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<25"
+    },
+    {
+        "ID": 30,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Citrulline', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-55"
+    },
+    {
+        "ID": 31,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Cystine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "33-117"
+    },
+    {
+        "ID": 32,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Glutamic acid', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15-190"
+    },
+    {
+        "ID": 33,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Glutamine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "420-700"
+    },
+    {
+        "ID": 34,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Glycine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "120-560"
+    },
+    {
+        "ID": 35,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Histidine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-110"
+    },
+    {
+        "ID": 36,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Hydroxyproline', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<42"
+    },
+    {
+        "ID": 37,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Isoleucine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "40-100"
+    },
+    {
+        "ID": 38,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Leucine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "75-175"
+    },
+    {
+        "ID": 39,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Lysine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-240"
+    },
+    {
+        "ID": 40,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Methionine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6-40"
+    },
+    {
+        "ID": 41,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Ornithine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "30-106"
+    },
+    {
+        "ID": 42,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Phenylalanine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-90"
+    },
+    {
+        "ID": 43,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Proline', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "104-340"
+    },
+    {
+        "ID": 44,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Serine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "65-193"
+    },
+    {
+        "ID": 45,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Taurine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "24-168"
+    },
+    {
+        "ID": 46,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Threonine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "75-210"
+    },
+    {
+        "ID": 47,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Tryptophan', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-73"
+    },
+    {
+        "ID": 48,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Tyrosine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-90"
+    },
+    {
+        "ID": 49,
+        "Question": "For the lab test 'Amino acid fractionation' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Valine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "145-315"
+    },
+    {
+        "ID": 50,
+        "Question": "For the lab test 'Amiodarone' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-3.9"
+    },
+    {
+        "ID": 51,
+        "Question": "For the lab test 'δ-­Aminolevulinic acid' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-53"
+    },
+    {
+        "ID": 52,
+        "Question": "For the lab test 'Amitriptyline' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "289-903"
+    },
+    {
+        "ID": 53,
+        "Question": "For the lab test 'Ammonia' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'NH₃', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11-35"
+    },
+    {
+        "ID": 54,
+        "Question": "For the lab test 'Amobarbital' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-22"
+    },
+    {
+        "ID": 55,
+        "Question": "For the lab test 'Amoxapine' measuring in 'μg/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "200-600"
+    },
+    {
+        "ID": 56,
+        "Question": "For the lab test 'Amylase' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.46-2.21"
+    },
+    {
+        "ID": 57,
+        "Question": "For the lab test 'Androstenedione' measuring in 'nmol/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.6-7.2"
+    },
+    {
+        "ID": 58,
+        "Question": "For the lab test 'Androstenedione' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.0-9.6"
+    },
+    {
+        "ID": 59,
+        "Question": "For the lab test 'Angiotensin I' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<25"
+    },
+    {
+        "ID": 60,
+        "Question": "For the lab test 'Angiotensin II' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-60"
+    },
+    {
+        "ID": 61,
+        "Question": "For the lab test 'Angiotensin-converting enzyme (ACE)' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.14-0.88"
+    },
+    {
+        "ID": 62,
+        "Question": "For the lab test 'Anion gap (Na+)−(Cl− + HCO₃−)' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-16"
+    },
+    {
+        "ID": 63,
+        "Question": "For the lab test 'Antidiuretic hormone (ADH, vasopressin)' measuring in 'pmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.9-4.6"
+    },
+    {
+        "ID": 64,
+        "Question": "For the lab test 'Antiplasmin' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-1.3"
+    },
+    {
+        "ID": 65,
+        "Question": "For the lab test 'Antithrombin activity' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-1.3"
+    },
+    {
+        "ID": 66,
+        "Question": "For the lab test 'α1--Antitrypsin' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-2.0"
+    },
+    {
+        "ID": 67,
+        "Question": "For the lab test 'Apolipoprotein A' measuring in 'g/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-1.5"
+    },
+    {
+        "ID": 68,
+        "Question": "For the lab test 'Apolipoprotein A' measuring in 'g/L' in Specimen 'Serum' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-1.7"
+    },
+    {
+        "ID": 69,
+        "Question": "For the lab test 'Apolipoprotein B' measuring in 'g/L' in Specimen 'Serum, plasma' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-1.2"
+    },
+    {
+        "ID": 70,
+        "Question": "For the lab test 'Apolipoprotein B' measuring in 'g/L' in Specimen 'Serum, plasma' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.25-1.20"
+    },
+    {
+        "ID": 71,
+        "Question": "For the lab test 'Arginine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21-138"
+    },
+    {
+        "ID": 72,
+        "Question": "For the lab test 'Arsenic (As)' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.31"
+    },
+    {
+        "ID": 73,
+        "Question": "For the lab test 'Arsenic (As)' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.33-6.65"
+    },
+    {
+        "ID": 74,
+        "Question": "For the lab test 'Arsenic (As)' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.9-123.7"
+    },
+    {
+        "ID": 75,
+        "Question": "For the lab test 'Ascorbate, ascorbic acid' measuring in 'μmol/L' in Specimen 'Plamsa, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "23-85"
+    },
+    {
+        "ID": 76,
+        "Question": "For the lab test 'Asparagine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "30-69"
+    },
+    {
+        "ID": 77,
+        "Question": "For the lab test 'Aspartate aminotransferase (AST, SGOT)' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.34-0.82"
+    },
+    {
+        "ID": 78,
+        "Question": "For the lab test 'Aspartic acid' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<25"
+    },
+    {
+        "ID": 79,
+        "Question": "For the lab test 'Atrial natriuretic hormone' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-77"
+    },
+    {
+        "ID": 80,
+        "Question": "For the lab test 'Barbiturates' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Pentobarbital', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.0-22"
+    },
+    {
+        "ID": 81,
+        "Question": "For the lab test 'Barbiturates' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Phenobarbital', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "65-172"
+    },
+    {
+        "ID": 82,
+        "Question": "For the lab test 'Barbiturates' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Thiopental', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-21"
+    },
+    {
+        "ID": 83,
+        "Question": "For the lab test 'Basophils' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.20"
+    },
+    {
+        "ID": 84,
+        "Question": "For the lab test 'Basophils' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.003"
+    },
+    {
+        "ID": 85,
+        "Question": "For the lab test 'Benzodiazepines' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Alprazolam', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-162"
+    },
+    {
+        "ID": 86,
+        "Question": "For the lab test 'Benzodiazepines' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Chlordiazepoxide', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.3-3.3"
+    },
+    {
+        "ID": 87,
+        "Question": "For the lab test 'Benzodiazepines' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Diazepam', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.35-3.51"
+    },
+    {
+        "ID": 88,
+        "Question": "For the lab test 'Benzodiazepines' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Lorazepam', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "156-746"
+    },
+    {
+        "ID": 89,
+        "Question": "For the lab test 'Beryllium' measuring in 'μmol/L' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">2.22"
+    },
+    {
+        "ID": 90,
+        "Question": "For the lab test 'Bicarbonate' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21-28"
+    },
+    {
+        "ID": 91,
+        "Question": "For the lab test 'Bile acids' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.73-5.63"
+    },
+    {
+        "ID": 92,
+        "Question": "For the lab test 'Bilirubin' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2-18"
+    },
+    {
+        "ID": 93,
+        "Question": "For the lab test 'Bilirubin' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Direct', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<3.4"
+    },
+    {
+        "ID": 94,
+        "Question": "For the lab test 'Biotin' measuring in 'nmol/L' in Specimen 'Whole blood, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.82-2.05"
+    },
+    {
+        "ID": 95,
+        "Question": "For the lab test 'Bismuth' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.8-57.4"
+    },
+    {
+        "ID": 96,
+        "Question": "For the lab test 'Blood gases' measuring in 'mm Hg' in Specimen 'Arterial blood' for 'any gender' and 'any age group' in the category 'Pco₂', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-45"
+    },
+    {
+        "ID": 97,
+        "Question": "For the lab test 'Blood gases' measuring in 'nan' in Specimen 'Arterial blood' for 'any gender' and 'any age group' in the category 'pH', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.35-7.45"
+    },
+    {
+        "ID": 98,
+        "Question": "For the lab test 'Blood gases' measuring in 'mm Hg' in Specimen 'Arterial blood' for 'any gender' and 'any age group' in the category 'Pco₂', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-100"
+    },
+    {
+        "ID": 99,
+        "Question": "For the lab test 'Blood urea nitrogen (BUN)' measuring in 'mmol/L' in Specimen 'Blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.9-8.2"
+    },
+    {
+        "ID": 100,
+        "Question": "For the lab test 'Brain natriuretic peptide (BNP)' measuring in 'pg/mL' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<100"
+    },
+    {
+        "ID": 101,
+        "Question": "For the lab test 'Bupropion' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "91-362"
+    },
+    {
+        "ID": 102,
+        "Question": "For the lab test 'C1 esterase inhibitor' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.12-0.30"
+    },
+    {
+        "ID": 103,
+        "Question": "For the lab test 'C3 complement' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.2-1.5"
+    },
+    {
+        "ID": 104,
+        "Question": "For the lab test 'C4 complement' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.35-0.60"
+    },
+    {
+        "ID": 105,
+        "Question": "For the lab test 'CA125' measuring in 'kU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<35"
+    },
+    {
+        "ID": 106,
+        "Question": "For the lab test 'CA19-9' measuring in 'kU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<37"
+    },
+    {
+        "ID": 107,
+        "Question": "For the lab test 'CA15-3' measuring in 'kU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<30"
+    },
+    {
+        "ID": 108,
+        "Question": "For the lab test 'CA27.29' measuring in 'kU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<37.7"
+    },
+    {
+        "ID": 109,
+        "Question": "For the lab test 'Cadmium' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.7-10.7"
+    },
+    {
+        "ID": 110,
+        "Question": "For the lab test 'Caffeine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'Infant', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "41-103"
+    },
+    {
+        "ID": 111,
+        "Question": "For the lab test 'Calciferol' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Vitamin D', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "42-169"
+    },
+    {
+        "ID": 112,
+        "Question": "For the lab test 'Calciferol' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Vitamin D', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-150"
+    },
+    {
+        "ID": 113,
+        "Question": "For the lab test 'Calcitonin' measuring in 'ng/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<19"
+    },
+    {
+        "ID": 114,
+        "Question": "For the lab test 'Calcium' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Ionized', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.15-1.27"
+    },
+    {
+        "ID": 115,
+        "Question": "For the lab test 'Calcium' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.05-2.55"
+    },
+    {
+        "ID": 116,
+        "Question": "For the lab test 'Calcium' measuring in 'mmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<6.2"
+    },
+    {
+        "ID": 117,
+        "Question": "For the lab test 'Carbamazepine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "34-51"
+    },
+    {
+        "ID": 118,
+        "Question": "For the lab test 'Carbon dioxide' measuring in 'mmol/L' in Specimen 'Serum, plasma, venous blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "22-28"
+    },
+    {
+        "ID": 119,
+        "Question": "For the lab test 'Carboxyhemoglobin (carbon monoxide)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Fraction of hemoblobin sturation', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.02"
+    },
+    {
+        "ID": 120,
+        "Question": "For the lab test 'Carboxyhemoglobin (carbon monoxide)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Fraction of hemoblobin sturation', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">0.2"
+    },
+    {
+        "ID": 121,
+        "Question": "For the lab test 'β-­Carotene' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.2-1.6"
+    },
+    {
+        "ID": 122,
+        "Question": "For the lab test 'Catecholamines' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Norepinephrine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "650-2423"
+    },
+    {
+        "ID": 123,
+        "Question": "For the lab test 'Catecholamines' measuring in 'nmol/day' in Specimen 'Urine' for 'any gender' and 'any age group' in the category 'Norepinephrine', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "89-473"
+    },
+    {
+        "ID": 124,
+        "Question": "For the lab test 'Carcinoembryonic antigen (CEA)' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<3"
+    },
+    {
+        "ID": 125,
+        "Question": "For the lab test 'Carcinoembryonic antigen (CEA)' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<5"
+    },
+    {
+        "ID": 126,
+        "Question": "For the lab test 'Ceruloplasmin' measuring in 'mg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "200-400"
+    },
+    {
+        "ID": 127,
+        "Question": "For the lab test 'Chloramphenicol' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "31-77"
+    },
+    {
+        "ID": 128,
+        "Question": "For the lab test 'Chlordiazepoxide' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.3-3.3"
+    },
+    {
+        "ID": 129,
+        "Question": "For the lab test 'Chloride' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "96-106"
+    },
+    {
+        "ID": 130,
+        "Question": "For the lab test 'Chloride' measuring in 'mmol/L' in Specimen 'Cerebrospinal fluid' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "118-132"
+    },
+    {
+        "ID": 131,
+        "Question": "For the lab test 'Chlorpromazine' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'Adult', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "157-942"
+    },
+    {
+        "ID": 132,
+        "Question": "For the lab test 'Chlorpromazine' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'Child', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "126-251"
+    },
+    {
+        "ID": 133,
+        "Question": "For the lab test 'Chlorpropamide' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "270-900"
+    },
+    {
+        "ID": 134,
+        "Question": "For the lab test 'Cholesterol, high-density lipoproteins (HDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">1.55"
+    },
+    {
+        "ID": 135,
+        "Question": "For the lab test 'Cholesterol, high-density lipoproteins (HDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.03-1.55"
+    },
+    {
+        "ID": 136,
+        "Question": "For the lab test 'Cholesterol, high-density lipoproteins (HDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<1.03"
+    },
+    {
+        "ID": 137,
+        "Question": "For the lab test 'Cholesterol, low--density lipoproteins (LDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<2.59"
+    },
+    {
+        "ID": 138,
+        "Question": "For the lab test 'Cholesterol, low--density lipoproteins (LDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.59-3.34"
+    },
+    {
+        "ID": 139,
+        "Question": "For the lab test 'Cholesterol, low--density lipoproteins (LDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.37-4.12"
+    },
+    {
+        "ID": 140,
+        "Question": "For the lab test 'Cholesterol, low--density lipoproteins (LDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.15-4.90"
+    },
+    {
+        "ID": 141,
+        "Question": "For the lab test 'Cholesterol, low--density lipoproteins (LDL)' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">4.90"
+    },
+    {
+        "ID": 142,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Adult' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘Desirable’?",
+        "Answer": "<5.17"
+    },
+    {
+        "ID": 143,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Adult' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘Borderline high’?",
+        "Answer": "5.17-6.18"
+    },
+    {
+        "ID": 144,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Adult' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘High’?",
+        "Answer": ">6.21"
+    },
+    {
+        "ID": 145,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Child' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘Desirable’?",
+        "Answer": "4.4"
+    },
+    {
+        "ID": 146,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Child' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘Borderline high’?",
+        "Answer": "4.40-5.15"
+    },
+    {
+        "ID": 147,
+        "Question": "For the lab test 'Cholesterol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'Child' in the category 'Total', what is the correct lower and upper bound range values in SI reference range for the reference type ‘High’?",
+        "Answer": ">5.18"
+    },
+    {
+        "ID": 148,
+        "Question": "For the lab test 'Chromium' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "13.4-538.6"
+    },
+    {
+        "ID": 149,
+        "Question": "For the lab test 'Citrate' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "60-160"
+    },
+    {
+        "ID": 150,
+        "Question": "For the lab test 'Citrulline' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-135"
+    },
+    {
+        "ID": 151,
+        "Question": "For the lab test 'Clonazepam' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "48-190"
+    },
+    {
+        "ID": 152,
+        "Question": "For the lab test 'Coagulation factor I (fibrinogen)' measuring in 'g/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.5-4.0"
+    },
+    {
+        "ID": 153,
+        "Question": "For the lab test 'Coagulation factor II (prothrombin)' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 154,
+        "Question": "For the lab test 'Coagulation factor V' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 155,
+        "Question": "For the lab test 'Coagulation factor VII' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 156,
+        "Question": "For the lab test 'Coagulation factor VIII' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.50-2.00"
+    },
+    {
+        "ID": 157,
+        "Question": "For the lab test 'Coagulation factor IX' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 158,
+        "Question": "For the lab test 'Coagulation factor X' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 159,
+        "Question": "For the lab test 'Coagulation factor XI' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 160,
+        "Question": "For the lab test 'Coagulation factor XII' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.60-1.40"
+    },
+    {
+        "ID": 161,
+        "Question": "For the lab test 'Cobalt' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<17"
+    },
+    {
+        "ID": 162,
+        "Question": "For the lab test 'Codeine' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "33-334"
+    },
+    {
+        "ID": 163,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'Male' and 'any age group' in the category 'Hematocrit', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.41-0.50"
+    },
+    {
+        "ID": 164,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'Female' and 'any age group' in the category 'Hematocrit', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.35-0.45"
+    },
+    {
+        "ID": 165,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'g/L' in Specimen 'Whole blood' for 'Male' and 'any age group' in the category 'Hemoglobin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "135-175"
+    },
+    {
+        "ID": 166,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'g/L' in Specimen 'Whole blood' for 'Female' and 'any age group' in the category 'Hemoglobin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "120-155"
+    },
+    {
+        "ID": 167,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'mmol/L' in Specimen 'Whole blood' for 'Male' and 'any age group' in the category 'Hemoglobin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8.44-10.65"
+    },
+    {
+        "ID": 168,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'mmol/L' in Specimen 'Whole blood' for 'Female' and 'any age group' in the category 'Hemoglobin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.45-9.30"
+    },
+    {
+        "ID": 169,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'pg/cell' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Mean corpuscular hemoglobin (MCH)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "27-33"
+    },
+    {
+        "ID": 170,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'fmol' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Mean corpuscular hemoglobin (MCH)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.70-2.05"
+    },
+    {
+        "ID": 171,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'g Hb/L' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Mean corpuscular hemoglobin concentration (MCHC)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "330-370"
+    },
+    {
+        "ID": 172,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'mmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Mean corpuscular hemoglobin concentration (MCHC)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-23"
+    },
+    {
+        "ID": 173,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'fL' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Mean cell volume (MCV)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-100"
+    },
+    {
+        "ID": 174,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Platelet count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "150-450"
+    },
+    {
+        "ID": 175,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Female' and 'any age group' in the category 'Red blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.9-5.5"
+    },
+    {
+        "ID": 176,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Male' and 'any age group' in the category 'Red blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.6-6.0"
+    },
+    {
+        "ID": 177,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Reticulocyte count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-75"
+    },
+    {
+        "ID": 178,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of RBCs' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Reticulocyte count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.005-0.015"
+    },
+    {
+        "ID": 179,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'White blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.5-11.0"
+    },
+    {
+        "ID": 180,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Neutrophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.8-7.8"
+    },
+    {
+        "ID": 181,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Bands', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.70"
+    },
+    {
+        "ID": 182,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Lymphocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-4.8"
+    },
+    {
+        "ID": 183,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Monocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.80"
+    },
+    {
+        "ID": 184,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Eosinophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.45"
+    },
+    {
+        "ID": 185,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Basophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.20"
+    },
+    {
+        "ID": 186,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Neutrophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.56"
+    },
+    {
+        "ID": 187,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Bands', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.03"
+    },
+    {
+        "ID": 188,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Lymphocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.34"
+    },
+    {
+        "ID": 189,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Monocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.04"
+    },
+    {
+        "ID": 190,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Eosinophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.027"
+    },
+    {
+        "ID": 191,
+        "Question": "For the lab test 'Complete blood count (CBC)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Basophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.003"
+    },
+    {
+        "ID": 192,
+        "Question": "For the lab test 'Copper' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11.0-22.0"
+    },
+    {
+        "ID": 193,
+        "Question": "For the lab test 'Coproporphyrin' measuring in 'nmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<300"
+    },
+    {
+        "ID": 194,
+        "Question": "For the lab test 'Corticotropin' measuring in 'pmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<26"
+    },
+    {
+        "ID": 195,
+        "Question": "For the lab test 'Cortisol' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "138-690"
+    },
+    {
+        "ID": 196,
+        "Question": "For the lab test 'Cortisol' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "83-442"
+    },
+    {
+        "ID": 197,
+        "Question": "For the lab test 'Cortisol' measuring in 'nmol/day' in Specimen 'Urine' for 'any gender' and 'any age group' in the category 'Free', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-280"
+    },
+    {
+        "ID": 198,
+        "Question": "For the lab test 'Cotinine' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "91-823"
+    },
+    {
+        "ID": 199,
+        "Question": "For the lab test 'C--peptide' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.17-1.17"
+    },
+    {
+        "ID": 200,
+        "Question": "For the lab test 'Creatine' measuring in 'μmol/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15.3-53.3"
+    },
+    {
+        "ID": 201,
+        "Question": "For the lab test 'Creatine' measuring in 'μmol/L' in Specimen 'Serum' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "22.9-68.6"
+    },
+    {
+        "ID": 202,
+        "Question": "For the lab test 'Creatine kinase (CK)' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.85-3.40"
+    },
+    {
+        "ID": 203,
+        "Question": "For the lab test 'CK--MB fraction' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.06"
+    },
+    {
+        "ID": 204,
+        "Question": "For the lab test 'Creatinine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "53-106"
+    },
+    {
+        "ID": 205,
+        "Question": "For the lab test 'Creatinine' measuring in 'mmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8.8-17.7"
+    },
+    {
+        "ID": 206,
+        "Question": "For the lab test 'Creatinine clearance, glomerular filtration rate' measuring in 'mL/s/m2' in Specimen 'Serum, urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.72-1.2"
+    },
+    {
+        "ID": 207,
+        "Question": "For the lab test 'C--telopeptide' measuring in 'pg/mL' in Specimen 'Serum, plasma' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "60-700"
+    },
+    {
+        "ID": 208,
+        "Question": "For the lab test 'C--telopeptide' measuring in 'pg/mL' in Specimen 'Serum, plasma' for 'Female' and 'any age group' with the condition 'Premenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "40-465"
+    },
+    {
+        "ID": 209,
+        "Question": "For the lab test 'Cyanide' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">38.4"
+    },
+    {
+        "ID": 210,
+        "Question": "For the lab test 'Cyanocobalamin' measuring in 'pmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Vitamin B₁₂', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "118-701"
+    },
+    {
+        "ID": 211,
+        "Question": "For the lab test 'Cyclic adenosine monophosphate (cAMP)' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "14-26"
+    },
+    {
+        "ID": 212,
+        "Question": "For the lab test 'Cyclosporine' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">333"
+    },
+    {
+        "ID": 213,
+        "Question": "For the lab test 'Cystine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "33-117"
+    },
+    {
+        "ID": 214,
+        "Question": "For the lab test 'Dehydroepiandrosterone (DHEA)' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'Male' and 'any age group' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.2-43.3"
+    },
+    {
+        "ID": 215,
+        "Question": "For the lab test 'Dehydroepiandrosterone sulfate (DHEA-S)' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.3-16.7"
+    },
+    {
+        "ID": 216,
+        "Question": "For the lab test 'Desipramine' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "170-700"
+    },
+    {
+        "ID": 217,
+        "Question": "For the lab test 'Diazepam' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.35-3.51"
+    },
+    {
+        "ID": 218,
+        "Question": "For the lab test 'Digoxin' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.6-2.6"
+    },
+    {
+        "ID": 219,
+        "Question": "For the lab test 'Disopyramide' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-21"
+    },
+    {
+        "ID": 220,
+        "Question": "For the lab test 'Doxepin' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "540-890"
+    },
+    {
+        "ID": 221,
+        "Question": "For the lab test 'Electrolytes' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group' in the category 'Chloride', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "96-106"
+    },
+    {
+        "ID": 222,
+        "Question": "For the lab test 'Electrolytes' measuring in 'mmol/L' in Specimen 'Serum, plasma, venous blood' for 'any gender' and 'any age group' in the category 'Carbon dioxide (CO₂)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "22-28"
+    },
+    {
+        "ID": 223,
+        "Question": "For the lab test 'Electrolytes' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Potassium', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.5-5.0"
+    },
+    {
+        "ID": 224,
+        "Question": "For the lab test 'Electrolytes' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Sodium', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "136-142"
+    },
+    {
+        "ID": 225,
+        "Question": "For the lab test 'Eosinophils' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'White blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-75"
+    },
+    {
+        "ID": 226,
+        "Question": "For the lab test 'Epinephrine' measuring in 'pmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<273"
+    },
+    {
+        "ID": 227,
+        "Question": "For the lab test 'Epinephrine' measuring in 'nmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<109"
+    },
+    {
+        "ID": 228,
+        "Question": "For the lab test 'Erythrocyte count' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Female' and 'any age group' in the category 'Red blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.9-5.5"
+    },
+    {
+        "ID": 229,
+        "Question": "For the lab test 'Erythrocyte count' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Male' and 'any age group' in the category 'Red blood cell count', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.6-6.0"
+    },
+    {
+        "ID": 230,
+        "Question": "For the lab test 'Erythrocyte sedimentation rate (ESR)' measuring in 'mm/h' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-20"
+    },
+    {
+        "ID": 231,
+        "Question": "For the lab test 'Erythropoietin' measuring in 'IU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-36"
+    },
+    {
+        "ID": 232,
+        "Question": "For the lab test 'Estradiol (E2)' measuring in 'pmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "73-1285"
+    },
+    {
+        "ID": 233,
+        "Question": "For the lab test 'Estradiol (E2)' measuring in 'pmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Midcycle peak' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "551-2753"
+    },
+    {
+        "ID": 234,
+        "Question": "For the lab test 'Estradiol (E2)' measuring in 'pmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "110-1652"
+    },
+    {
+        "ID": 235,
+        "Question": "For the lab test 'Estradiol (E2)' measuring in 'pmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<218"
+    },
+    {
+        "ID": 236,
+        "Question": "For the lab test 'Estradiol (E2)' measuring in 'pmol/L' in Specimen 'Serum' for 'Male' and 'any age group' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<184"
+    },
+    {
+        "ID": 237,
+        "Question": "For the lab test 'Estriol (E3)' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' with the condition 'Nonpregnant' in the category 'Unconjugated', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<6.9"
+    },
+    {
+        "ID": 238,
+        "Question": "For the lab test 'Estrogens' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "60-200"
+    },
+    {
+        "ID": 239,
+        "Question": "For the lab test 'Estrogens' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "160-400"
+    },
+    {
+        "ID": 240,
+        "Question": "For the lab test 'Estrogens' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<130"
+    },
+    {
+        "ID": 241,
+        "Question": "For the lab test 'Estrogens' measuring in 'ng/L' in Specimen 'Serum' for 'Male' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-80"
+    },
+    {
+        "ID": 242,
+        "Question": "For the lab test 'Estrone (E1)' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "370-925"
+    },
+    {
+        "ID": 243,
+        "Question": "For the lab test 'Estrone (E1)' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "55-740"
+    },
+    {
+        "ID": 244,
+        "Question": "For the lab test 'Estrone (E1)' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'Female' and 'any age group' with the condition 'Postmenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "55-204"
+    },
+    {
+        "ID": 245,
+        "Question": "For the lab test 'Estrone (E1)' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "55-240"
+    },
+    {
+        "ID": 246,
+        "Question": "For the lab test 'Ethanol (ethyl alcohol)' measuring in 'mmol/L' in Specimen 'Serum, whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">17.4"
+    },
+    {
+        "ID": 247,
+        "Question": "For the lab test 'Ethanol (ethyl alcohol)' measuring in 'mmol/L' in Specimen 'Serum, whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21.7"
+    },
+    {
+        "ID": 248,
+        "Question": "For the lab test 'Ethosuximide' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "283-708"
+    },
+    {
+        "ID": 249,
+        "Question": "For the lab test 'Ethylene glycol' measuring in 'mmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">5"
+    },
+    {
+        "ID": 250,
+        "Question": "For the lab test 'Everolimus' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-16"
+    },
+    {
+        "ID": 251,
+        "Question": "For the lab test 'Fatty acids' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group' in the category 'Nonesterified', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.28-0.89"
+    },
+    {
+        "ID": 252,
+        "Question": "For the lab test 'Fecal fat' measuring in 'g/day' in Specimen 'Stool' for 'any gender' and 'any age group' in the category 'Stearic acid', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2-6"
+    },
+    {
+        "ID": 253,
+        "Question": "For the lab test 'Felbamate' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "126-252"
+    },
+    {
+        "ID": 254,
+        "Question": "For the lab test 'Ferritin' measuring in 'μg/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15-200"
+    },
+    {
+        "ID": 255,
+        "Question": "For the lab test 'α­-Fetoprotein' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<10"
+    },
+    {
+        "ID": 256,
+        "Question": "For the lab test 'Fibrinogen' measuring in 'g/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.5-4.0"
+    },
+    {
+        "ID": 257,
+        "Question": "For the lab test 'Fibrin breakdown products (fibrin split products)' measuring in 'mg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<10"
+    },
+    {
+        "ID": 258,
+        "Question": "For the lab test 'Folate (folic acid)' measuring in 'nmol/L' in Specimen 'Red blood cells' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "376-1450"
+    },
+    {
+        "ID": 259,
+        "Question": "For the lab test 'Folate (folic acid)' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11-57"
+    },
+    {
+        "ID": 260,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.3-9.9"
+    },
+    {
+        "ID": 261,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Ovulatory phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.1-17.2"
+    },
+    {
+        "ID": 262,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-9.2"
+    },
+    {
+        "ID": 263,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "19.3-100.6"
+    },
+    {
+        "ID": 264,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.4-15.4"
+    },
+    {
+        "ID": 265,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/day' in Specimen 'Urine' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2-15"
+    },
+    {
+        "ID": 266,
+        "Question": "For the lab test 'Follicle--stimulating hormone (FSH)' measuring in 'IU/day' in Specimen 'Urine' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3-11"
+    },
+    {
+        "ID": 267,
+        "Question": "For the lab test 'Fructosamine' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.5-2.7"
+    },
+    {
+        "ID": 268,
+        "Question": "For the lab test 'Gabapentin' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-117"
+    },
+    {
+        "ID": 269,
+        "Question": "For the lab test 'Gastrin' measuring in 'ng/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<100"
+    },
+    {
+        "ID": 270,
+        "Question": "For the lab test 'Gentamicin' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-21"
+    },
+    {
+        "ID": 271,
+        "Question": "For the lab test 'Glucagon' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-100"
+    },
+    {
+        "ID": 272,
+        "Question": "For the lab test 'Glucose' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.9-6.1"
+    },
+    {
+        "ID": 273,
+        "Question": "For the lab test 'Glucose' measuring in 'mmol/L' in Specimen 'Cerebrospinal fluid' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.8-4.4"
+    },
+    {
+        "ID": 274,
+        "Question": "For the lab test 'Glucose--6--phosphate dehydrogenase' measuring in 'U/mol of Hb' in Specimen 'Red blood cells' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.65-0.90"
+    },
+    {
+        "ID": 275,
+        "Question": "For the lab test 'Glutamic acid' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15-190"
+    },
+    {
+        "ID": 276,
+        "Question": "For the lab test 'Glutamine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "420-700"
+    },
+    {
+        "ID": 277,
+        "Question": "For the lab test 'γ­-Glutamyltransferase (GGT; γ-­glutamyl transpeptidase)' measuring in 'μKat/L' in Specimen 'Serum' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.51"
+    },
+    {
+        "ID": 278,
+        "Question": "For the lab test 'γ­-Glutamyltransferase (GGT; γ-­glutamyl transpeptidase)' measuring in 'μKat/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.85"
+    },
+    {
+        "ID": 279,
+        "Question": "For the lab test 'Glycerol' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Free', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.16"
+    },
+    {
+        "ID": 280,
+        "Question": "For the lab test 'Glycine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "120-560"
+    },
+    {
+        "ID": 281,
+        "Question": "For the lab test 'Glycated hemoglobin (hemoglobin A1, A1c)' measuring in 'Fraction of total Hb' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Whole blood', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-5.6"
+    },
+    {
+        "ID": 282,
+        "Question": "For the lab test 'Gold' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5.1-10.2"
+    },
+    {
+        "ID": 283,
+        "Question": "For the lab test 'Growth hormone (GH, somatotropin)' measuring in 'μg/L' in Specimen 'Plasma, serum' for 'any gender' and 'Adult', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<10"
+    },
+    {
+        "ID": 284,
+        "Question": "For the lab test 'Haloperidol' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "13-52"
+    },
+    {
+        "ID": 285,
+        "Question": "For the lab test 'Haptoglobin' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.4-1.8"
+    },
+    {
+        "ID": 286,
+        "Question": "For the lab test 'Hematocrit' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.41-0.50"
+    },
+    {
+        "ID": 287,
+        "Question": "For the lab test 'Hematocrit' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.35-0.45"
+    },
+    {
+        "ID": 288,
+        "Question": "For the lab test 'Hemoglobin' measuring in 'g/L' in Specimen 'Whole blood' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "135-175"
+    },
+    {
+        "ID": 289,
+        "Question": "For the lab test 'Hemoglobin' measuring in 'g/L' in Specimen 'Whole blood' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "120-155"
+    },
+    {
+        "ID": 290,
+        "Question": "For the lab test 'Hemoglobin' measuring in 'mmol/L' in Specimen 'Whole blood' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8.44-10.65"
+    },
+    {
+        "ID": 291,
+        "Question": "For the lab test 'Hemoglobin' measuring in 'mmol/L' in Specimen 'Whole blood' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.45-9.30"
+    },
+    {
+        "ID": 292,
+        "Question": "For the lab test 'Hemoglobin A1c' measuring in 'Fraction of total Hb' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Glycated hemoglobin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-5.6"
+    },
+    {
+        "ID": 293,
+        "Question": "For the lab test 'Hemoglobin A2' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.0-3.5"
+    },
+    {
+        "ID": 294,
+        "Question": "For the lab test 'Hemoglobin F (fetal hemoglobin)' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'Adult', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<2"
+    },
+    {
+        "ID": 295,
+        "Question": "For the lab test 'Histidine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-110"
+    },
+    {
+        "ID": 296,
+        "Question": "For the lab test 'Homocysteine' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-12"
+    },
+    {
+        "ID": 297,
+        "Question": "For the lab test 'Homovanillic acid' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<45"
+    },
+    {
+        "ID": 298,
+        "Question": "For the lab test 'Human chorionic gonadotropin (hCG)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'Adult' with the condition 'Nonpregnant', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<3"
+    },
+    {
+        "ID": 299,
+        "Question": "For the lab test 'β-Hydroxybutyric acid' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-270"
+    },
+    {
+        "ID": 300,
+        "Question": "For the lab test '5--Hydroxyindoleacetic acid (5-HIAA)' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<131"
+    },
+    {
+        "ID": 301,
+        "Question": "For the lab test '17α-­Hydroxyprogesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.4-2.1"
+    },
+    {
+        "ID": 302,
+        "Question": "For the lab test '17α-­Hydroxyprogesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-8.7"
+    },
+    {
+        "ID": 303,
+        "Question": "For the lab test '17α-­Hydroxyprogesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<2.1"
+    },
+    {
+        "ID": 304,
+        "Question": "For the lab test '17α-­Hydroxyprogesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.8-6.0"
+    },
+    {
+        "ID": 305,
+        "Question": "For the lab test 'Hydroxyproline' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<42"
+    },
+    {
+        "ID": 306,
+        "Question": "For the lab test '5--Hydroxytryptamine' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Serotonin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.28-1.14"
+    },
+    {
+        "ID": 307,
+        "Question": "For the lab test 'Ibuprofen' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "49-243"
+    },
+    {
+        "ID": 308,
+        "Question": "For the lab test 'Imipramine' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "536-893"
+    },
+    {
+        "ID": 309,
+        "Question": "For the lab test 'Immunoglobulin A (IgA)' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-3.5"
+    },
+    {
+        "ID": 310,
+        "Question": "For the lab test 'Immunoglobulin D (IgD)' measuring in 'mg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-30"
+    },
+    {
+        "ID": 311,
+        "Question": "For the lab test 'Immunoglobulin E (IgE)' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "24-430"
+    },
+    {
+        "ID": 312,
+        "Question": "For the lab test 'Immunoglobulin G (IgG)' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.0-15.6"
+    },
+    {
+        "ID": 313,
+        "Question": "For the lab test 'Immunoglobulin M (IgM)' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-2.2"
+    },
+    {
+        "ID": 314,
+        "Question": "For the lab test 'Insulin' measuring in 'pmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "34.7-138.9"
+    },
+    {
+        "ID": 315,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-3.6"
+    },
+    {
+        "ID": 316,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Early follicular', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5.5-28.2"
+    },
+    {
+        "ID": 317,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Late follicular', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "19.5-102.3"
+    },
+    {
+        "ID": 318,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Midcycle', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "49.9-155.5"
+    },
+    {
+        "ID": 319,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Midluteal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "13.2-159.6"
+    },
+    {
+        "ID": 320,
+        "Question": "For the lab test 'Inhibin A' measuring in 'ng/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-3.9"
+    },
+    {
+        "ID": 321,
+        "Question": "For the lab test 'Insulin C--peptide' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'C-peptide', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.17-1.17"
+    },
+    {
+        "ID": 322,
+        "Question": "For the lab test 'Insulin--like growth factor' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "130-450"
+    },
+    {
+        "ID": 323,
+        "Question": "For the lab test 'Ionized calcium' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.15-1.27"
+    },
+    {
+        "ID": 324,
+        "Question": "For the lab test 'Iron' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10.7-26.9"
+    },
+    {
+        "ID": 325,
+        "Question": "For the lab test 'Iron--binding capacity' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "44.8-71.6"
+    },
+    {
+        "ID": 326,
+        "Question": "For the lab test 'Isoleucine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "40-100"
+    },
+    {
+        "ID": 327,
+        "Question": "For the lab test 'Isoniazid' measuring in 'μmol/L' in Specimen 'Plasma or serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7-51"
+    },
+    {
+        "ID": 328,
+        "Question": "For the lab test 'Isopropanol' measuring in 'mmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">6.64"
+    },
+    {
+        "ID": 329,
+        "Question": "For the lab test 'Lactate (lactic acid)' measuring in 'mmol/L' in Specimen 'Arterial blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.3-1.3"
+    },
+    {
+        "ID": 330,
+        "Question": "For the lab test 'Lactate (lactic acid)' measuring in 'mmol/L' in Specimen 'Venous blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-2.2"
+    },
+    {
+        "ID": 331,
+        "Question": "For the lab test 'Lactate dehydrogenase (LDH, LD)' measuring in 'U/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "50-200"
+    },
+    {
+        "ID": 332,
+        "Question": "For the lab test 'Lamotrigine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-59"
+    },
+    {
+        "ID": 333,
+        "Question": "For the lab test 'Lead' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">0.24"
+    },
+    {
+        "ID": 334,
+        "Question": "For the lab test 'Leucine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "75-175"
+    },
+    {
+        "ID": 335,
+        "Question": "For the lab test 'Leukocyte count' measuring in '109 L-1' in Specimen 'nan' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.5-11.0"
+    },
+    {
+        "ID": 336,
+        "Question": "For the lab test 'Levetiracetam' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "71-270"
+    },
+    {
+        "ID": 337,
+        "Question": "For the lab test 'Lidocaine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.4-25.6"
+    },
+    {
+        "ID": 338,
+        "Question": "For the lab test 'Lipase' measuring in 'μKat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-2.72"
+    },
+    {
+        "ID": 339,
+        "Question": "For the lab test 'Lipoprotein(a) (Lp(a))' measuring in 'g/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.1-0.3"
+    },
+    {
+        "ID": 340,
+        "Question": "For the lab test 'Lithium' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.6-1.2"
+    },
+    {
+        "ID": 341,
+        "Question": "For the lab test 'Lorazepam' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "156-746"
+    },
+    {
+        "ID": 342,
+        "Question": "For the lab test 'Luteinizing hormone (LH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.0-15.0"
+    },
+    {
+        "ID": 343,
+        "Question": "For the lab test 'Luteinizing hormone (LH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Ovulatory peak', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "22.0-105.0"
+    },
+    {
+        "ID": 344,
+        "Question": "For the lab test 'Luteinizing hormone (LH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.6-19.0"
+    },
+    {
+        "ID": 345,
+        "Question": "For the lab test 'Luteinizing hormone (LH)' measuring in 'IU/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Postmenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "16.0-64.0"
+    },
+    {
+        "ID": 346,
+        "Question": "For the lab test 'Luteinizing hormone (LH)' measuring in 'IU/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.0-12.0"
+    },
+    {
+        "ID": 347,
+        "Question": "For the lab test 'Lymphocytes' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-4.8"
+    },
+    {
+        "ID": 348,
+        "Question": "For the lab test 'Lymphocytes' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.34"
+    },
+    {
+        "ID": 349,
+        "Question": "For the lab test 'Lysine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-240"
+    },
+    {
+        "ID": 350,
+        "Question": "For the lab test 'Lysozyme (muramidase)' measuring in 'mg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-13"
+    },
+    {
+        "ID": 351,
+        "Question": "For the lab test 'Magnesium' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.62-1.03"
+    },
+    {
+        "ID": 352,
+        "Question": "For the lab test 'Manganese' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "182-218"
+    },
+    {
+        "ID": 353,
+        "Question": "For the lab test 'Maprotiline ' measuring in 'μg/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "200-600"
+    },
+    {
+        "ID": 354,
+        "Question": "For the lab test 'Mean corpuscular hemoglobin (MCH)' measuring in 'pg/cell' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "27-33"
+    },
+    {
+        "ID": 355,
+        "Question": "For the lab test 'Mean corpuscular hemoglobin (MCH)' measuring in 'fmol' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.70-2.05"
+    },
+    {
+        "ID": 356,
+        "Question": "For the lab test 'Mean corpuscular hemoglobin concentration (MCHC)' measuring in 'g Hb/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "330-370"
+    },
+    {
+        "ID": 357,
+        "Question": "For the lab test 'Mean corpuscular hemoglobin concentration (MCHC)' measuring in 'mmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-23"
+    },
+    {
+        "ID": 358,
+        "Question": "For the lab test 'Meperidine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.6-2.8"
+    },
+    {
+        "ID": 359,
+        "Question": "For the lab test 'Mercury' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.0-294.4"
+    },
+    {
+        "ID": 360,
+        "Question": "For the lab test 'Metanephrines' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<5"
+    },
+    {
+        "ID": 361,
+        "Question": "For the lab test 'Methadone' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.32-1.29"
+    },
+    {
+        "ID": 362,
+        "Question": "For the lab test 'Methanol' measuring in 'mmol/L' in Specimen 'Whole blood, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">0.05"
+    },
+    {
+        "ID": 363,
+        "Question": "For the lab test 'Methemoglobin' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<37.2"
+    },
+    {
+        "ID": 364,
+        "Question": "For the lab test 'Methemoglobin' measuring in 'Fraction of total Hb' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.01"
+    },
+    {
+        "ID": 365,
+        "Question": "For the lab test 'Methionine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6-40"
+    },
+    {
+        "ID": 366,
+        "Question": "For the lab test 'Methsuximide' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "53-212"
+    },
+    {
+        "ID": 367,
+        "Question": "For the lab test 'Methyldopa' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-24"
+    },
+    {
+        "ID": 368,
+        "Question": "For the lab test 'Metoprolol' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "281-748"
+    },
+    {
+        "ID": 369,
+        "Question": "For the lab test 'Mexthotrexate' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">9"
+    },
+    {
+        "ID": 370,
+        "Question": "For the lab test 'Mexthotrexate' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">0.99"
+    },
+    {
+        "ID": 371,
+        "Question": "For the lab test 'β₂-Microglobulinn' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<170"
+    },
+    {
+        "ID": 372,
+        "Question": "For the lab test 'Monocytes' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.80"
+    },
+    {
+        "ID": 373,
+        "Question": "For the lab test 'Monocytes' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.04"
+    },
+    {
+        "ID": 374,
+        "Question": "For the lab test 'Morphine' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-280"
+    },
+    {
+        "ID": 375,
+        "Question": "For the lab test 'Muramidase' measuring in 'mg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-13"
+    },
+    {
+        "ID": 376,
+        "Question": "For the lab test 'Mycophenolic acid' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-11"
+    },
+    {
+        "ID": 377,
+        "Question": "For the lab test 'Naproxen' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">217"
+    },
+    {
+        "ID": 378,
+        "Question": "For the lab test 'Neutrophils' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.8-7.8"
+    },
+    {
+        "ID": 379,
+        "Question": "For the lab test 'Neutrophils' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.56"
+    },
+    {
+        "ID": 380,
+        "Question": "For the lab test 'Niacin (nicotinic acid)' measuring in 'μmol/day' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Vitamin B₃', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.65-61.69"
+    },
+    {
+        "ID": 381,
+        "Question": "For the lab test 'Nickel' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "17-476"
+    },
+    {
+        "ID": 382,
+        "Question": "For the lab test 'Nicotine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.062-0.308"
+    },
+    {
+        "ID": 383,
+        "Question": "For the lab test 'Norepinephrine' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "650-2423"
+    },
+    {
+        "ID": 384,
+        "Question": "For the lab test 'Norepinephrine' measuring in 'nmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "89-473"
+    },
+    {
+        "ID": 385,
+        "Question": "For the lab test 'Nortriptyline' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "190-570"
+    },
+    {
+        "ID": 386,
+        "Question": "For the lab test 'N--telopeptide (BCE, bone collagen equivalents)' measuring in 'nmol BCE/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5.4-24.2"
+    },
+    {
+        "ID": 387,
+        "Question": "For the lab test 'N--telopeptide (BCE, bone collagen equivalents)' measuring in 'nmol BCE/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Premenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.2-19.0"
+    },
+    {
+        "ID": 388,
+        "Question": "For the lab test 'Ornithine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "30-106"
+    },
+    {
+        "ID": 389,
+        "Question": "For the lab test 'Osmolality' measuring in 'mmol/kg H₂O' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "275-295"
+    },
+    {
+        "ID": 390,
+        "Question": "For the lab test 'Osmolality' measuring in 'mmol/kg H₂O' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "250-900"
+    },
+    {
+        "ID": 391,
+        "Question": "For the lab test 'Osteocalcin' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.0-13.0"
+    },
+    {
+        "ID": 392,
+        "Question": "For the lab test 'Oxalate' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11-27"
+    },
+    {
+        "ID": 393,
+        "Question": "For the lab test 'Oxazepam' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.7-54.9"
+    },
+    {
+        "ID": 394,
+        "Question": "For the lab test 'Oxycodone' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-317"
+    },
+    {
+        "ID": 395,
+        "Question": "For the lab test 'Oxygen' measuring in 'mm Hg' in Specimen 'Arterial blood' for 'any gender' and 'any age group' in the category 'Partial pressure (Po₂)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "80-100"
+    },
+    {
+        "ID": 396,
+        "Question": "For the lab test 'Pantothenic acid' measuring in 'μmol/L' in Specimen 'nan' for 'any gender' and 'any age group' in the category 'Vitamin B₅', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.9-8.2"
+    },
+    {
+        "ID": 397,
+        "Question": "For the lab test 'Parathyroid hormone' measuring in 'ng/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Intact', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-50"
+    },
+    {
+        "ID": 398,
+        "Question": "For the lab test 'Parathyroid hormone' measuring in 'ng/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'N--terminal specific', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-24"
+    },
+    {
+        "ID": 399,
+        "Question": "For the lab test 'Parathyroid hormone' measuring in 'ng/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'C--terminal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-340"
+    },
+    {
+        "ID": 400,
+        "Question": "For the lab test 'Pentobarbital' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.0-22"
+    },
+    {
+        "ID": 401,
+        "Question": "For the lab test 'Pepsinogen I' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "28-100"
+    },
+    {
+        "ID": 402,
+        "Question": "For the lab test 'pH' measuring in 'nan' in Specimen 'Arterial blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.35-7.45"
+    },
+    {
+        "ID": 403,
+        "Question": "For the lab test 'Phenobarbital' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "65-172"
+    },
+    {
+        "ID": 404,
+        "Question": "For the lab test 'Phenylalanine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-90"
+    },
+    {
+        "ID": 405,
+        "Question": "For the lab test 'Phenytoin' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "40-79"
+    },
+    {
+        "ID": 406,
+        "Question": "For the lab test 'Phosphatase, tartrate--resistant acid' measuring in 'μkat/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.03-0.08"
+    },
+    {
+        "ID": 407,
+        "Question": "For the lab test 'Phosphorus' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Inorganic', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.74-1.52"
+    },
+    {
+        "ID": 408,
+        "Question": "For the lab test 'Phosphorus' measuring in 'mmol/day' in Specimen 'Urine' for 'any gender' and 'any age group' in the category 'Inorganic', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12.9-42.0"
+    },
+    {
+        "ID": 409,
+        "Question": "For the lab test 'Plasminogen' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.80-1.20"
+    },
+    {
+        "ID": 410,
+        "Question": "For the lab test 'Plasminogen activator inhibitor activity' measuring in 'IU/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3-56"
+    },
+    {
+        "ID": 411,
+        "Question": "For the lab test 'Platelet count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "150-450"
+    },
+    {
+        "ID": 412,
+        "Question": "For the lab test 'Porphobilinogen deaminase' measuring in 'nmol/s/L' in Specimen 'Red blood cells' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">7.0"
+    },
+    {
+        "ID": 413,
+        "Question": "For the lab test 'Potassium' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.5-5.0"
+    },
+    {
+        "ID": 414,
+        "Question": "For the lab test 'Prealbumin-transthyretin' measuring in 'g/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.18-0.45"
+    },
+    {
+        "ID": 415,
+        "Question": "For the lab test 'Pregnanediol' measuring in 'μmol/day' in Specimen 'Urine' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<8"
+    },
+    {
+        "ID": 416,
+        "Question": "For the lab test 'Pregnanediol' measuring in 'μmol/day' in Specimen 'Urine' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "8-33"
+    },
+    {
+        "ID": 417,
+        "Question": "For the lab test 'Pregnanediol' measuring in 'μmol/day' in Specimen 'Urine' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-5.9"
+    },
+    {
+        "ID": 418,
+        "Question": "For the lab test 'Pregnanetriol' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<7.5"
+    },
+    {
+        "ID": 419,
+        "Question": "For the lab test 'Primidone' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "23-55"
+    },
+    {
+        "ID": 420,
+        "Question": "For the lab test 'Procainamide' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "17-42"
+    },
+    {
+        "ID": 421,
+        "Question": "For the lab test 'Progesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Follicular phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-2.2"
+    },
+    {
+        "ID": 422,
+        "Question": "For the lab test 'Progesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Female' and 'any age group' with the condition 'Luteal phase', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.4-79.5"
+    },
+    {
+        "ID": 423,
+        "Question": "For the lab test 'Progesterone' measuring in 'nmol/L' in Specimen 'Serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.4-3.1"
+    },
+    {
+        "ID": 424,
+        "Question": "For the lab test 'Prolactin' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group' with the condition 'Nonlactating', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1-25"
+    },
+    {
+        "ID": 425,
+        "Question": "For the lab test 'Proline' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "104-340"
+    },
+    {
+        "ID": 426,
+        "Question": "For the lab test 'Propoxyphene' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.3-1.2"
+    },
+    {
+        "ID": 427,
+        "Question": "For the lab test 'Propanolol' measuring in 'nmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "190-386"
+    },
+    {
+        "ID": 428,
+        "Question": "For the lab test 'Protein' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "60-80"
+    },
+    {
+        "ID": 429,
+        "Question": "For the lab test 'Protein C activity' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.70-1.40"
+    },
+    {
+        "ID": 430,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Albumin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.52-0.65"
+    },
+    {
+        "ID": 431,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₁--Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.025-0.05"
+    },
+    {
+        "ID": 432,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₂-­Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.07-0.13"
+    },
+    {
+        "ID": 433,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'β-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.08-0.14"
+    },
+    {
+        "ID": 434,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'γ­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.12-0.22"
+    },
+    {
+        "ID": 435,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Albumin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-56"
+    },
+    {
+        "ID": 436,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₁--Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1-10"
+    },
+    {
+        "ID": 437,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₂-­Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-12"
+    },
+    {
+        "ID": 438,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'β-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-11"
+    },
+    {
+        "ID": 439,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'γ­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-16"
+    },
+    {
+        "ID": 440,
+        "Question": "For the lab test 'Protein S activity' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.70-1.40"
+    },
+    {
+        "ID": 441,
+        "Question": "For the lab test 'Protein S free antigen' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.80-1.60"
+    },
+    {
+        "ID": 442,
+        "Question": "For the lab test 'Prothrombin time (PT)' measuring in 'seconds' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-13"
+    },
+    {
+        "ID": 443,
+        "Question": "For the lab test 'Protoporphyrin' measuring in 'μmol/L' in Specimen 'Red blood cells' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.27-0.89"
+    },
+    {
+        "ID": 444,
+        "Question": "For the lab test 'Prostate--specific antigen (PSA)' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-4.0"
+    },
+    {
+        "ID": 445,
+        "Question": "For the lab test 'Pyridinium cross-links (deoxypyridinoline)' measuring in 'nmol/mmol creatinine' in Specimen 'Urine' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10.3-20"
+    },
+    {
+        "ID": 446,
+        "Question": "For the lab test 'Pyridinium cross-links (deoxypyridinoline)' measuring in 'nmol/mmol creatinine' in Specimen 'Urine' for 'Female' and 'any age group' with the condition 'Premenopausal', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15.3-33.6"
+    },
+    {
+        "ID": 447,
+        "Question": "For the lab test 'Pyridoxine' measuring in 'nmol/L' in Specimen 'nan' for 'any gender' and 'any age group' in the category 'Vitamin B₆', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-121"
+    },
+    {
+        "ID": 448,
+        "Question": "For the lab test 'Pyruvate' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Pyruvic acid', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "34-102"
+    },
+    {
+        "ID": 449,
+        "Question": "For the lab test 'Quinidine' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.2-15.4"
+    },
+    {
+        "ID": 450,
+        "Question": "For the lab test 'Red blood cell count' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.9-5.5"
+    },
+    {
+        "ID": 451,
+        "Question": "For the lab test 'Red blood cell count' measuring in '1012 L-1' in Specimen 'Whole blood' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.6-6.0"
+    },
+    {
+        "ID": 452,
+        "Question": "For the lab test 'Red cell folate' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Folate', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11-57"
+    },
+    {
+        "ID": 453,
+        "Question": "For the lab test 'Renin' measuring in 'ng/mL/h' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.1-4.1"
+    },
+    {
+        "ID": 454,
+        "Question": "For the lab test 'Reticulocyte count' measuring in '10⁹ μL-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-75"
+    },
+    {
+        "ID": 455,
+        "Question": "For the lab test 'Reticulocyte count' measuring in 'Fraction of RBCs' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Fraction', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.005-0.015"
+    },
+    {
+        "ID": 456,
+        "Question": "For the lab test 'Retinol' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Vitamin A', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.05-2.80"
+    },
+    {
+        "ID": 457,
+        "Question": "For the lab test 'Rheumatoid factor' measuring in 'kIU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<30"
+    },
+    {
+        "ID": 458,
+        "Question": "For the lab test 'Riboflavin' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Vitamin B₂', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "106-638"
+    },
+    {
+        "ID": 459,
+        "Question": "For the lab test 'Salicylates' measuring in 'mmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.08-2.17"
+    },
+    {
+        "ID": 460,
+        "Question": "For the lab test 'Sedimentation rate' measuring in 'mm/hour' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Erythrocyte sedimentation rate (ESR)', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-20"
+    },
+    {
+        "ID": 461,
+        "Question": "For the lab test 'Selenium' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.74-2.97"
+    },
+    {
+        "ID": 462,
+        "Question": "For the lab test 'Serine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "65-193"
+    },
+    {
+        "ID": 463,
+        "Question": "For the lab test 'Serotonin (5--hydroxytryptamine)' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.28-1.14"
+    },
+    {
+        "ID": 464,
+        "Question": "For the lab test 'Sertraline' measuring in 'nmol/L' in Specimen 'Serum or plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "33-164"
+    },
+    {
+        "ID": 465,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Albumin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.52-0.65"
+    },
+    {
+        "ID": 466,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₁--Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.025-0.05"
+    },
+    {
+        "ID": 467,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₂-­Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.07-0.13"
+    },
+    {
+        "ID": 468,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'β­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.08-0.14"
+    },
+    {
+        "ID": 469,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'γ­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.12-0.22"
+    },
+    {
+        "ID": 470,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Albumin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "32-56"
+    },
+    {
+        "ID": 471,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₁--Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1-10"
+    },
+    {
+        "ID": 472,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'α₂-­Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-12"
+    },
+    {
+        "ID": 473,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'β­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-11"
+    },
+    {
+        "ID": 474,
+        "Question": "For the lab test 'Protein electrophoresis (serum protein electrophoresis [SPEP])' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'γ­-Globulin', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "5-16"
+    },
+    {
+        "ID": 475,
+        "Question": "For the lab test 'Sex hormone-binding globulin' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "17.4-52.1"
+    },
+    {
+        "ID": 476,
+        "Question": "For the lab test 'Sirolimus' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-22"
+    },
+    {
+        "ID": 477,
+        "Question": "For the lab test 'Sodium' measuring in 'mmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "136-142"
+    },
+    {
+        "ID": 478,
+        "Question": "For the lab test 'Somatostatin' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<25"
+    },
+    {
+        "ID": 479,
+        "Question": "For the lab test 'Somatomedin C' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Insulin-like growth factor', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "130-450"
+    },
+    {
+        "ID": 480,
+        "Question": "For the lab test 'Strychnine' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">1.5"
+    },
+    {
+        "ID": 481,
+        "Question": "For the lab test 'Substance P' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<240"
+    },
+    {
+        "ID": 482,
+        "Question": "For the lab test 'Sulfhemoglobin' measuring in 'Fraction of total Hb' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<0.010"
+    },
+    {
+        "ID": 483,
+        "Question": "For the lab test 'Tacrolimus' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-25"
+    },
+    {
+        "ID": 484,
+        "Question": "For the lab test 'Taurine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "24-168"
+    },
+    {
+        "ID": 485,
+        "Question": "For the lab test 'Testosterone' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'Male' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10.4-41.6"
+    },
+    {
+        "ID": 486,
+        "Question": "For the lab test 'Testosterone' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'Female' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.95"
+    },
+    {
+        "ID": 487,
+        "Question": "For the lab test 'Theophylline' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "56-111"
+    },
+    {
+        "ID": 488,
+        "Question": "For the lab test 'Thiamine' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Vitamin B₁', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "74-222"
+    },
+    {
+        "ID": 489,
+        "Question": "For the lab test 'Thiocyanate' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "17-69"
+    },
+    {
+        "ID": 490,
+        "Question": "For the lab test 'Thiopental' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4-21"
+    },
+    {
+        "ID": 491,
+        "Question": "For the lab test 'Thioridazine' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.7-4.1"
+    },
+    {
+        "ID": 492,
+        "Question": "For the lab test 'Thrombin time' measuring in 'seconds' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "16-24"
+    },
+    {
+        "ID": 493,
+        "Question": "For the lab test 'Threonine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "75-210"
+    },
+    {
+        "ID": 494,
+        "Question": "For the lab test 'Thyroglobulin' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3-42"
+    },
+    {
+        "ID": 495,
+        "Question": "For the lab test 'Thyrotropin (thyroid--stimulating hormone, TSH)' measuring in 'mU/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.5-5.0"
+    },
+    {
+        "ID": 496,
+        "Question": "For the lab test 'Thyroxine (FT₄)' measuring in 'pmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Free', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-30"
+    },
+    {
+        "ID": 497,
+        "Question": "For the lab test 'Thyroxine (T₄)' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "71-160"
+    },
+    {
+        "ID": 498,
+        "Question": "For the lab test 'Thyroxine--binding globulin (TBG)' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'T₄ binding capacity', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "129-335"
+    },
+    {
+        "ID": 499,
+        "Question": "For the lab test 'Tissue plasminogen activator' measuring in 'IU/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<40"
+    },
+    {
+        "ID": 500,
+        "Question": "For the lab test 'Tobramycin' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "10-21"
+    },
+    {
+        "ID": 501,
+        "Question": "For the lab test 'Tocainide' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "21-52"
+    },
+    {
+        "ID": 502,
+        "Question": "For the lab test 'Vitamin E (α-­tocopherol)' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category 'Vitamin E', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-42"
+    },
+    {
+        "ID": 503,
+        "Question": "For the lab test 'Topiramate' measuring in 'μmol/L' in Specimen 'Serum, plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "15-59"
+    },
+    {
+        "ID": 504,
+        "Question": "For the lab test 'Transferrin (siderophilin)' measuring in 'g/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.0-3.8"
+    },
+    {
+        "ID": 505,
+        "Question": "For the lab test 'Triglycerides' measuring in 'mmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.11-2.15"
+    },
+    {
+        "ID": 506,
+        "Question": "For the lab test 'Triiodothyronine (FT₃)' measuring in 'pmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Free', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.0-7.4"
+    },
+    {
+        "ID": 507,
+        "Question": "For the lab test 'Triiodothyronine' measuring in 'Fraction of 1.0' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Resin uptake', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.25-0.35"
+    },
+    {
+        "ID": 508,
+        "Question": "For the lab test 'Triiodothyronine (T₃)' measuring in 'nmol/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Total', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.08-3.14"
+    },
+    {
+        "ID": 509,
+        "Question": "For the lab test 'Troponin I' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Cardiac', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-0.4"
+    },
+    {
+        "ID": 510,
+        "Question": "For the lab test 'Troponin T' measuring in 'μg/L' in Specimen 'Serum' for 'any gender' and 'any age group' in the category 'Cardiac', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0-0.1"
+    },
+    {
+        "ID": 511,
+        "Question": "For the lab test 'Tryptophan' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "25-73"
+    },
+    {
+        "ID": 512,
+        "Question": "For the lab test 'Tyrosine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-90"
+    },
+    {
+        "ID": 513,
+        "Question": "For the lab test 'Urea nitrogen (BUN)' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "2.9-8.2"
+    },
+    {
+        "ID": 514,
+        "Question": "For the lab test 'Uric acid' measuring in 'mmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.24-0.51"
+    },
+    {
+        "ID": 515,
+        "Question": "For the lab test 'Urobilinogen' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.1-4.2"
+    },
+    {
+        "ID": 516,
+        "Question": "For the lab test 'Valine' measuring in 'μmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "145-315"
+    },
+    {
+        "ID": 517,
+        "Question": "For the lab test 'Valproic acid' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "346-1040"
+    },
+    {
+        "ID": 518,
+        "Question": "For the lab test 'Vancomycin' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "6.9-13.8"
+    },
+    {
+        "ID": 519,
+        "Question": "For the lab test 'Vanillylmandelic acid (VMA)' measuring in 'μmol/day' in Specimen 'Urine' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "11-38"
+    },
+    {
+        "ID": 520,
+        "Question": "For the lab test 'Vasoactive intestinal polypeptide' measuring in 'ng/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "<50"
+    },
+    {
+        "ID": 521,
+        "Question": "For the lab test 'Verapamil' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "220-1100"
+    },
+    {
+        "ID": 522,
+        "Question": "For the lab test 'Vitamin A (retinol)' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.05-2.80"
+    },
+    {
+        "ID": 523,
+        "Question": "For the lab test 'Vitamin B₁ (thiamine)' measuring in 'nmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "74-222"
+    },
+    {
+        "ID": 524,
+        "Question": "For the lab test 'Vitamin B₁₂ (cyanocobalamin)' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "106-638"
+    },
+    {
+        "ID": 525,
+        "Question": "For the lab test 'Vitamin B₂ (riboflavin)' measuring in 'μmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.9-8.2"
+    },
+    {
+        "ID": 526,
+        "Question": "For the lab test 'Vitamin B₅ (pantothenic acid)' measuring in 'nmol/L' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "20-121"
+    },
+    {
+        "ID": 527,
+        "Question": "For the lab test 'Vitamin B₆ (pyridoxine)' measuring in 'pmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "118-701"
+    },
+    {
+        "ID": 528,
+        "Question": "For the lab test 'Vitamin C (ascorbic acid)' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "23-85"
+    },
+    {
+        "ID": 529,
+        "Question": "For the lab test 'Vitamin D' measuring in 'pmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category '1,25--dihydroxyvitamin D', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "42-169"
+    },
+    {
+        "ID": 530,
+        "Question": "For the lab test 'Vitamin D' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group' in the category '25--hydroxyvitamin D', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "35-150"
+    },
+    {
+        "ID": 531,
+        "Question": "For the lab test 'Vitamin E (α-­tocopherol)' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "12-42"
+    },
+    {
+        "ID": 532,
+        "Question": "For the lab test 'Vitamin K' measuring in 'nmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.29-2.64"
+    },
+    {
+        "ID": 533,
+        "Question": "For the lab test 'von Willebrand factor' measuring in 'Fraction of 1.0' in Specimen 'Plasma' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.70-1.40"
+    },
+    {
+        "ID": 534,
+        "Question": "For the lab test 'Warfarin' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "3.2-32.4"
+    },
+    {
+        "ID": 535,
+        "Question": "For the lab test 'White blood cell count' measuring in '10⁹ μL-1' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "4.5-11.0"
+    },
+    {
+        "ID": 536,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Neutrophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.8-7.8"
+    },
+    {
+        "ID": 537,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Bands', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.70"
+    },
+    {
+        "ID": 538,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Lymphocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "1.0-4.8"
+    },
+    {
+        "ID": 539,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Monocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.80"
+    },
+    {
+        "ID": 540,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Eosinophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.45"
+    },
+    {
+        "ID": 541,
+        "Question": "For the lab test 'White blood cell count' measuring in '109 L-1' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Basophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.00-0.20"
+    },
+    {
+        "ID": 542,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Neutrophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.56"
+    },
+    {
+        "ID": 543,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Bands', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.03"
+    },
+    {
+        "ID": 544,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Lymphocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.34"
+    },
+    {
+        "ID": 545,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Monocytes', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.04"
+    },
+    {
+        "ID": 546,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Eosinophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.027"
+    },
+    {
+        "ID": 547,
+        "Question": "For the lab test 'White blood cell count' measuring in 'Fraction of 1.0' in Specimen 'Whole blood' for 'any gender' and 'any age group' in the category 'Basophils', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.003"
+    },
+    {
+        "ID": 548,
+        "Question": "For the lab test 'Xylose absorption test' measuring in 'mmol/L' in Specimen 'Whole blood' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": ">1.7"
+    },
+    {
+        "ID": 549,
+        "Question": "For the lab test 'Zidovudine' measuring in 'μmol/L' in Specimen 'Plasma, serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "0.56-1.01"
+    },
+    {
+        "ID": 550,
+        "Question": "For the lab test 'Zinc' measuring in 'μmol/L' in Specimen 'Serum' for 'any gender' and 'any age group', what is the correct lower and upper bound range values in SI reference range?",
+        "Answer": "7.7-23.0"
+    }
+]

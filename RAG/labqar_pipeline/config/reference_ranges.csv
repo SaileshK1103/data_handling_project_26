@@ -1,0 +1,26 @@
+parameter,unit,gender,age_group,lower_bound,upper_bound
+Glucose,mg/dL,all,adult,70.0,99.0
+Urea Nitrogen,mg/dL,all,adult,7.0,20.0
+Sodium,mmol/L,all,adult,135.0,145.0
+Potassium,mmol/L,all,adult,3.5,5.0
+Chloride,mmol/L,all,adult,96.0,106.0
+Calcium,mg/dL,all,adult,8.5,10.2
+Carbon Dioxide,mmol/L,all,adult,23.0,29.0
+Hemoglobin,g/dL,Female,adult,12.0,15.5
+Hemoglobin,g/dL,Male,adult,13.8,17.2
+Hemoglobin,g/dL,all,adult,12.0,17.2
+Hematocrit,%,Female,adult,37.0,48.0
+Hematocrit,%,Male,adult,41.0,50.0
+Hematocrit,%,all,adult,37.0,50.0
+Leukocytes,10*3/uL,all,adult,4.0,11.0
+Platelets,10*3/uL,all,adult,150.0,450.0
+Erythrocytes,10*6/uL,Female,adult,3.9,5.0
+Erythrocytes,10*6/uL,Male,adult,4.3,5.9
+Erythrocytes,10*6/uL,all,adult,3.9,5.9
+MCV,fL,all,adult,80.0,100.0
+Ferritin,ng/mL,Female,adult,11.0,307.0
+Ferritin,ng/mL,Male,adult,24.0,336.0
+Ferritin,ng/mL,all,adult,11.0,336.0
+ALT,U/L,all,adult,7.0,56.0
+TSH,mIU/L,all,adult,0.4,4.0
+HbA1c,%,all,adult,4.0,5.6

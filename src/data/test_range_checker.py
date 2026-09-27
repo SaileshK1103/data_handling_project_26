@@ -1,4 +1,3 @@
-import pandas as pd
 from range_checker import RangeChecker
 
 # Test the gender mapping fix
@@ -16,5 +15,5 @@ test_cases = [
 print("Testing gender-specific range mapping:")
 for param, value, gender, expected in test_cases:
     result = checker.evaluate(param, value, gender=gender)
-    status = "✓" if result == expected else "✗"
+    status = "[OK]" if result == expected else "[FAIL]"
     print(f"{status} {param}={value} (gender={gender}): got {result}, expected {expected}")

@@ -2,12 +2,6 @@ import os
 import sys
 import pandas as pd
 
-TARGET_TERMS = [
-    "glucose", "urea", "bun", "sodium", "potassium", "chloride", 
-    "calcium", "carbon dioxide", "bicarbonate", "hemoglobin", 
-    "hematocrit", "leukocyte", "white blood", "platelet", 
-    "erythrocyte", "red blood", "mcv", "ferritin", "tsh", "alt"
-]
 
 def run_inspection():
     obs_path = "data/raw/observations.csv"
@@ -35,8 +29,8 @@ def run_inspection():
     )
     summary['patient_coverage_%'] = (summary['patient_count'] / total_patients * 100).round(2)
 
-    pattern = '|'.join(TARGET_TERMS)
-    relevant = summary[summary['DESCRIPTION'].str.contains(pattern, case=False, na=False)].copy()
+    from dataset_builder import CODE_TO_PARAM
+    relevant = summary[summary['CODE'].isin(CODE_TO_PARAM.keys())].copy()
     relevant = relevant.sort_values(by='patient_count', ascending=False)
 
     relevant['status'] = relevant['patient_coverage_%'].apply(
