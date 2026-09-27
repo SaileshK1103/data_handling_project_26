@@ -52,7 +52,7 @@ def _format_context(hits) -> str:
 
 
 class RagQA:
-    def __init__(self, retriever: HybridRetriever = None, model: str = "gemini-3.1-pro-preview",
+    def __init__(self, retriever: HybridRetriever = None, model: str = "gemini-3.8-flash",
                  api_key: str = None):
         self.retriever = retriever or HybridRetriever()
         self.model = model
@@ -60,14 +60,10 @@ class RagQA:
         self._client = None
         if self.api_key:
             try:
-                import google.generativeai as genai
-                genai.configure(api_key=self.api_key)
-                self._client = genai.GenerativeModel(
-                    model_name=self.model,
-                    system_instruction=SYSTEM_PROMPT,
-                )
+                from google import genai
+                self._client = genai.Client(api_key=self.api_key)
             except ImportError:
-                print("WARNING: google-generativeai package not installed -- pip install google-generativeai")
+                print("WARNING: google-genai package not installed -- pip install google-genai")
 
     def answer(self, question: str, top_k: int = 3, metadata_filter: dict = None) -> dict:
         hits = self.retriever.retrieve_freetext(question, top_k=top_k, metadata_filter=metadata_filter)
@@ -82,7 +78,14 @@ class RagQA:
         else:
             user_msg = f"Question: {question}\n\nRetrieved passages:\n{context}\n\nAnswer the question."
             try:
-                resp = self._client.generate_content(user_msg)
+                from google.genai import types
+                resp = self._client.models.generate_content(
+                    model=self.model,
+                    contents=user_msg,
+                    config=types.GenerateContentConfig(
+                        system_instruction=SYSTEM_PROMPT,
+                    ),
+                )
                 answer_text = resp.text.strip()
             except Exception as e:
                 answer_text = f"[LLM call failed: {e}]\n" + context
