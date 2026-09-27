@@ -1,3 +1,16 @@
+"""
+STEP 2 — Turn the registry into RAG documents.
+
+A RAG "document" here is one retrievable unit: a single test's reference
+range in a single context (specimen + gender + age_group + category +
+condition), plus a natural-language rendering of that same information for
+lexical/semantic matching. Keeping structured fields *alongside* the text
+(rather than text-only) is what lets Step 3's retriever do exact filtering
+first and fall back to fuzzy text search only when needed -- important here
+because LabQAR's contexts (gender, specimen, age) change what the "correct"
+answer even is, so a text-only nearest-neighbor match could silently return
+the wrong context.
+"""
 
 import json
 from pathlib import Path

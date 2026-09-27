@@ -1,9 +1,67 @@
+"""
+STEP 7 — Wire the LabQAR RAG pipeline into your existing range_checker.py /
+dataset_builder.py, WITHOUT replacing either.
+
+This follows section 8 of your plan exactly:
+
+    Primary truth layer      -> your reference_ranges.csv (range_checker.py, unchanged)
+    Enrichment / secondary   -> LabQAR (steps 1-4 here)
+    Evaluation               -> LabQAR (step 5)
+    LLM                      -> explanation only (step 6)
+
+Why not just replace RangeChecker with RangeCheckerRAG?
+---------------------------------------------------------
+Your CSV is the one you control, validated for your own 20-parameter
+extraction vocabulary (dataset_builder.py's CODE_TO_PARAM), and -- per the
+plan -- more trustworthy than LabQAR for the ~10 parameters LabQAR itself
+can't disambiguate from text alone (see step3_retriever.py's docstring).
+Replacing it would trade a smaller, known-good source for a larger one with
+its own blind spots.
+
+What HybridRangeChecker actually does
+--------------------------------------
+1. Always evaluates against your CSV first (range_checker.RangeChecker) --
+   that result is what gets used for downstream Low/Normal/High flags, same
+   as today. dataset_builder.py's behavior does not change.
+2. In parallel, evaluates against LabQAR (RangeCheckerRAG) purely for
+   logging/audit -- did the two sources agree? This is exactly the
+   "corroborating source" framing from section 2A of the plan, just
+   implemented as a live check instead of a static merged JSON.
+3. Disagreements are collected, not surfaced as errors -- a disagreement
+   might mean your CSV needs a look, or it might be one of LabQAR's own
+   known-ambiguous parameters (again, see step3's docstring) and your CSV
+   is right to override it. This script doesn't decide which; it just
+   makes the discrepancy visible instead of silent.
+
+Drop-in for dataset_builder.py
+-------------------------------
+dataset_builder.py currently does:
+
+    from range_checker import RangeChecker
+    checker = RangeChecker()
+    ...
+    status = checker.evaluate(param, val, gender=gender)
+
+To get audit logging with NO change to the resulting dataset, swap only the
+import and constructor:
+
+    from step7_hybrid_checker import HybridRangeChecker
+    checker = HybridRangeChecker()
+    ...
+    status = checker.evaluate(param, val, gender=gender)   # unchanged call site
+
+Then, after build_datasets() finishes, call checker.print_audit_report() to
+see where LabQAR disagreed with your CSV -- a free correctness signal on
+reference_ranges.csv you didn't have before, at zero cost to the existing
+pipeline behavior.
+"""
+
 from range_checker import RangeChecker
 
 try:
     from step4_range_checker_rag import RangeCheckerRAG
     _LABQAR_AVAILABLE = True
-except Exception as e: 
+except Exception as e:  # missing artifacts/step2_corpus.jsonl, sklearn not installed, etc.
     _LABQAR_AVAILABLE = False
     _LABQAR_IMPORT_ERROR = e
 
@@ -22,7 +80,9 @@ class HybridRangeChecker:
         self.n_labqar_no_match = 0
 
     def evaluate(self, parameter: str, value: float, gender: str = "all", age: int = 40) -> str:
-        
+        """Same signature as range_checker.RangeChecker.evaluate() -- this
+        IS the primary decision, unchanged. The LabQAR call below never
+        affects the return value."""
         primary_status = self.primary.evaluate(parameter, value, gender=gender, age=age)
         self.n_checked += 1
 
@@ -64,6 +124,8 @@ class HybridRangeChecker:
 
 
 if __name__ == "__main__":
+    # Minimal smoke test using this repo's own artifacts. Requires
+    # config/reference_ranges.csv to exist -- point ref_file at yours.
     import os
     if not os.path.exists("config/reference_ranges.csv"):
         print("No config/reference_ranges.csv found in this environment -- "

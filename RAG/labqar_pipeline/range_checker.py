@@ -13,11 +13,21 @@ class RangeChecker:
         self.df_ref = pd.read_csv(ref_file)
 
     def _normalize_gender(self, gender: str) -> str:
+        """
+        Normalize gender input to standard format: Male, Female, or all
+        
+        Handles:
+        - Single letters: M, F, m, f
+        - Full names: Male, Female, male, female
+        - Default: all
+        """
         if not gender:
             return "all"
 
+        # First strip whitespace and convert to lowercase for comparison
         gender_clean = str(gender).strip().lower()
 
+        # Check for M/F codes first
         if gender_clean == "m":
             return "Male"
         elif gender_clean == "f":
@@ -27,6 +37,7 @@ class RangeChecker:
             return "Male"
         elif gender_clean == "female":
             return "Female"
+        # Default to all if unrecognized
         else:
             return "all"
 
@@ -37,9 +48,23 @@ class RangeChecker:
         gender: str = "all",
         age: int = 40
     ) -> str:
+        """
+        Evaluates a lab measurement and returns 'Low', 'Normal', or 'High'.
+        
+        Args:
+            parameter: Lab test name (e.g., 'Glucose', 'Hemoglobin')
+            value: Numeric lab value
+            gender: Patient gender (M, F, Male, Female, or 'all')
+            age: Patient age (for future age-group support)
+        
+        Returns:
+            'Low', 'Normal', or 'High'
+        """
 
+        # Normalize parameter name - case insensitive, strip whitespace
         param_clean = parameter.strip().lower()
 
+        # Find all matching parameters (case-insensitive)
         matches = self.df_ref[
             self.df_ref["parameter"].str.strip().str.lower() == param_clean
         ]
@@ -51,11 +76,14 @@ class RangeChecker:
             )
             return "Normal"
 
+        # Normalize gender to standard format
         gender_normalized = self._normalize_gender(gender)
 
+        # Get the appropriate row based on gender
         row = None
 
         if gender_normalized != "all":
+            # Try to find gender-specific range
             gender_matches = matches[
                 matches["gender"]
                 .astype(str)
@@ -67,6 +95,7 @@ class RangeChecker:
             if not gender_matches.empty:
                 row = gender_matches.iloc[0]
             else:
+                # If no gender-specific match, fall back to 'all'
                 all_matches = matches[
                     matches["gender"]
                     .astype(str)
@@ -78,8 +107,10 @@ class RangeChecker:
                 if not all_matches.empty:
                     row = all_matches.iloc[0]
                 else:
+                    # Last resort: use first available row
                     row = matches.iloc[0]
         else:
+            # gender="all" → directly use 'all' range
             all_matches = matches[
                 matches["gender"]
                 .astype(str)
@@ -91,6 +122,7 @@ class RangeChecker:
             if not all_matches.empty:
                 row = all_matches.iloc[0]
             else:
+                # Last resort: use first available row
                 row = matches.iloc[0]
 
         # Extract and validate bounds
