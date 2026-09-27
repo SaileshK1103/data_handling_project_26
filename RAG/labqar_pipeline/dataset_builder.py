@@ -4,15 +4,9 @@ import random
 import pandas as pd
 from sklearn.model_selection import GroupShuffleSplit
 from range_checker import RangeChecker
-# STEP 7: swap RangeChecker -> HybridRangeChecker to get a free LabQAR audit
-# trail alongside every evaluation, with ZERO change to the resulting
-# dataset -- reference_ranges.csv is still the sole source of the flags
-# that get written out. See step7_hybrid_checker.py for why this is a
-# secondary/audit layer rather than a replacement.
 from step7_hybrid_checker import HybridRangeChecker
 
 
-# Mapping Synthea descriptions to standard parameter keys
 CODE_TO_PARAM = {
     "2339-0": "Glucose",
     "2345-7": "Glucose",
@@ -42,18 +36,6 @@ CODE_TO_PARAM = {
 
 
 def build_datasets():
-    """
-    Build training datasets from Synthea observations.
-
-    Process:
-    1. Load raw Synthea data (observations.csv, patients.csv)
-    2. Filter to target LOINC codes
-    3. Group by encounter (single lab panel)
-    4. Evaluate each parameter against reference ranges
-    5. Create input/output pairs for fine-tuning
-    6. Split into train/val/test (80/10/10), patient-grouped
-    7. Save as JSONL files
-    """
 
     obs_path = "data/raw/observations.csv"
     pat_path = "data/raw/patients.csv"
@@ -65,7 +47,7 @@ def build_datasets():
         print(f"ERROR: {pat_path} not found")
         return
 
-    checker = HybridRangeChecker()  # same .evaluate(param, val, gender=gender) call site as before
+    checker = HybridRangeChecker() 
 
     print("Loading data...")
     df_obs = pd.read_csv(obs_path)
@@ -90,7 +72,7 @@ def build_datasets():
     samples = []
     skipped_impossible_hba1c = 0
     skipped_empty = 0
-    skipped_misaligned = 0  # encounters that actually merge multiple real visits
+    skipped_misaligned = 0 
 
     for enc_id, group in encounters:
         patient_id = group['PATIENT'].iloc[0]
@@ -100,18 +82,11 @@ def build_datasets():
         )
         gender = pat_info.get('GENDER', 'all')
 
-        # If a parameter has multiple DIFFERENT values in this encounter,
-        # this group is actually multiple real visits merged together.
-        # Picking "first" or "last" value would still misalign input vs
-        # output, so the only safe fix is to skip the whole encounter.
         value_counts_per_param = group.groupby('parameter')['VALUE_NUM'].nunique()
         if (value_counts_per_param > 1).any():
             skipped_misaligned += 1
             continue
 
-        # Each parameter now has exactly one value, so duplicate LOINC
-        # codes (e.g. "Glucose in Blood" + "in Serum/Plasma") are safe
-        # to drop since they'll share the same value.
         group = group.drop_duplicates(subset=['parameter', 'VALUE_NUM'])
 
         abnormal_findings = []
@@ -122,9 +97,6 @@ def build_datasets():
             val = float(row['VALUE_NUM'])
             unit = row['UNITS']
 
-            # HbA1c < 3.5% is physiologically impossible (known Synthea
-            # diabetes-module glitch, confirmed via investigate_hba1c.py).
-            # Skip only this VALUE, not the whole record.
             if param == "HbA1c" and val < 3.5:
                 skipped_impossible_hba1c += 1
                 continue
@@ -140,7 +112,6 @@ def build_datasets():
                     "flag": status
                 })
 
-        # Skip only if NOTHING is left after the HbA1c filter (rare).
         if not lab_panel:
             skipped_empty += 1
             continue
@@ -160,7 +131,7 @@ def build_datasets():
         }
 
         samples.append({
-            "patient_id": patient_id,  # needed for patient-level split below
+            "patient_id": patient_id, 
             "input": input_text,
             "output": json.dumps(target_output)
         })
@@ -171,14 +142,12 @@ def build_datasets():
     print(f"  Implausible HbA1c values dropped (value-level, not record-level): {skipped_impossible_hba1c:,}")
     print(f"  Skipped (empty panel): {skipped_empty:,}")
 
-    # --- Patient-level split, NOT row-level random.shuffle. ---
     # Group samples by patient
     from collections import defaultdict
     patient_samples = defaultdict(list)
     for s in samples:
         patient_samples[s['patient_id']].append(s)
     
-    # Sort patients by number of encounters (descending) for better greedy packing
     random.seed(42)
     patient_list = list(patient_samples.items())
     random.shuffle(patient_list)
@@ -192,7 +161,6 @@ def build_datasets():
     splits = {"train": [], "val": [], "test": []}
     
     for pid, p_samples in patient_list:
-        # Calculate how far each bucket is from its target
         deficits = [
             ("train", target_train - len(splits["train"])),
             ("val", target_val - len(splits["val"])),
@@ -200,7 +168,6 @@ def build_datasets():
         ]
         # Sort by largest deficit
         deficits.sort(key=lambda x: x[1], reverse=True)
-        # Assign to the bucket with the largest deficit
         best_bucket = deficits[0][0]
         splits[best_bucket].extend(p_samples)
 
@@ -215,7 +182,6 @@ def build_datasets():
                 f.write(json.dumps(clean_item) + "\n")
         print(f"  Saved {len(data):,} samples -> {out_path}")
 
-    # Fail loudly if leakage ever creeps back in, instead of failing silently.
     train_p = set(s['patient_id'] for s in splits['train'])
     val_p = set(s['patient_id'] for s in splits['val'])
     test_p = set(s['patient_id'] for s in splits['test'])
@@ -235,9 +201,6 @@ def build_datasets():
     print(f"  Test:  {len(splits['test'])} ({100*len(splits['test'])/n_total:.1f}%)")
     print(f"=" * 80)
 
-    # STEP 7: free correctness signal on reference_ranges.csv -- doesn't
-    # change anything written to disk above, just reports where LabQAR
-    # would have flagged something differently.
     checker.print_audit_report()
 
 

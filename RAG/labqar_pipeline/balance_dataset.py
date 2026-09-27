@@ -27,16 +27,13 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
     max_achievable = len(normal_records) * max_repeat
 
     if target_normal <= len(normal_records):
-        # Enough unique normal records, no duplication needed
         balanced_normal = random.sample(normal_records, target_normal)
         print("No duplication needed, enough unique normal records.")
     elif target_normal <= max_achievable:
-        # Reachable within the max_repeat cap
         repeats_needed = -(-target_normal // len(normal_records))  # ceil
         balanced_normal = (normal_records * repeats_needed)[:target_normal]
         print(f"Records repeated {repeats_needed}x to hit target (within cap).")
     else:
-        # NOT reachable within the cap -- stop here instead of over-duplicating
         balanced_normal = normal_records * max_repeat
         achieved_ratio = len(balanced_normal) / (len(balanced_normal) + total_abnormal)
         print(f"WARNING: target ratio (%{target_normal_ratio*100:.0f}) not reachable with max_repeat={max_repeat}.")
@@ -50,7 +47,6 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
         for record in balanced:
             f.write(json.dumps(record) + '\n')
 
-    # How many rows are actual repeats (not unique)
     unique_normal_used = len(set(json.dumps(r) for r in balanced_normal))
     duplicate_count = len(balanced_normal) - unique_normal_used
 
@@ -61,5 +57,4 @@ def balance_dataset(input_file, output_file, target_normal_ratio=0.40, max_repea
 
 
 if __name__ == "__main__":
-    # Run this on train.jsonl ONLY -- val/test should reflect the real distribution, not an artificially balanced one.
     balance_dataset('data/processed/train.jsonl', 'data/processed/train_balanced.jsonl')
