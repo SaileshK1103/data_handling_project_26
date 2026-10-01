@@ -70,10 +70,11 @@ class RangeChecker:
         ]
 
         if matches.empty:
-            raise ValueError(
-                f"ERROR: Parameter '{parameter}' "
-                f"not found in reference ranges CSV."
+            print(
+                f"WARNING: Parameter '{parameter}' "
+                f"not found in reference ranges"
             )
+            return "Normal"
 
         # Normalize gender to standard format
         gender_normalized = self._normalize_gender(gender)

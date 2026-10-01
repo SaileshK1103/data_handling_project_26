@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+sentence-transformers   # Step 3b: real embeddings (needs internet the first run, to download the model)
+chromadb                # Step 3c: vector database
+google-generativeai     # Step 6 / 6b: live LLM calls via Gemini (optional -- template/context-only fallback works without it)

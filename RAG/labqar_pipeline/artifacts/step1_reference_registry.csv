@@ -1,0 +1,551 @@
+ref_id,parameter,category,condition,reference_type,specimen,gender,age_group,unit,lower_bound,upper_bound,range_type,source
+1,Acetaminophen,,,,"Serum, plasma",all,all,μmol/L,70.0,200.0,two_sided,LabQAR_Set1_Set2
+2,Acetoacetic acid,,,,"Serum, plasma",all,all,mmol/L,,0.1,upper_only,LabQAR_Set1_Set2
+3,Acetone,,,,"Serum, plasma",all,all,mmol/L,,0.34,upper_only,LabQAR_Set1_Set2
+4,Acetylcholinesterase,,,,Red blood cells,all,all,U/L,5.0,10.0,two_sided,LabQAR_Set1_Set2
+5,Activated partial thromboplastin time (APTT),,,,Whole blood,all,all,seconds,25.0,40.0,two_sided,LabQAR_Set1_Set2
+6,Adenosine deaminasea,,,,Serum,all,all,μKat/L,0.2,0.43,two_sided,LabQAR_Set1_Set2
+7,Adrenocorticotropic hormone,Corticotropin,,,Plasma,all,all,pmol/L,,26.0,upper_only,LabQAR_Set1_Set2
+8,Alanine,,,,Plasma,all,Adult,μmol/day,210.0,661.0,two_sided,LabQAR_Set1_Set2
+9,"Alanine aminotransferase (ALT, SGPT)",,,,Serum,all,all,U/L,10.0,40.0,two_sided,LabQAR_Set1_Set2
+10,Albumin,,,,Serum,all,all,g/L,35.0,50.0,two_sided,LabQAR_Set1_Set2
+11,Alcohol,Ethanol,,,"Serum, whole blood",all,all,mmol/L,17.4,,lower_only,LabQAR_Set1_Set2
+12,Alcohol,Ethanol,,,"Serum, whole blood",all,all,mmol/L,21.7,21.7,two_sided,LabQAR_Set1_Set2
+13,Alcohol,Isopropanol,,,"Plasma, serum",all,all,mmol/L,6.64,,lower_only,LabQAR_Set1_Set2
+14,Alcohol,Methanol,,,"Whole blood, serum",all,all,mmol/L,0.05,,lower_only,LabQAR_Set1_Set2
+15,Alcohol dehydrogenase,,,,Serum,all,all,μKat/L,,0.05,upper_only,LabQAR_Set1_Set2
+16,Aldolase,,,,Serum,all,all,μKat/L,0.02,0.13,two_sided,LabQAR_Set1_Set2
+17,Aldosterone,,,,Plasma,all,all,nmol/L,0.19,0.83,two_sided,LabQAR_Set1_Set2
+18,Aldosterone,,,,"Urine, 24 h",all,all,nmol/day,8.0,55.0,two_sided,LabQAR_Set1_Set2
+19,Alkaline phosphatase,,,,Serum,all,all,U/L,50.0,120.0,two_sided,LabQAR_Set1_Set2
+20,α1--Acid glycoprotein,,,,Serum,all,all,g/L,0.5,1.2,two_sided,LabQAR_Set1_Set2
+21,α2-­Macroglobulin,,,,Serum,all,all,g/L,1.3,3.0,two_sided,LabQAR_Set1_Set2
+22,Alprazolam,,,,"Serum, plasma",all,all,nmol/L,32.0,162.0,two_sided,LabQAR_Set1_Set2
+23,Aluminum,,,,"Serum, plasma",all,all,nmol/L,0.0,222.4,two_sided,LabQAR_Set1_Set2
+24,Amikacin,,,,"Serum, plasma",all,all,μmol/L,34.0,52.0,two_sided,LabQAR_Set1_Set2
+25,Amino acid fractionation,Alanine,,,Plasma,all,all,μmol/L,210.0,661.0,two_sided,LabQAR_Set1_Set2
+26,Amino acid fractionation,α­-Aminobutyric acid,,,Plasma,all,all,μmol/L,8.0,35.0,two_sided,LabQAR_Set1_Set2
+27,Amino acid fractionation,Arginine,,,Plasma,all,all,μmol/L,21.0,138.0,two_sided,LabQAR_Set1_Set2
+28,Amino acid fractionation,Asparagine,,,Plasma,all,all,μmol/L,30.0,69.0,two_sided,LabQAR_Set1_Set2
+29,Amino acid fractionation,Aspartic acid,,,Plasma,all,all,μmol/L,,25.0,upper_only,LabQAR_Set1_Set2
+30,Amino acid fractionation,Citrulline,,,Plasma,all,all,μmol/L,12.0,55.0,two_sided,LabQAR_Set1_Set2
+31,Amino acid fractionation,Cystine,,,Plasma,all,all,μmol/L,33.0,117.0,two_sided,LabQAR_Set1_Set2
+32,Amino acid fractionation,Glutamic acid,,,Plasma,all,all,μmol/L,15.0,190.0,two_sided,LabQAR_Set1_Set2
+33,Amino acid fractionation,Glutamine,,,Plasma,all,all,μmol/L,420.0,700.0,two_sided,LabQAR_Set1_Set2
+34,Amino acid fractionation,Glycine,,,Plasma,all,all,μmol/L,120.0,560.0,two_sided,LabQAR_Set1_Set2
+35,Amino acid fractionation,Histidine,,,Plasma,all,all,μmol/L,32.0,110.0,two_sided,LabQAR_Set1_Set2
+36,Amino acid fractionation,Hydroxyproline,,,Plasma,all,all,μmol/L,,42.0,upper_only,LabQAR_Set1_Set2
+37,Amino acid fractionation,Isoleucine,,,Plasma,all,all,μmol/L,40.0,100.0,two_sided,LabQAR_Set1_Set2
+38,Amino acid fractionation,Leucine,,,Plasma,all,all,μmol/L,75.0,175.0,two_sided,LabQAR_Set1_Set2
+39,Amino acid fractionation,Lysine,,,Plasma,all,all,μmol/L,80.0,240.0,two_sided,LabQAR_Set1_Set2
+40,Amino acid fractionation,Methionine,,,Plasma,all,all,μmol/L,6.0,40.0,two_sided,LabQAR_Set1_Set2
+41,Amino acid fractionation,Ornithine,,,Plasma,all,all,μmol/L,30.0,106.0,two_sided,LabQAR_Set1_Set2
+42,Amino acid fractionation,Phenylalanine,,,Plasma,all,all,μmol/L,35.0,90.0,two_sided,LabQAR_Set1_Set2
+43,Amino acid fractionation,Proline,,,Plasma,all,all,μmol/L,104.0,340.0,two_sided,LabQAR_Set1_Set2
+44,Amino acid fractionation,Serine,,,Plasma,all,all,μmol/L,65.0,193.0,two_sided,LabQAR_Set1_Set2
+45,Amino acid fractionation,Taurine,,,Plasma,all,all,μmol/L,24.0,168.0,two_sided,LabQAR_Set1_Set2
+46,Amino acid fractionation,Threonine,,,Plasma,all,all,μmol/L,75.0,210.0,two_sided,LabQAR_Set1_Set2
+47,Amino acid fractionation,Tryptophan,,,Plasma,all,all,μmol/L,25.0,73.0,two_sided,LabQAR_Set1_Set2
+48,Amino acid fractionation,Tyrosine,,,Plasma,all,all,μmol/L,20.0,90.0,two_sided,LabQAR_Set1_Set2
+49,Amino acid fractionation,Valine,,,Plasma,all,all,μmol/L,145.0,315.0,two_sided,LabQAR_Set1_Set2
+50,Amiodarone,,,,"Serum, plasma",all,all,μmol/L,0.8,3.9,two_sided,LabQAR_Set1_Set2
+51,δ-­Aminolevulinic acid,,,,Urine,all,all,μmol/day,8.0,53.0,two_sided,LabQAR_Set1_Set2
+52,Amitriptyline,,,,"Serum, plasma",all,all,nmol/L,289.0,903.0,two_sided,LabQAR_Set1_Set2
+53,Ammonia,NH₃,,,Plasma,all,all,μmol/L,11.0,35.0,two_sided,LabQAR_Set1_Set2
+54,Amobarbital,,,,Serum,all,all,μmol/L,4.0,22.0,two_sided,LabQAR_Set1_Set2
+55,Amoxapine,,,,Plasma,all,all,μg/L,200.0,600.0,two_sided,LabQAR_Set1_Set2
+56,Amylase,,,,Serum,all,all,μKat/L,0.46,2.21,two_sided,LabQAR_Set1_Set2
+57,Androstenedione,,,,Serum,Male,all,nmol/L,2.6,7.2,two_sided,LabQAR_Set1_Set2
+58,Androstenedione,,,,Serum,Female,all,nmol/L,3.0,9.6,two_sided,LabQAR_Set1_Set2
+59,Angiotensin I,,,,Plasma,all,all,ng/L,,25.0,upper_only,LabQAR_Set1_Set2
+60,Angiotensin II,,,,Plasma,all,all,ng/L,10.0,60.0,two_sided,LabQAR_Set1_Set2
+61,Angiotensin-converting enzyme (ACE),,,,Serum,all,all,μKat/L,0.14,0.88,two_sided,LabQAR_Set1_Set2
+62,Anion gap (Na+)−(Cl− + HCO₃−),,,,"Serum, plasma",all,all,nmol/L,8.0,16.0,two_sided,LabQAR_Set1_Set2
+63,"Antidiuretic hormone (ADH, vasopressin)",,,,Plasma,all,all,pmol/L,0.9,4.6,two_sided,LabQAR_Set1_Set2
+64,Antiplasmin,,,,Plasma,all,all,Fraction of 1.0,0.8,1.3,two_sided,LabQAR_Set1_Set2
+65,Antithrombin activity,,,,Plasma,all,all,Fraction of 1.0,0.8,1.3,two_sided,LabQAR_Set1_Set2
+66,α1--Antitrypsin,,,,Serum,all,all,g/L,0.8,2.0,two_sided,LabQAR_Set1_Set2
+67,Apolipoprotein A,,,,Serum,Male,all,g/L,0.8,1.5,two_sided,LabQAR_Set1_Set2
+68,Apolipoprotein A,,,,Serum,Female,all,g/L,0.8,1.7,two_sided,LabQAR_Set1_Set2
+69,Apolipoprotein B,,,,"Serum, plasma",Male,all,g/L,0.5,1.2,two_sided,LabQAR_Set1_Set2
+70,Apolipoprotein B,,,,"Serum, plasma",Female,all,g/L,0.25,1.2,two_sided,LabQAR_Set1_Set2
+71,Arginine,,,,Plasma,all,all,μmol/L,21.0,138.0,two_sided,LabQAR_Set1_Set2
+72,Arsenic (As),,,,Whole blood,all,all,μmol/L,,0.31,upper_only,LabQAR_Set1_Set2
+73,Arsenic (As),,,,Whole blood,all,all,μmol/L,1.33,6.65,two_sided,LabQAR_Set1_Set2
+74,Arsenic (As),,,,Whole blood,all,all,μmol/L,7.9,123.7,two_sided,LabQAR_Set1_Set2
+75,"Ascorbate, ascorbic acid",,,,"Plamsa, serum",all,all,μmol/L,23.0,85.0,two_sided,LabQAR_Set1_Set2
+76,Asparagine,,,,Plasma,all,all,μmol/L,30.0,69.0,two_sided,LabQAR_Set1_Set2
+77,"Aspartate aminotransferase (AST, SGOT)",,,,Serum,all,all,μKat/L,0.34,0.82,two_sided,LabQAR_Set1_Set2
+78,Aspartic acid,,,,Plasma,all,all,μmol/L,,25.0,upper_only,LabQAR_Set1_Set2
+79,Atrial natriuretic hormone,,,,Plasma,all,all,ng/L,20.0,77.0,two_sided,LabQAR_Set1_Set2
+80,Barbiturates,Pentobarbital,,,"Serum, plasma",all,all,μmol/L,4.0,22.0,two_sided,LabQAR_Set1_Set2
+81,Barbiturates,Phenobarbital,,,"Serum, plasma",all,all,μmol/L,65.0,172.0,two_sided,LabQAR_Set1_Set2
+82,Barbiturates,Thiopental,,,"Plasma, serum",all,all,μmol/L,4.0,21.0,two_sided,LabQAR_Set1_Set2
+83,Basophils,,,,Whole blood,all,all,109 L-1,0.0,0.2,two_sided,LabQAR_Set1_Set2
+84,Basophils,,,,Whole blood,all,all,Fraction of 1.0,0.003,0.003,two_sided,LabQAR_Set1_Set2
+85,Benzodiazepines,Alprazolam,,,"Serum, plasma",all,all,nmol/L,32.0,162.0,two_sided,LabQAR_Set1_Set2
+86,Benzodiazepines,Chlordiazepoxide,,,"Serum, plasma",all,all,μmol/L,2.3,3.3,two_sided,LabQAR_Set1_Set2
+87,Benzodiazepines,Diazepam,,,"Plasma, serum",all,all,μmol/L,0.35,3.51,two_sided,LabQAR_Set1_Set2
+88,Benzodiazepines,Lorazepam,,,"Serum, plasma",all,all,nmol/L,156.0,746.0,two_sided,LabQAR_Set1_Set2
+89,Beryllium,,,,Urine,all,all,μmol/L,2.22,,lower_only,LabQAR_Set1_Set2
+90,Bicarbonate,,,,Plasma,all,all,mmol/L,21.0,28.0,two_sided,LabQAR_Set1_Set2
+91,Bile acids,Total,,,Serum,all,all,μmol/L,0.73,5.63,two_sided,LabQAR_Set1_Set2
+92,Bilirubin,Total,,,Serum,all,all,μmol/L,2.0,18.0,two_sided,LabQAR_Set1_Set2
+93,Bilirubin,Direct,,,Serum,all,all,μmol/L,,3.4,upper_only,LabQAR_Set1_Set2
+94,Biotin,,,,"Whole blood, serum",all,all,nmol/L,0.82,2.05,two_sided,LabQAR_Set1_Set2
+95,Bismuth,,,,Whole blood,all,all,nmol/L,4.8,57.4,two_sided,LabQAR_Set1_Set2
+96,Blood gases,Pco₂,,,Arterial blood,all,all,mm Hg,35.0,45.0,two_sided,LabQAR_Set1_Set2
+97,Blood gases,pH,,,Arterial blood,all,all,nan,7.35,7.45,two_sided,LabQAR_Set1_Set2
+98,Blood gases,Pco₂,,,Arterial blood,all,all,mm Hg,80.0,100.0,two_sided,LabQAR_Set1_Set2
+99,Blood urea nitrogen (BUN),,,,Blood,all,all,mmol/L,2.9,8.2,two_sided,LabQAR_Set1_Set2
+100,Brain natriuretic peptide (BNP),,,,Plasma,all,all,pg/mL,,100.0,upper_only,LabQAR_Set1_Set2
+101,Bupropion,,,,"Serum, plasma",all,all,nmol/L,91.0,362.0,two_sided,LabQAR_Set1_Set2
+102,C1 esterase inhibitor,,,,Serum,all,all,g/L,0.12,0.3,two_sided,LabQAR_Set1_Set2
+103,C3 complement,,,,Serum,all,all,g/L,1.2,1.5,two_sided,LabQAR_Set1_Set2
+104,C4 complement,,,,Serum,all,all,g/L,0.35,0.6,two_sided,LabQAR_Set1_Set2
+105,CA125,,,,Serum,all,all,kU/L,,35.0,upper_only,LabQAR_Set1_Set2
+106,CA19-9,,,,Serum,all,all,kU/L,,37.0,upper_only,LabQAR_Set1_Set2
+107,CA15-3,,,,Serum,all,all,kU/L,,30.0,upper_only,LabQAR_Set1_Set2
+108,CA27.29,,,,Serum,all,all,kU/L,,37.7,upper_only,LabQAR_Set1_Set2
+109,Cadmium,,,,Whole blood,all,all,nmol/L,2.7,10.7,two_sided,LabQAR_Set1_Set2
+110,Caffeine,,,,"Serum, plasma",all,Infant,μmol/L,41.0,103.0,two_sided,LabQAR_Set1_Set2
+111,Calciferol,Vitamin D,,,"Plasma, serum",all,all,pmol/L,42.0,169.0,two_sided,LabQAR_Set1_Set2
+112,Calciferol,Vitamin D,,,"Plasma, serum",all,all,nmol/L,35.0,150.0,two_sided,LabQAR_Set1_Set2
+113,Calcitonin,,,,"Serum, plasma",all,all,ng/L,,19.0,upper_only,LabQAR_Set1_Set2
+114,Calcium,Ionized,,,Serum,all,all,mmol/L,1.15,1.27,two_sided,LabQAR_Set1_Set2
+115,Calcium,Total,,,Serum,all,all,mmol/L,2.05,2.55,two_sided,LabQAR_Set1_Set2
+116,Calcium,,,,Urine,all,all,mmol/day,,6.2,upper_only,LabQAR_Set1_Set2
+117,Carbamazepine,,,,"Serum, plasma",all,all,μmol/L,34.0,51.0,two_sided,LabQAR_Set1_Set2
+118,Carbon dioxide,,,,"Serum, plasma, venous blood",all,all,mmol/L,22.0,28.0,two_sided,LabQAR_Set1_Set2
+119,Carboxyhemoglobin (carbon monoxide),Fraction of hemoblobin sturation,,,Whole blood,all,all,Fraction of 1.0,,0.02,upper_only,LabQAR_Set1_Set2
+120,Carboxyhemoglobin (carbon monoxide),Fraction of hemoblobin sturation,,,Whole blood,all,all,Fraction of 1.0,0.2,,lower_only,LabQAR_Set1_Set2
+121,β-­Carotene,,,,Serum,all,all,μmol/L,0.2,1.6,two_sided,LabQAR_Set1_Set2
+122,Catecholamines,Norepinephrine,,,Plasma,all,all,nmol/L,650.0,2423.0,two_sided,LabQAR_Set1_Set2
+123,Catecholamines,Norepinephrine,,,Urine,all,all,nmol/day,89.0,473.0,two_sided,LabQAR_Set1_Set2
+124,Carcinoembryonic antigen (CEA),,,,Serum,all,all,μg/L,,3.0,upper_only,LabQAR_Set1_Set2
+125,Carcinoembryonic antigen (CEA),,,,Serum,all,all,μg/L,,5.0,upper_only,LabQAR_Set1_Set2
+126,Ceruloplasmin,,,,Serum,all,all,mg/L,200.0,400.0,two_sided,LabQAR_Set1_Set2
+127,Chloramphenicol,,,,Serum,all,all,μmol/L,31.0,77.0,two_sided,LabQAR_Set1_Set2
+128,Chlordiazepoxide,,,,"Serum, plasma",all,all,μmol/L,2.3,3.3,two_sided,LabQAR_Set1_Set2
+129,Chloride,,,,"Serum, plasma",all,all,mmol/L,96.0,106.0,two_sided,LabQAR_Set1_Set2
+130,Chloride,,,,Cerebrospinal fluid,all,all,mmol/L,118.0,132.0,two_sided,LabQAR_Set1_Set2
+131,Chlorpromazine,,,,Plasma,all,Adult,nmol/L,157.0,942.0,two_sided,LabQAR_Set1_Set2
+132,Chlorpromazine,,,,Plasma,all,Child,nmol/L,126.0,251.0,two_sided,LabQAR_Set1_Set2
+133,Chlorpropamide,,,,Plasma,all,all,μmol/L,270.0,900.0,two_sided,LabQAR_Set1_Set2
+134,"Cholesterol, high-density lipoproteins (HDL)",,,,Plasma,all,all,mmol/L,1.55,,lower_only,LabQAR_Set1_Set2
+135,"Cholesterol, high-density lipoproteins (HDL)",,,,Plasma,all,all,mmol/L,1.03,1.55,two_sided,LabQAR_Set1_Set2
+136,"Cholesterol, high-density lipoproteins (HDL)",,,,Plasma,all,all,mmol/L,,1.03,upper_only,LabQAR_Set1_Set2
+137,"Cholesterol, low--density lipoproteins (LDL)",,,,Plasma,all,all,mmol/L,,2.59,upper_only,LabQAR_Set1_Set2
+138,"Cholesterol, low--density lipoproteins (LDL)",,,,Plasma,all,all,mmol/L,2.59,3.34,two_sided,LabQAR_Set1_Set2
+139,"Cholesterol, low--density lipoproteins (LDL)",,,,Plasma,all,all,mmol/L,3.37,4.12,two_sided,LabQAR_Set1_Set2
+140,"Cholesterol, low--density lipoproteins (LDL)",,,,Plasma,all,all,mmol/L,4.15,4.9,two_sided,LabQAR_Set1_Set2
+141,"Cholesterol, low--density lipoproteins (LDL)",,,,Plasma,all,all,mmol/L,4.9,,lower_only,LabQAR_Set1_Set2
+142,Cholesterol,Total,,Desirable,Serum,all,Adult,mmol/L,,5.17,upper_only,LabQAR_Set1_Set2
+143,Cholesterol,Total,,Borderline high,Serum,all,Adult,mmol/L,5.17,6.18,two_sided,LabQAR_Set1_Set2
+144,Cholesterol,Total,,High,Serum,all,Adult,mmol/L,6.21,,lower_only,LabQAR_Set1_Set2
+145,Cholesterol,Total,,Desirable,Serum,all,Child,mmol/L,4.4,4.4,two_sided,LabQAR_Set1_Set2
+146,Cholesterol,Total,,Borderline high,Serum,all,Child,mmol/L,4.4,5.15,two_sided,LabQAR_Set1_Set2
+147,Cholesterol,Total,,High,Serum,all,Child,mmol/L,5.18,,lower_only,LabQAR_Set1_Set2
+148,Chromium,,,,Whole blood,all,all,nmol/L,13.4,538.6,two_sided,LabQAR_Set1_Set2
+149,Citrate,,,,Serum,all,all,μmol/L,60.0,160.0,two_sided,LabQAR_Set1_Set2
+150,Citrulline,,,,Plasma,all,all,μmol/L,20.0,135.0,two_sided,LabQAR_Set1_Set2
+151,Clonazepam,,,,Serum,all,all,nmol/L,48.0,190.0,two_sided,LabQAR_Set1_Set2
+152,Coagulation factor I (fibrinogen),,,,Plasma,all,all,g/L,1.5,4.0,two_sided,LabQAR_Set1_Set2
+153,Coagulation factor II (prothrombin),,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+154,Coagulation factor V,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+155,Coagulation factor VII,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+156,Coagulation factor VIII,,,,Plasma,all,all,Fraction of 1.0,0.5,2.0,two_sided,LabQAR_Set1_Set2
+157,Coagulation factor IX,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+158,Coagulation factor X,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+159,Coagulation factor XI,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+160,Coagulation factor XII,,,,Plasma,all,all,Fraction of 1.0,0.6,1.4,two_sided,LabQAR_Set1_Set2
+161,Cobalt,,,,Serum,all,all,nmol/L,,17.0,upper_only,LabQAR_Set1_Set2
+162,Codeine,,,,Serum,all,all,nmol/L,33.0,334.0,two_sided,LabQAR_Set1_Set2
+163,Complete blood count (CBC),Hematocrit,,,Whole blood,Male,all,Fraction of 1.0,0.41,0.5,two_sided,LabQAR_Set1_Set2
+164,Complete blood count (CBC),Hematocrit,,,Whole blood,Female,all,Fraction of 1.0,0.35,0.45,two_sided,LabQAR_Set1_Set2
+165,Complete blood count (CBC),Hemoglobin,,,Whole blood,Male,all,g/L,135.0,175.0,two_sided,LabQAR_Set1_Set2
+166,Complete blood count (CBC),Hemoglobin,,,Whole blood,Female,all,g/L,120.0,155.0,two_sided,LabQAR_Set1_Set2
+167,Complete blood count (CBC),Hemoglobin,,,Whole blood,Male,all,mmol/L,8.44,10.65,two_sided,LabQAR_Set1_Set2
+168,Complete blood count (CBC),Hemoglobin,,,Whole blood,Female,all,mmol/L,7.45,9.3,two_sided,LabQAR_Set1_Set2
+169,Complete blood count (CBC),Mean corpuscular hemoglobin (MCH),,,Whole blood,all,all,pg/cell,27.0,33.0,two_sided,LabQAR_Set1_Set2
+170,Complete blood count (CBC),Mean corpuscular hemoglobin (MCH),,,Whole blood,all,all,fmol,1.7,2.05,two_sided,LabQAR_Set1_Set2
+171,Complete blood count (CBC),Mean corpuscular hemoglobin concentration (MCHC),,,Whole blood,all,all,g Hb/L,330.0,370.0,two_sided,LabQAR_Set1_Set2
+172,Complete blood count (CBC),Mean corpuscular hemoglobin concentration (MCHC),,,Whole blood,all,all,mmol/L,20.0,23.0,two_sided,LabQAR_Set1_Set2
+173,Complete blood count (CBC),Mean cell volume (MCV),,,Whole blood,all,all,fL,80.0,100.0,two_sided,LabQAR_Set1_Set2
+174,Complete blood count (CBC),Platelet count,,,Whole blood,all,all,109 L-1,150.0,450.0,two_sided,LabQAR_Set1_Set2
+175,Complete blood count (CBC),Red blood cell count,,,Whole blood,Female,all,1012 L-1,3.9,5.5,two_sided,LabQAR_Set1_Set2
+176,Complete blood count (CBC),Red blood cell count,,,Whole blood,Male,all,1012 L-1,4.6,6.0,two_sided,LabQAR_Set1_Set2
+177,Complete blood count (CBC),Reticulocyte count,,,Whole blood,all,all,109 L-1,25.0,75.0,two_sided,LabQAR_Set1_Set2
+178,Complete blood count (CBC),Reticulocyte count,,,Whole blood,all,all,Fraction of RBCs,0.005,0.015,two_sided,LabQAR_Set1_Set2
+179,Complete blood count (CBC),White blood cell count,,,Whole blood,all,all,109 L-1,4.5,11.0,two_sided,LabQAR_Set1_Set2
+180,Complete blood count (CBC),Neutrophils,,,Whole blood,all,all,109 L-1,1.8,7.8,two_sided,LabQAR_Set1_Set2
+181,Complete blood count (CBC),Bands,,,Whole blood,all,all,109 L-1,0.0,0.7,two_sided,LabQAR_Set1_Set2
+182,Complete blood count (CBC),Lymphocytes,,,Whole blood,all,all,109 L-1,1.0,4.8,two_sided,LabQAR_Set1_Set2
+183,Complete blood count (CBC),Monocytes,,,Whole blood,all,all,109 L-1,0.0,0.8,two_sided,LabQAR_Set1_Set2
+184,Complete blood count (CBC),Eosinophils,,,Whole blood,all,all,109 L-1,0.0,0.45,two_sided,LabQAR_Set1_Set2
+185,Complete blood count (CBC),Basophils,,,Whole blood,all,all,109 L-1,0.0,0.2,two_sided,LabQAR_Set1_Set2
+186,Complete blood count (CBC),Neutrophils,,,Whole blood,all,all,Fraction of 1.0,0.56,0.56,two_sided,LabQAR_Set1_Set2
+187,Complete blood count (CBC),Bands,,,Whole blood,all,all,Fraction of 1.0,0.03,0.03,two_sided,LabQAR_Set1_Set2
+188,Complete blood count (CBC),Lymphocytes,,,Whole blood,all,all,Fraction of 1.0,0.34,0.34,two_sided,LabQAR_Set1_Set2
+189,Complete blood count (CBC),Monocytes,,,Whole blood,all,all,Fraction of 1.0,0.04,0.04,two_sided,LabQAR_Set1_Set2
+190,Complete blood count (CBC),Eosinophils,,,Whole blood,all,all,Fraction of 1.0,0.027,0.027,two_sided,LabQAR_Set1_Set2
+191,Complete blood count (CBC),Basophils,,,Whole blood,all,all,Fraction of 1.0,0.003,0.003,two_sided,LabQAR_Set1_Set2
+192,Copper,,,,Serum,all,all,μmol/L,11.0,22.0,two_sided,LabQAR_Set1_Set2
+193,Coproporphyrin,,,,Urine,all,all,nmol/day,,300.0,upper_only,LabQAR_Set1_Set2
+194,Corticotropin,,,,Plasma,all,all,pmol/L,,26.0,upper_only,LabQAR_Set1_Set2
+195,Cortisol,Total,,,Plasma,all,all,nmol/L,138.0,690.0,two_sided,LabQAR_Set1_Set2
+196,Cortisol,Total,,,Plasma,all,all,nmol/L,83.0,442.0,two_sided,LabQAR_Set1_Set2
+197,Cortisol,Free,,,Urine,all,all,nmol/day,80.0,280.0,two_sided,LabQAR_Set1_Set2
+198,Cotinine,,,,Plasma,all,all,nmol/L,91.0,823.0,two_sided,LabQAR_Set1_Set2
+199,C--peptide,,,,Serum,all,all,nmol/L,0.17,1.17,two_sided,LabQAR_Set1_Set2
+200,Creatine,,,,Serum,Male,all,μmol/L,15.3,53.3,two_sided,LabQAR_Set1_Set2
+201,Creatine,,,,Serum,Female,all,μmol/L,22.9,68.6,two_sided,LabQAR_Set1_Set2
+202,Creatine kinase (CK),,,,Serum,all,all,μKat/L,0.85,3.4,two_sided,LabQAR_Set1_Set2
+203,CK--MB fraction,,,,Serum,all,all,Fraction of 1.0,,0.06,upper_only,LabQAR_Set1_Set2
+204,Creatinine,,,,"Serum, plasma",all,all,μmol/L,53.0,106.0,two_sided,LabQAR_Set1_Set2
+205,Creatinine,,,,Urine,all,all,mmol/day,8.8,17.7,two_sided,LabQAR_Set1_Set2
+206,"Creatinine clearance, glomerular filtration rate",,,,"Serum, urine",all,all,mL/s/m2,0.72,1.2,two_sided,LabQAR_Set1_Set2
+207,C--telopeptide,,,,"Serum, plasma",Male,all,pg/mL,60.0,700.0,two_sided,LabQAR_Set1_Set2
+208,C--telopeptide,,Premenopausal,,"Serum, plasma",Female,all,pg/mL,40.0,465.0,two_sided,LabQAR_Set1_Set2
+209,Cyanide,,,,Whole blood,all,all,μmol/L,38.4,,lower_only,LabQAR_Set1_Set2
+210,Cyanocobalamin,Vitamin B₁₂,,,Serum,all,all,pmol/L,118.0,701.0,two_sided,LabQAR_Set1_Set2
+211,Cyclic adenosine monophosphate (cAMP),,,,Plasma,all,all,nmol/L,14.0,26.0,two_sided,LabQAR_Set1_Set2
+212,Cyclosporine,,,,Whole blood,all,all,nmol/L,333.0,,lower_only,LabQAR_Set1_Set2
+213,Cystine,,,,Plasma,all,all,μmol/L,33.0,117.0,two_sided,LabQAR_Set1_Set2
+214,Dehydroepiandrosterone (DHEA),Unconjugated,,,"Plasma, serum",Male,all,nmol/L,6.2,43.3,two_sided,LabQAR_Set1_Set2
+215,Dehydroepiandrosterone sulfate (DHEA-S),,,,"Plasma, serum",Male,all,μmol/L,0.3,16.7,two_sided,LabQAR_Set1_Set2
+216,Desipramine,,,,"Plasma, serum",all,all,nmol/L,170.0,700.0,two_sided,LabQAR_Set1_Set2
+217,Diazepam,,,,"Plasma, serum",all,all,μmol/L,0.35,3.51,two_sided,LabQAR_Set1_Set2
+218,Digoxin,,,,Plasma,all,all,nmol/L,0.6,2.6,two_sided,LabQAR_Set1_Set2
+219,Disopyramide,,,,"Plasma, serum",all,all,μmol/L,8.0,21.0,two_sided,LabQAR_Set1_Set2
+220,Doxepin,,,,"Plasma, serum",all,all,nmol/L,540.0,890.0,two_sided,LabQAR_Set1_Set2
+221,Electrolytes,Chloride,,,"Serum, plasma",all,all,mmol/L,96.0,106.0,two_sided,LabQAR_Set1_Set2
+222,Electrolytes,Carbon dioxide (CO₂),,,"Serum, plasma, venous blood",all,all,mmol/L,22.0,28.0,two_sided,LabQAR_Set1_Set2
+223,Electrolytes,Potassium,,,Plasma,all,all,mmol/L,3.5,5.0,two_sided,LabQAR_Set1_Set2
+224,Electrolytes,Sodium,,,Plasma,all,all,mmol/L,136.0,142.0,two_sided,LabQAR_Set1_Set2
+225,Eosinophils,White blood cell count,,,Whole blood,all,all,109 L-1,25.0,75.0,two_sided,LabQAR_Set1_Set2
+226,Epinephrine,,,,Plasma,all,all,pmol/L,,273.0,upper_only,LabQAR_Set1_Set2
+227,Epinephrine,,,,Urine,all,all,nmol/day,,109.0,upper_only,LabQAR_Set1_Set2
+228,Erythrocyte count,Red blood cell count,,,Whole blood,Female,all,1012 L-1,3.9,5.5,two_sided,LabQAR_Set1_Set2
+229,Erythrocyte count,Red blood cell count,,,Whole blood,Male,all,1012 L-1,4.6,6.0,two_sided,LabQAR_Set1_Set2
+230,Erythrocyte sedimentation rate (ESR),,,,Whole blood,all,all,mm/h,0.0,20.0,two_sided,LabQAR_Set1_Set2
+231,Erythropoietin,,,,Serum,all,all,IU/L,5.0,36.0,two_sided,LabQAR_Set1_Set2
+232,Estradiol (E2),Unconjugated,Follicular phase,,Serum,Female,all,pmol/L,73.0,1285.0,two_sided,LabQAR_Set1_Set2
+233,Estradiol (E2),Unconjugated,Midcycle peak,,Serum,Female,all,pmol/L,551.0,2753.0,two_sided,LabQAR_Set1_Set2
+234,Estradiol (E2),Unconjugated,Luteal phase,,Serum,Female,all,pmol/L,110.0,1652.0,two_sided,LabQAR_Set1_Set2
+235,Estradiol (E2),Unconjugated,Postmenopausal,,Serum,Female,all,pmol/L,,218.0,upper_only,LabQAR_Set1_Set2
+236,Estradiol (E2),Unconjugated,,,Serum,Male,all,pmol/L,,184.0,upper_only,LabQAR_Set1_Set2
+237,Estriol (E3),Unconjugated,Nonpregnant,,Serum,all,all,nmol/L,,6.9,upper_only,LabQAR_Set1_Set2
+238,Estrogens,Total,Follicular phase,,Serum,Female,all,ng/L,60.0,200.0,two_sided,LabQAR_Set1_Set2
+239,Estrogens,Total,Luteal phase,,Serum,Female,all,ng/L,160.0,400.0,two_sided,LabQAR_Set1_Set2
+240,Estrogens,Total,Postmenopausal,,Serum,Female,all,ng/L,,130.0,upper_only,LabQAR_Set1_Set2
+241,Estrogens,Total,,,Serum,Male,all,ng/L,20.0,80.0,two_sided,LabQAR_Set1_Set2
+242,Estrone (E1),,Follicular phase,,"Plasma, serum",Female,all,pmol/L,370.0,925.0,two_sided,LabQAR_Set1_Set2
+243,Estrone (E1),,Luteal phase,,"Plasma, serum",Female,all,pmol/L,55.0,740.0,two_sided,LabQAR_Set1_Set2
+244,Estrone (E1),,Postmenopausal,,"Plasma, serum",Female,all,pmol/L,55.0,204.0,two_sided,LabQAR_Set1_Set2
+245,Estrone (E1),,,,"Plasma, serum",Male,all,pmol/L,55.0,240.0,two_sided,LabQAR_Set1_Set2
+246,Ethanol (ethyl alcohol),,,,"Serum, whole blood",all,all,mmol/L,17.4,,lower_only,LabQAR_Set1_Set2
+247,Ethanol (ethyl alcohol),,,,"Serum, whole blood",all,all,mmol/L,21.7,21.7,two_sided,LabQAR_Set1_Set2
+248,Ethosuximide,,,,"Plasma, serum",all,all,μmol/L,283.0,708.0,two_sided,LabQAR_Set1_Set2
+249,Ethylene glycol,,,,"Plasma, serum",all,all,mmol/L,5.0,,lower_only,LabQAR_Set1_Set2
+250,Everolimus,,,,Whole blood,all,all,nmol/L,5.0,16.0,two_sided,LabQAR_Set1_Set2
+251,Fatty acids,Nonesterified,,,Plasma,all,all,mmol/L,0.28,0.89,two_sided,LabQAR_Set1_Set2
+252,Fecal fat,Stearic acid,,,Stool,all,all,g/day,2.0,6.0,two_sided,LabQAR_Set1_Set2
+253,Felbamate,,,,"Serum, plasma",all,all,μmol/L,126.0,252.0,two_sided,LabQAR_Set1_Set2
+254,Ferritin,,,,Plasma,all,all,μg/L,15.0,200.0,two_sided,LabQAR_Set1_Set2
+255,α­-Fetoprotein,,,,Serum,all,all,μg/L,,10.0,upper_only,LabQAR_Set1_Set2
+256,Fibrinogen,,,,Plasma,all,all,g/L,1.5,4.0,two_sided,LabQAR_Set1_Set2
+257,Fibrin breakdown products (fibrin split products),,,,Serum,all,all,mg/L,,10.0,upper_only,LabQAR_Set1_Set2
+258,Folate (folic acid),,,,Red blood cells,all,all,nmol/L,376.0,1450.0,two_sided,LabQAR_Set1_Set2
+259,Folate (folic acid),,,,Serum,all,all,nmol/L,11.0,57.0,two_sided,LabQAR_Set1_Set2
+260,Follicle--stimulating hormone (FSH),,Follicular phase,,Serum,Female,all,IU/L,1.3,9.9,two_sided,LabQAR_Set1_Set2
+261,Follicle--stimulating hormone (FSH),,Ovulatory phase,,Serum,Female,all,IU/L,6.1,17.2,two_sided,LabQAR_Set1_Set2
+262,Follicle--stimulating hormone (FSH),,Luteal phase,,Serum,Female,all,IU/L,1.0,9.2,two_sided,LabQAR_Set1_Set2
+263,Follicle--stimulating hormone (FSH),,Postmenopausal,,Serum,Female,all,IU/L,19.3,100.6,two_sided,LabQAR_Set1_Set2
+264,Follicle--stimulating hormone (FSH),,,,Serum,Male,all,IU/L,1.4,15.4,two_sided,LabQAR_Set1_Set2
+265,Follicle--stimulating hormone (FSH),,,,Urine,Female,all,IU/day,2.0,15.0,two_sided,LabQAR_Set1_Set2
+266,Follicle--stimulating hormone (FSH),,,,Urine,Male,all,IU/day,3.0,11.0,two_sided,LabQAR_Set1_Set2
+267,Fructosamine,,,,Serum,all,all,mmol/L,1.5,2.7,two_sided,LabQAR_Set1_Set2
+268,Gabapentin,,,,"Serum, plasma",all,all,μmol/L,12.0,117.0,two_sided,LabQAR_Set1_Set2
+269,Gastrin,,,,Serum,all,all,ng/L,,100.0,upper_only,LabQAR_Set1_Set2
+270,Gentamicin,,,,Serum,all,all,μmol/L,12.0,21.0,two_sided,LabQAR_Set1_Set2
+271,Glucagon,,,,Plasma,all,all,ng/L,20.0,100.0,two_sided,LabQAR_Set1_Set2
+272,Glucose,,,,"Serum, plasma",all,all,mmol/L,3.9,6.1,two_sided,LabQAR_Set1_Set2
+273,Glucose,,,,Cerebrospinal fluid,all,all,mmol/L,2.8,4.4,two_sided,LabQAR_Set1_Set2
+274,Glucose--6--phosphate dehydrogenase,,,,Red blood cells,all,all,U/mol of Hb,0.65,0.9,two_sided,LabQAR_Set1_Set2
+275,Glutamic acid,,,,Plasma,all,all,μmol/L,15.0,190.0,two_sided,LabQAR_Set1_Set2
+276,Glutamine,,,,Plasma,all,all,μmol/L,420.0,700.0,two_sided,LabQAR_Set1_Set2
+277,γ­-Glutamyltransferase (GGT; γ-­glutamyl transpeptidase),,,,Serum,Female,all,μKat/L,0.51,0.51,two_sided,LabQAR_Set1_Set2
+278,γ­-Glutamyltransferase (GGT; γ-­glutamyl transpeptidase),,,,Serum,Male,all,μKat/L,,0.85,upper_only,LabQAR_Set1_Set2
+279,Glycerol,Free,,,Serum,all,all,mmol/L,,0.16,upper_only,LabQAR_Set1_Set2
+280,Glycine,,,,Plasma,all,all,μmol/L,120.0,560.0,two_sided,LabQAR_Set1_Set2
+281,"Glycated hemoglobin (hemoglobin A1, A1c)",Whole blood,,,Whole blood,all,all,Fraction of total Hb,4.0,5.6,two_sided,LabQAR_Set1_Set2
+282,Gold,,,,Serum,all,all,μmol/L,5.1,10.2,two_sided,LabQAR_Set1_Set2
+283,"Growth hormone (GH, somatotropin)",,,,"Plasma, serum",all,Adult,μg/L,,10.0,upper_only,LabQAR_Set1_Set2
+284,Haloperidol,,,,"Serum, plasma",all,all,nmol/L,13.0,52.0,two_sided,LabQAR_Set1_Set2
+285,Haptoglobin,,,,Serum,all,all,g/L,0.4,1.8,two_sided,LabQAR_Set1_Set2
+286,Hematocrit,,,,Whole blood,Male,all,Fraction of 1.0,0.41,0.5,two_sided,LabQAR_Set1_Set2
+287,Hematocrit,,,,Whole blood,Female,all,Fraction of 1.0,0.35,0.45,two_sided,LabQAR_Set1_Set2
+288,Hemoglobin,,,,Whole blood,Male,all,g/L,135.0,175.0,two_sided,LabQAR_Set1_Set2
+289,Hemoglobin,,,,Whole blood,Female,all,g/L,120.0,155.0,two_sided,LabQAR_Set1_Set2
+290,Hemoglobin,,,,Whole blood,Male,all,mmol/L,8.44,10.65,two_sided,LabQAR_Set1_Set2
+291,Hemoglobin,,,,Whole blood,Female,all,mmol/L,7.45,9.3,two_sided,LabQAR_Set1_Set2
+292,Hemoglobin A1c,Glycated hemoglobin,,,Whole blood,all,all,Fraction of total Hb,4.0,5.6,two_sided,LabQAR_Set1_Set2
+293,Hemoglobin A2,,,,Whole blood,all,all,Fraction of 1.0,2.0,3.5,two_sided,LabQAR_Set1_Set2
+294,Hemoglobin F (fetal hemoglobin),,,,Whole blood,all,Adult,Fraction of 1.0,,2.0,upper_only,LabQAR_Set1_Set2
+295,Histidine,,,,Plasma,all,all,μmol/L,32.0,110.0,two_sided,LabQAR_Set1_Set2
+296,Homocysteine,Total,,,"Plasma, serum",all,all,μmol/L,4.0,12.0,two_sided,LabQAR_Set1_Set2
+297,Homovanillic acid,,,,Urine,all,all,μmol/day,,45.0,upper_only,LabQAR_Set1_Set2
+298,Human chorionic gonadotropin (hCG),,Nonpregnant,,Serum,Female,Adult,IU/L,,3.0,upper_only,LabQAR_Set1_Set2
+299,β-Hydroxybutyric acid,,,,Serum,all,all,μmol/L,20.0,270.0,two_sided,LabQAR_Set1_Set2
+300,5--Hydroxyindoleacetic acid (5-HIAA),,,,Urine,all,all,μmol/day,,131.0,upper_only,LabQAR_Set1_Set2
+301,17α-­Hydroxyprogesterone,,Follicular phase,,Serum,Female,all,nmol/L,0.4,2.1,two_sided,LabQAR_Set1_Set2
+302,17α-­Hydroxyprogesterone,,Luteal phase,,Serum,Female,all,nmol/L,1.0,8.7,two_sided,LabQAR_Set1_Set2
+303,17α-­Hydroxyprogesterone,,Postmenopausal,,Serum,Female,all,nmol/L,,2.1,upper_only,LabQAR_Set1_Set2
+304,17α-­Hydroxyprogesterone,,,,Serum,Male,all,nmol/L,0.8,6.0,two_sided,LabQAR_Set1_Set2
+305,Hydroxyproline,,,,Plasma,all,all,μmol/L,,42.0,upper_only,LabQAR_Set1_Set2
+306,5--Hydroxytryptamine,Serotonin,,,Whole blood,all,all,μmol/L,0.28,1.14,two_sided,LabQAR_Set1_Set2
+307,Ibuprofen,,,,"Serum, plasma",all,all,μmol/L,49.0,243.0,two_sided,LabQAR_Set1_Set2
+308,Imipramine,,,,"Serum, plasma",all,all,nmol/L,536.0,893.0,two_sided,LabQAR_Set1_Set2
+309,Immunoglobulin A (IgA),,,,Serum,all,all,g/L,0.5,3.5,two_sided,LabQAR_Set1_Set2
+310,Immunoglobulin D (IgD),,,,Serum,all,all,mg/L,5.0,30.0,two_sided,LabQAR_Set1_Set2
+311,Immunoglobulin E (IgE),,,,Serum,all,all,μg/L,24.0,430.0,two_sided,LabQAR_Set1_Set2
+312,Immunoglobulin G (IgG),,,,Serum,all,all,g/L,6.0,15.6,two_sided,LabQAR_Set1_Set2
+313,Immunoglobulin M (IgM),,,,Serum,all,all,g/L,0.5,2.2,two_sided,LabQAR_Set1_Set2
+314,Insulin,,,,Plasma,all,all,pmol/L,34.7,138.9,two_sided,LabQAR_Set1_Set2
+315,Inhibin A,,,,Serum,Male,all,ng/L,1.0,3.6,two_sided,LabQAR_Set1_Set2
+316,Inhibin A,,Early follicular,,Serum,Female,all,ng/L,5.5,28.2,two_sided,LabQAR_Set1_Set2
+317,Inhibin A,,Late follicular,,Serum,Female,all,ng/L,19.5,102.3,two_sided,LabQAR_Set1_Set2
+318,Inhibin A,,Midcycle,,Serum,Female,all,ng/L,49.9,155.5,two_sided,LabQAR_Set1_Set2
+319,Inhibin A,,Midluteal,,Serum,Female,all,ng/L,13.2,159.6,two_sided,LabQAR_Set1_Set2
+320,Inhibin A,,Postmenopausal,,Serum,Female,all,ng/L,1.0,3.9,two_sided,LabQAR_Set1_Set2
+321,Insulin C--peptide,C-peptide,,,Serum,all,all,nmol/L,0.17,1.17,two_sided,LabQAR_Set1_Set2
+322,Insulin--like growth factor,,,,Serum,all,all,μg/L,130.0,450.0,two_sided,LabQAR_Set1_Set2
+323,Ionized calcium,,,,Serum,all,all,mmol/L,1.15,1.27,two_sided,LabQAR_Set1_Set2
+324,Iron,Total,,,Serum,all,all,μmol/L,10.7,26.9,two_sided,LabQAR_Set1_Set2
+325,Iron--binding capacity,,,,Serum,all,all,μmol/L,44.8,71.6,two_sided,LabQAR_Set1_Set2
+326,Isoleucine,,,,Plasma,all,all,μmol/L,40.0,100.0,two_sided,LabQAR_Set1_Set2
+327,Isoniazid,,,,Plasma or serum,all,all,μmol/L,7.0,51.0,two_sided,LabQAR_Set1_Set2
+328,Isopropanol,,,,"Plasma, serum",all,all,mmol/L,6.64,,lower_only,LabQAR_Set1_Set2
+329,Lactate (lactic acid),,,,Arterial blood,all,all,mmol/L,0.3,1.3,two_sided,LabQAR_Set1_Set2
+330,Lactate (lactic acid),,,,Venous blood,all,all,mmol/L,0.5,2.2,two_sided,LabQAR_Set1_Set2
+331,"Lactate dehydrogenase (LDH, LD)",,,,Serum,all,all,U/L,50.0,200.0,two_sided,LabQAR_Set1_Set2
+332,Lamotrigine,,,,"Serum, plasma",all,all,μmol/L,10.0,59.0,two_sided,LabQAR_Set1_Set2
+333,Lead,,,,Whole blood,all,all,μmol/L,0.24,,lower_only,LabQAR_Set1_Set2
+334,Leucine,,,,Plasma,all,all,μmol/L,75.0,175.0,two_sided,LabQAR_Set1_Set2
+335,Leukocyte count,,,,nan,all,all,109 L-1,4.5,11.0,two_sided,LabQAR_Set1_Set2
+336,Levetiracetam,,,,"Serum, plasma",all,all,μmol/L,71.0,270.0,two_sided,LabQAR_Set1_Set2
+337,Lidocaine,,,,"Serum, plasma",all,all,μmol/L,6.4,25.6,two_sided,LabQAR_Set1_Set2
+338,Lipase,,,,Serum,all,all,μKat/L,0.0,2.72,two_sided,LabQAR_Set1_Set2
+339,Lipoprotein(a) (Lp(a)),,,,"Serum, plasma",all,all,g/L,0.1,0.3,two_sided,LabQAR_Set1_Set2
+340,Lithium,,,,"Serum, plasma",all,all,mmol/L,0.6,1.2,two_sided,LabQAR_Set1_Set2
+341,Lorazepam,,,,"Serum, plasma",all,all,nmol/L,156.0,746.0,two_sided,LabQAR_Set1_Set2
+342,Luteinizing hormone (LH),,Follicular phase,,Serum,Female,all,IU/L,2.0,15.0,two_sided,LabQAR_Set1_Set2
+343,Luteinizing hormone (LH),,Ovulatory peak,,Serum,Female,all,IU/L,22.0,105.0,two_sided,LabQAR_Set1_Set2
+344,Luteinizing hormone (LH),,Luteal phase,,Serum,Female,all,IU/L,0.6,19.0,two_sided,LabQAR_Set1_Set2
+345,Luteinizing hormone (LH),,Postmenopausal,,Serum,Female,all,IU/L,16.0,64.0,two_sided,LabQAR_Set1_Set2
+346,Luteinizing hormone (LH),,,,Serum,Male,all,IU/L,2.0,12.0,two_sided,LabQAR_Set1_Set2
+347,Lymphocytes,,,,Whole blood,all,all,109 L-1,1.0,4.8,two_sided,LabQAR_Set1_Set2
+348,Lymphocytes,,,,Whole blood,all,all,Fraction of 1.0,0.34,0.34,two_sided,LabQAR_Set1_Set2
+349,Lysine,,,,Plasma,all,all,μmol/L,80.0,240.0,two_sided,LabQAR_Set1_Set2
+350,Lysozyme (muramidase),,,,Serum,all,all,mg/L,4.0,13.0,two_sided,LabQAR_Set1_Set2
+351,Magnesium,,,,Serum,all,all,mmol/L,0.62,1.03,two_sided,LabQAR_Set1_Set2
+352,Manganese,,,,Whole blood,all,all,nmol/L,182.0,218.0,two_sided,LabQAR_Set1_Set2
+353,Maprotiline ,,,,"Plasma, serum",all,all,μg/L,200.0,600.0,two_sided,LabQAR_Set1_Set2
+354,Mean corpuscular hemoglobin (MCH),,,,Whole blood,all,all,pg/cell,27.0,33.0,two_sided,LabQAR_Set1_Set2
+355,Mean corpuscular hemoglobin (MCH),,,,Whole blood,all,all,fmol,1.7,2.05,two_sided,LabQAR_Set1_Set2
+356,Mean corpuscular hemoglobin concentration (MCHC),,,,Whole blood,all,all,g Hb/L,330.0,370.0,two_sided,LabQAR_Set1_Set2
+357,Mean corpuscular hemoglobin concentration (MCHC),,,,Whole blood,all,all,mmol/L,20.0,23.0,two_sided,LabQAR_Set1_Set2
+358,Meperidine,,,,"Serum, plasma",all,all,μmol/L,1.6,2.8,two_sided,LabQAR_Set1_Set2
+359,Mercury,,,,Whole blood,all,all,nmol/L,3.0,294.4,two_sided,LabQAR_Set1_Set2
+360,Metanephrines,Total,,,Urine,all,all,μmol/day,,5.0,upper_only,LabQAR_Set1_Set2
+361,Methadone,,,,"Serum, plasma",all,all,μmol/L,0.32,1.29,two_sided,LabQAR_Set1_Set2
+362,Methanol,,,,"Whole blood, serum",all,all,mmol/L,0.05,,lower_only,LabQAR_Set1_Set2
+363,Methemoglobin,,,,Whole blood,all,all,μmol/L,,37.2,upper_only,LabQAR_Set1_Set2
+364,Methemoglobin,,,,Whole blood,all,all,Fraction of total Hb,,0.01,upper_only,LabQAR_Set1_Set2
+365,Methionine,,,,Plasma,all,all,μmol/L,6.0,40.0,two_sided,LabQAR_Set1_Set2
+366,Methsuximide,,,,"Serum, plasma",all,all,μmol/L,53.0,212.0,two_sided,LabQAR_Set1_Set2
+367,Methyldopa,,,,"Serum, plasma",all,all,μmol/L,5.0,24.0,two_sided,LabQAR_Set1_Set2
+368,Metoprolol,,,,"Serum, plasma",all,all,nmol/L,281.0,748.0,two_sided,LabQAR_Set1_Set2
+369,Mexthotrexate,,,,"Serum, plasma",all,all,μmol/L,9.0,,lower_only,LabQAR_Set1_Set2
+370,Mexthotrexate,,,,"Serum, plasma",all,all,μmol/L,0.99,,lower_only,LabQAR_Set1_Set2
+371,β₂-Microglobulinn,,,,Serum,all,all,nmol/L,,170.0,upper_only,LabQAR_Set1_Set2
+372,Monocytes,,,,Whole blood,all,all,109 L-1,0.0,0.8,two_sided,LabQAR_Set1_Set2
+373,Monocytes,,,,Whole blood,all,all,Fraction of 1.0,0.04,0.04,two_sided,LabQAR_Set1_Set2
+374,Morphine,,,,"Serum, plasma",all,all,nmol/L,35.0,280.0,two_sided,LabQAR_Set1_Set2
+375,Muramidase,,,,Serum,all,all,mg/L,4.0,13.0,two_sided,LabQAR_Set1_Set2
+376,Mycophenolic acid,,,,"Serum, plasma",all,all,μmol/L,4.0,11.0,two_sided,LabQAR_Set1_Set2
+377,Naproxen,,,,"Plasma, serum",all,all,μmol/L,217.0,,lower_only,LabQAR_Set1_Set2
+378,Neutrophils,,,,Whole blood,all,all,109 L-1,1.8,7.8,two_sided,LabQAR_Set1_Set2
+379,Neutrophils,,,,Whole blood,all,all,Fraction of 1.0,0.56,0.56,two_sided,LabQAR_Set1_Set2
+380,Niacin (nicotinic acid),Vitamin B₃,,,"Plasma, serum",all,all,μmol/day,3.65,61.69,two_sided,LabQAR_Set1_Set2
+381,Nickel,,,,Whole blood,all,all,nmol/L,17.0,476.0,two_sided,LabQAR_Set1_Set2
+382,Nicotine,,,,Plasma,all,all,μmol/L,0.062,0.308,two_sided,LabQAR_Set1_Set2
+383,Norepinephrine,,,,Plasma,all,all,nmol/L,650.0,2423.0,two_sided,LabQAR_Set1_Set2
+384,Norepinephrine,,,,Urine,all,all,nmol/day,89.0,473.0,two_sided,LabQAR_Set1_Set2
+385,Nortriptyline,,,,"Serum, plasma",all,all,nmol/L,190.0,570.0,two_sided,LabQAR_Set1_Set2
+386,"N--telopeptide (BCE, bone collagen equivalents)",,,,Serum,Male,all,nmol BCE/L,5.4,24.2,two_sided,LabQAR_Set1_Set2
+387,"N--telopeptide (BCE, bone collagen equivalents)",,Premenopausal,,Serum,Female,all,nmol BCE/L,6.2,19.0,two_sided,LabQAR_Set1_Set2
+388,Ornithine,,,,Plasma,all,all,μmol/L,30.0,106.0,two_sided,LabQAR_Set1_Set2
+389,Osmolality,,,,Serum,all,all,mmol/kg H₂O,275.0,295.0,two_sided,LabQAR_Set1_Set2
+390,Osmolality,,,,Urine,all,all,mmol/kg H₂O,250.0,900.0,two_sided,LabQAR_Set1_Set2
+391,Osteocalcin,,,,Serum,all,all,μg/L,3.0,13.0,two_sided,LabQAR_Set1_Set2
+392,Oxalate,,,,Serum,all,all,μmol/L,11.0,27.0,two_sided,LabQAR_Set1_Set2
+393,Oxazepam,,,,"Serum, plasma",all,all,μmol/L,0.7,54.9,two_sided,LabQAR_Set1_Set2
+394,Oxycodone,,,,"Plasma, serum",all,all,nmol/L,32.0,317.0,two_sided,LabQAR_Set1_Set2
+395,Oxygen,Partial pressure (Po₂),,,Arterial blood,all,all,mm Hg,80.0,100.0,two_sided,LabQAR_Set1_Set2
+396,Pantothenic acid,Vitamin B₅,,,nan,all,all,μmol/L,0.9,8.2,two_sided,LabQAR_Set1_Set2
+397,Parathyroid hormone,Intact,,,Serum,all,all,ng/L,10.0,50.0,two_sided,LabQAR_Set1_Set2
+398,Parathyroid hormone,N--terminal specific,,,Serum,all,all,ng/L,8.0,24.0,two_sided,LabQAR_Set1_Set2
+399,Parathyroid hormone,C--terminal,,,Serum,all,all,ng/L,0.0,340.0,two_sided,LabQAR_Set1_Set2
+400,Pentobarbital,,,,"Serum, plasma",all,all,μmol/L,4.0,22.0,two_sided,LabQAR_Set1_Set2
+401,Pepsinogen I,,,,Serum,all,all,μg/L,28.0,100.0,two_sided,LabQAR_Set1_Set2
+402,pH,,,,Arterial blood,all,all,nan,7.35,7.45,two_sided,LabQAR_Set1_Set2
+403,Phenobarbital,,,,"Serum, plasma",all,all,μmol/L,65.0,172.0,two_sided,LabQAR_Set1_Set2
+404,Phenylalanine,,,,Plasma,all,all,μmol/L,35.0,90.0,two_sided,LabQAR_Set1_Set2
+405,Phenytoin,,,,"Serum, plasma",all,all,μmol/L,40.0,79.0,two_sided,LabQAR_Set1_Set2
+406,"Phosphatase, tartrate--resistant acid",,,,Serum,all,all,μkat/L,0.03,0.08,two_sided,LabQAR_Set1_Set2
+407,Phosphorus,Inorganic,,,Serum,all,all,mmol/L,0.74,1.52,two_sided,LabQAR_Set1_Set2
+408,Phosphorus,Inorganic,,,Urine,all,all,mmol/day,12.9,42.0,two_sided,LabQAR_Set1_Set2
+409,Plasminogen,,,,Plasma,all,all,Fraction of 1.0,0.8,1.2,two_sided,LabQAR_Set1_Set2
+410,Plasminogen activator inhibitor activity,,,,Plasma,all,all,IU/L,3.0,56.0,two_sided,LabQAR_Set1_Set2
+411,Platelet count,,,,Whole blood,all,all,109 L-1,150.0,450.0,two_sided,LabQAR_Set1_Set2
+412,Porphobilinogen deaminase,,,,Red blood cells,all,all,nmol/s/L,7.0,,lower_only,LabQAR_Set1_Set2
+413,Potassium,,,,Plasma,all,all,mmol/L,3.5,5.0,two_sided,LabQAR_Set1_Set2
+414,Prealbumin-transthyretin,,,,"Serum, plasma",all,all,g/L,0.18,0.45,two_sided,LabQAR_Set1_Set2
+415,Pregnanediol,,Follicular phase,,Urine,Female,all,μmol/day,,8.0,upper_only,LabQAR_Set1_Set2
+416,Pregnanediol,,Luteal phase,,Urine,Female,all,μmol/day,8.0,33.0,two_sided,LabQAR_Set1_Set2
+417,Pregnanediol,,,,Urine,Male,all,μmol/day,0.0,5.9,two_sided,LabQAR_Set1_Set2
+418,Pregnanetriol,,,,Urine,all,all,μmol/day,,7.5,upper_only,LabQAR_Set1_Set2
+419,Primidone,,,,"Serum, plasma",all,all,μmol/L,23.0,55.0,two_sided,LabQAR_Set1_Set2
+420,Procainamide,,,,"Serum, plasma",all,all,μmol/L,17.0,42.0,two_sided,LabQAR_Set1_Set2
+421,Progesterone,,Follicular phase,,Serum,Female,all,nmol/L,0.5,2.2,two_sided,LabQAR_Set1_Set2
+422,Progesterone,,Luteal phase,,Serum,Female,all,nmol/L,6.4,79.5,two_sided,LabQAR_Set1_Set2
+423,Progesterone,,,,Serum,Male,all,nmol/L,0.4,3.1,two_sided,LabQAR_Set1_Set2
+424,Prolactin,,Nonlactating,,Serum,all,all,μg/L,1.0,25.0,two_sided,LabQAR_Set1_Set2
+425,Proline,,,,Plasma,all,all,μmol/L,104.0,340.0,two_sided,LabQAR_Set1_Set2
+426,Propoxyphene,,,,Serum,all,all,μmol/L,0.3,1.2,two_sided,LabQAR_Set1_Set2
+427,Propanolol,,,,"Serum, plasma",all,all,nmol/L,190.0,386.0,two_sided,LabQAR_Set1_Set2
+428,Protein,Total,,,Serum,all,all,g/L,60.0,80.0,two_sided,LabQAR_Set1_Set2
+429,Protein C activity,,,,Plasma,all,all,Fraction of 1.0,0.7,1.4,two_sided,LabQAR_Set1_Set2
+430,Protein electrophoresis (serum protein electrophoresis [SPEP]),Albumin,,,Serum,all,all,Fraction of 1.0,0.52,0.65,two_sided,LabQAR_Set1_Set2
+431,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₁--Globulin,,,Serum,all,all,Fraction of 1.0,0.025,0.05,two_sided,LabQAR_Set1_Set2
+432,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₂-­Globulin,,,Serum,all,all,Fraction of 1.0,0.07,0.13,two_sided,LabQAR_Set1_Set2
+433,Protein electrophoresis (serum protein electrophoresis [SPEP]),β-Globulin,,,Serum,all,all,Fraction of 1.0,0.08,0.14,two_sided,LabQAR_Set1_Set2
+434,Protein electrophoresis (serum protein electrophoresis [SPEP]),γ­-Globulin,,,Serum,all,all,Fraction of 1.0,0.12,0.22,two_sided,LabQAR_Set1_Set2
+435,Protein electrophoresis (serum protein electrophoresis [SPEP]),Albumin,,,Serum,all,all,g/L,32.0,56.0,two_sided,LabQAR_Set1_Set2
+436,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₁--Globulin,,,Serum,all,all,g/L,1.0,10.0,two_sided,LabQAR_Set1_Set2
+437,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₂-­Globulin,,,Serum,all,all,g/L,4.0,12.0,two_sided,LabQAR_Set1_Set2
+438,Protein electrophoresis (serum protein electrophoresis [SPEP]),β-Globulin,,,Serum,all,all,g/L,5.0,11.0,two_sided,LabQAR_Set1_Set2
+439,Protein electrophoresis (serum protein electrophoresis [SPEP]),γ­-Globulin,,,Serum,all,all,g/L,5.0,16.0,two_sided,LabQAR_Set1_Set2
+440,Protein S activity,,,,Plasma,all,all,Fraction of 1.0,0.7,1.4,two_sided,LabQAR_Set1_Set2
+441,Protein S free antigen,,,,Plasma,all,all,Fraction of 1.0,0.8,1.6,two_sided,LabQAR_Set1_Set2
+442,Prothrombin time (PT),,,,Plasma,all,all,seconds,10.0,13.0,two_sided,LabQAR_Set1_Set2
+443,Protoporphyrin,,,,Red blood cells,all,all,μmol/L,0.27,0.89,two_sided,LabQAR_Set1_Set2
+444,Prostate--specific antigen (PSA),,,,Serum,all,all,μg/L,0.0,4.0,two_sided,LabQAR_Set1_Set2
+445,Pyridinium cross-links (deoxypyridinoline),,,,Urine,Male,all,nmol/mmol creatinine,10.3,20.0,two_sided,LabQAR_Set1_Set2
+446,Pyridinium cross-links (deoxypyridinoline),,Premenopausal,,Urine,Female,all,nmol/mmol creatinine,15.3,33.6,two_sided,LabQAR_Set1_Set2
+447,Pyridoxine,Vitamin B₆,,,nan,all,all,nmol/L,20.0,121.0,two_sided,LabQAR_Set1_Set2
+448,Pyruvate,Pyruvic acid,,,Whole blood,all,all,μmol/L,34.0,102.0,two_sided,LabQAR_Set1_Set2
+449,Quinidine,,,,"Serum, plasma",all,all,μmol/L,6.2,15.4,two_sided,LabQAR_Set1_Set2
+450,Red blood cell count,,,,Whole blood,Female,all,1012 L-1,3.9,5.5,two_sided,LabQAR_Set1_Set2
+451,Red blood cell count,,,,Whole blood,Male,all,1012 L-1,4.6,6.0,two_sided,LabQAR_Set1_Set2
+452,Red cell folate,Folate,,,Serum,all,all,nmol/L,11.0,57.0,two_sided,LabQAR_Set1_Set2
+453,Renin,,,,Plasma,all,all,ng/mL/h,1.1,4.1,two_sided,LabQAR_Set1_Set2
+454,Reticulocyte count,,,,Whole blood,all,all,10⁹ μL-1,25.0,75.0,two_sided,LabQAR_Set1_Set2
+455,Reticulocyte count,Fraction,,,Whole blood,all,all,Fraction of RBCs,0.005,0.015,two_sided,LabQAR_Set1_Set2
+456,Retinol,Vitamin A,,,Serum,all,all,μmol/L,1.05,2.8,two_sided,LabQAR_Set1_Set2
+457,Rheumatoid factor,,,,Serum,all,all,kIU/L,,30.0,upper_only,LabQAR_Set1_Set2
+458,Riboflavin,Vitamin B₂,,,"Plasma, serum",all,all,nmol/L,106.0,638.0,two_sided,LabQAR_Set1_Set2
+459,Salicylates,,,,"Serum, plasma",all,all,mmol/L,1.08,2.17,two_sided,LabQAR_Set1_Set2
+460,Sedimentation rate,Erythrocyte sedimentation rate (ESR),,,Whole blood,all,all,mm/hour,0.0,20.0,two_sided,LabQAR_Set1_Set2
+461,Selenium,,,,Whole blood,all,all,μmol/L,0.74,2.97,two_sided,LabQAR_Set1_Set2
+462,Serine,,,,Plasma,all,all,μmol/L,65.0,193.0,two_sided,LabQAR_Set1_Set2
+463,Serotonin (5--hydroxytryptamine),,,,Whole blood,all,all,μmol/L,0.28,1.14,two_sided,LabQAR_Set1_Set2
+464,Sertraline,,,,Serum or plasma,all,all,nmol/L,33.0,164.0,two_sided,LabQAR_Set1_Set2
+465,Protein electrophoresis (serum protein electrophoresis [SPEP]),Albumin,,,Serum,all,all,Fraction of 1.0,0.52,0.65,two_sided,LabQAR_Set1_Set2
+466,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₁--Globulin,,,Serum,all,all,Fraction of 1.0,0.025,0.05,two_sided,LabQAR_Set1_Set2
+467,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₂-­Globulin,,,Serum,all,all,Fraction of 1.0,0.07,0.13,two_sided,LabQAR_Set1_Set2
+468,Protein electrophoresis (serum protein electrophoresis [SPEP]),β­-Globulin,,,Serum,all,all,Fraction of 1.0,0.08,0.14,two_sided,LabQAR_Set1_Set2
+469,Protein electrophoresis (serum protein electrophoresis [SPEP]),γ­-Globulin,,,Serum,all,all,Fraction of 1.0,0.12,0.22,two_sided,LabQAR_Set1_Set2
+470,Protein electrophoresis (serum protein electrophoresis [SPEP]),Albumin,,,Serum,all,all,g/L,32.0,56.0,two_sided,LabQAR_Set1_Set2
+471,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₁--Globulin,,,Serum,all,all,g/L,1.0,10.0,two_sided,LabQAR_Set1_Set2
+472,Protein electrophoresis (serum protein electrophoresis [SPEP]),α₂-­Globulin,,,Serum,all,all,g/L,4.0,12.0,two_sided,LabQAR_Set1_Set2
+473,Protein electrophoresis (serum protein electrophoresis [SPEP]),β­-Globulin,,,Serum,all,all,g/L,5.0,11.0,two_sided,LabQAR_Set1_Set2
+474,Protein electrophoresis (serum protein electrophoresis [SPEP]),γ­-Globulin,,,Serum,all,all,g/L,5.0,16.0,two_sided,LabQAR_Set1_Set2
+475,Sex hormone-binding globulin,,,,Serum,all,all,nmol/L,17.4,52.1,two_sided,LabQAR_Set1_Set2
+476,Sirolimus,,,,Whole blood,all,all,nmol/L,4.0,22.0,two_sided,LabQAR_Set1_Set2
+477,Sodium,,,,Plasma,all,all,mmol/L,136.0,142.0,two_sided,LabQAR_Set1_Set2
+478,Somatostatin,,,,Plasma,all,all,ng/L,,25.0,upper_only,LabQAR_Set1_Set2
+479,Somatomedin C,Insulin-like growth factor,,,Serum,all,all,μg/L,130.0,450.0,two_sided,LabQAR_Set1_Set2
+480,Strychnine,,,,Whole blood,all,all,μmol/L,1.5,,lower_only,LabQAR_Set1_Set2
+481,Substance P,,,,Plasma,all,all,ng/L,,240.0,upper_only,LabQAR_Set1_Set2
+482,Sulfhemoglobin,,,,Whole blood,all,all,Fraction of total Hb,,0.01,upper_only,LabQAR_Set1_Set2
+483,Tacrolimus,,,,Whole blood,all,all,nmol/L,4.0,25.0,two_sided,LabQAR_Set1_Set2
+484,Taurine,,,,Plasma,all,all,μmol/L,24.0,168.0,two_sided,LabQAR_Set1_Set2
+485,Testosterone,,,,"Plasma, serum",Male,all,nmol/L,10.4,41.6,two_sided,LabQAR_Set1_Set2
+486,Testosterone,,,,"Plasma, serum",Female,all,nmol/L,2.95,2.95,two_sided,LabQAR_Set1_Set2
+487,Theophylline,,,,"Plasma, serum",all,all,μmol/L,56.0,111.0,two_sided,LabQAR_Set1_Set2
+488,Thiamine,Vitamin B₁,,,Whole blood,all,all,nmol/L,74.0,222.0,two_sided,LabQAR_Set1_Set2
+489,Thiocyanate,,,,"Plasma, serum",all,all,μmol/L,17.0,69.0,two_sided,LabQAR_Set1_Set2
+490,Thiopental,,,,"Plasma, serum",all,all,μmol/L,4.0,21.0,two_sided,LabQAR_Set1_Set2
+491,Thioridazine,,,,"Plasma, serum",all,all,μmol/L,2.7,4.1,two_sided,LabQAR_Set1_Set2
+492,Thrombin time,,,,Plasma,all,all,seconds,16.0,24.0,two_sided,LabQAR_Set1_Set2
+493,Threonine,,,,Plasma,all,all,μmol/L,75.0,210.0,two_sided,LabQAR_Set1_Set2
+494,Thyroglobulin,,,,Serum,all,all,μg/L,3.0,42.0,two_sided,LabQAR_Set1_Set2
+495,"Thyrotropin (thyroid--stimulating hormone, TSH)",,,,Serum,all,all,mU/L,0.5,5.0,two_sided,LabQAR_Set1_Set2
+496,Thyroxine (FT₄),Free,,,Serum,all,all,pmol/L,12.0,30.0,two_sided,LabQAR_Set1_Set2
+497,Thyroxine (T₄),Total,,,Serum,all,all,nmol/L,71.0,160.0,two_sided,LabQAR_Set1_Set2
+498,Thyroxine--binding globulin (TBG),T₄ binding capacity,,,Serum,all,all,nmol/L,129.0,335.0,two_sided,LabQAR_Set1_Set2
+499,Tissue plasminogen activator,,,,Plasma,all,all,IU/L,,40.0,upper_only,LabQAR_Set1_Set2
+500,Tobramycin,,,,"Plasma, serum",all,all,μmol/L,10.0,21.0,two_sided,LabQAR_Set1_Set2
+501,Tocainide,,,,"Plasma, serum",all,all,μmol/L,21.0,52.0,two_sided,LabQAR_Set1_Set2
+502,Vitamin E (α-­tocopherol),Vitamin E,,,"Plasma, serum",all,all,μmol/L,12.0,42.0,two_sided,LabQAR_Set1_Set2
+503,Topiramate,,,,"Serum, plasma",all,all,μmol/L,15.0,59.0,two_sided,LabQAR_Set1_Set2
+504,Transferrin (siderophilin),,,,Serum,all,all,g/L,2.0,3.8,two_sided,LabQAR_Set1_Set2
+505,Triglycerides,,,,"Plasma, serum",all,all,mmol/L,0.11,2.15,two_sided,LabQAR_Set1_Set2
+506,Triiodothyronine (FT₃),Free,,,Serum,all,all,pmol/L,4.0,7.4,two_sided,LabQAR_Set1_Set2
+507,Triiodothyronine,Resin uptake,,,Serum,all,all,Fraction of 1.0,0.25,0.35,two_sided,LabQAR_Set1_Set2
+508,Triiodothyronine (T₃),Total,,,Serum,all,all,nmol/L,1.08,3.14,two_sided,LabQAR_Set1_Set2
+509,Troponin I,Cardiac,,,Serum,all,all,μg/L,0.0,0.4,two_sided,LabQAR_Set1_Set2
+510,Troponin T,Cardiac,,,Serum,all,all,μg/L,0.0,0.1,two_sided,LabQAR_Set1_Set2
+511,Tryptophan,,,,Plasma,all,all,μmol/L,25.0,73.0,two_sided,LabQAR_Set1_Set2
+512,Tyrosine,,,,Plasma,all,all,μmol/L,20.0,90.0,two_sided,LabQAR_Set1_Set2
+513,Urea nitrogen (BUN),,,,Serum,all,all,mmol/L,2.9,8.2,two_sided,LabQAR_Set1_Set2
+514,Uric acid,,,,Serum,all,all,mmol/L,0.24,0.51,two_sided,LabQAR_Set1_Set2
+515,Urobilinogen,,,,Urine,all,all,μmol/day,0.1,4.2,two_sided,LabQAR_Set1_Set2
+516,Valine,,,,Plasma,all,all,μmol/L,145.0,315.0,two_sided,LabQAR_Set1_Set2
+517,Valproic acid,,,,"Plasma, serum",all,all,μmol/L,346.0,1040.0,two_sided,LabQAR_Set1_Set2
+518,Vancomycin,,,,"Plasma, serum",all,all,μmol/L,6.9,13.8,two_sided,LabQAR_Set1_Set2
+519,Vanillylmandelic acid (VMA),,,,Urine,all,all,μmol/day,11.0,38.0,two_sided,LabQAR_Set1_Set2
+520,Vasoactive intestinal polypeptide,,,,Plasma,all,all,ng/L,,50.0,upper_only,LabQAR_Set1_Set2
+521,Verapamil,,,,"Plasma, serum",all,all,nmol/L,220.0,1100.0,two_sided,LabQAR_Set1_Set2
+522,Vitamin A (retinol),,,,Serum,all,all,μmol/L,1.05,2.8,two_sided,LabQAR_Set1_Set2
+523,Vitamin B₁ (thiamine),,,,Whole blood,all,all,nmol/L,74.0,222.0,two_sided,LabQAR_Set1_Set2
+524,Vitamin B₁₂ (cyanocobalamin),,,,"Plasma, serum",all,all,nmol/L,106.0,638.0,two_sided,LabQAR_Set1_Set2
+525,Vitamin B₂ (riboflavin),,,,Whole blood,all,all,μmol/L,0.9,8.2,two_sided,LabQAR_Set1_Set2
+526,Vitamin B₅ (pantothenic acid),,,,Plasma,all,all,nmol/L,20.0,121.0,two_sided,LabQAR_Set1_Set2
+527,Vitamin B₆ (pyridoxine),,,,Serum,all,all,pmol/L,118.0,701.0,two_sided,LabQAR_Set1_Set2
+528,Vitamin C (ascorbic acid),,,,"Plasma, serum",all,all,μmol/L,23.0,85.0,two_sided,LabQAR_Set1_Set2
+529,Vitamin D,"1,25--dihydroxyvitamin D",,,"Plasma, serum",all,all,pmol/L,42.0,169.0,two_sided,LabQAR_Set1_Set2
+530,Vitamin D,25--hydroxyvitamin D,,,"Plasma, serum",all,all,nmol/L,35.0,150.0,two_sided,LabQAR_Set1_Set2
+531,Vitamin E (α-­tocopherol),,,,"Plasma, serum",all,all,μmol/L,12.0,42.0,two_sided,LabQAR_Set1_Set2
+532,Vitamin K,,,,"Plasma, serum",all,all,nmol/L,0.29,2.64,two_sided,LabQAR_Set1_Set2
+533,von Willebrand factor,,,,Plasma,all,all,Fraction of 1.0,0.7,1.4,two_sided,LabQAR_Set1_Set2
+534,Warfarin,,,,"Plasma, serum",all,all,μmol/L,3.2,32.4,two_sided,LabQAR_Set1_Set2
+535,White blood cell count,,,,Whole blood,all,all,10⁹ μL-1,4.5,11.0,two_sided,LabQAR_Set1_Set2
+536,White blood cell count,Neutrophils,,,Whole blood,all,all,109 L-1,1.8,7.8,two_sided,LabQAR_Set1_Set2
+537,White blood cell count,Bands,,,Whole blood,all,all,109 L-1,0.0,0.7,two_sided,LabQAR_Set1_Set2
+538,White blood cell count,Lymphocytes,,,Whole blood,all,all,109 L-1,1.0,4.8,two_sided,LabQAR_Set1_Set2
+539,White blood cell count,Monocytes,,,Whole blood,all,all,109 L-1,0.0,0.8,two_sided,LabQAR_Set1_Set2
+540,White blood cell count,Eosinophils,,,Whole blood,all,all,109 L-1,0.0,0.45,two_sided,LabQAR_Set1_Set2
+541,White blood cell count,Basophils,,,Whole blood,all,all,109 L-1,0.0,0.2,two_sided,LabQAR_Set1_Set2
+542,White blood cell count,Neutrophils,,,Whole blood,all,all,Fraction of 1.0,0.56,0.56,two_sided,LabQAR_Set1_Set2
+543,White blood cell count,Bands,,,Whole blood,all,all,Fraction of 1.0,0.03,0.03,two_sided,LabQAR_Set1_Set2
+544,White blood cell count,Lymphocytes,,,Whole blood,all,all,Fraction of 1.0,0.34,0.34,two_sided,LabQAR_Set1_Set2
+545,White blood cell count,Monocytes,,,Whole blood,all,all,Fraction of 1.0,0.04,0.04,two_sided,LabQAR_Set1_Set2
+546,White blood cell count,Eosinophils,,,Whole blood,all,all,Fraction of 1.0,0.027,0.027,two_sided,LabQAR_Set1_Set2
+547,White blood cell count,Basophils,,,Whole blood,all,all,Fraction of 1.0,0.003,0.003,two_sided,LabQAR_Set1_Set2
+548,Xylose absorption test,,,,Whole blood,all,all,mmol/L,1.7,,lower_only,LabQAR_Set1_Set2
+549,Zidovudine,,,,"Plasma, serum",all,all,μmol/L,0.56,1.01,two_sided,LabQAR_Set1_Set2
+550,Zinc,,,,Serum,all,all,μmol/L,7.7,23.0,two_sided,LabQAR_Set1_Set2

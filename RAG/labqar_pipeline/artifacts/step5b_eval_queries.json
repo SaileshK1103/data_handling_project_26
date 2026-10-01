@@ -1,0 +1,1802 @@
+[
+  {
+    "ref_id": 115,
+    "query": "what is a normal Calcium level in serum?",
+    "gold_parameter": "Calcium",
+    "gold_parameter_norm": "calcium",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 115,
+    "query": "is my Calcium result within the reference range in serum?",
+    "gold_parameter": "Calcium",
+    "gold_parameter_norm": "calcium",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 26,
+    "query": "what is a normal Amino acid fractionation level in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 26,
+    "query": "typical Amino acid fractionation reference interval in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 282,
+    "query": "Gold normal range in serum",
+    "gold_parameter": "Gold",
+    "gold_parameter_norm": "gold",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 282,
+    "query": "typical Gold reference interval in serum",
+    "gold_parameter": "Gold",
+    "gold_parameter_norm": "gold",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 251,
+    "query": "what is a normal Fatty acids level in plasma?",
+    "gold_parameter": "Fatty acids",
+    "gold_parameter_norm": "fatty acids",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 251,
+    "query": "is my Fatty acids result within the reference range in plasma?",
+    "gold_parameter": "Fatty acids",
+    "gold_parameter_norm": "fatty acids",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 229,
+    "query": "how do I know if Erythrocyte count is too high or too low for a male in whole blood?",
+    "gold_parameter": "Erythrocyte count",
+    "gold_parameter_norm": "erythrocyte count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 229,
+    "query": "typical Erythrocyte count reference interval for a male in whole blood",
+    "gold_parameter": "Erythrocyte count",
+    "gold_parameter_norm": "erythrocyte count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 143,
+    "query": "is my Cholesterol result within the reference range (adult) in serum?",
+    "gold_parameter": "Cholesterol",
+    "gold_parameter_norm": "cholesterol",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "Adult"
+  },
+  {
+    "ref_id": 143,
+    "query": "Cholesterol normal range (adult) in serum",
+    "gold_parameter": "Cholesterol",
+    "gold_parameter_norm": "cholesterol",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "Adult"
+  },
+  {
+    "ref_id": 105,
+    "query": "CA125 normal range in serum",
+    "gold_parameter": "CA125",
+    "gold_parameter_norm": "ca125",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 105,
+    "query": "how do I know if CA125 is too high or too low in serum?",
+    "gold_parameter": "CA125",
+    "gold_parameter_norm": "ca125",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 90,
+    "query": "is my Bicarbonate result within the reference range in plasma?",
+    "gold_parameter": "Bicarbonate",
+    "gold_parameter_norm": "bicarbonate",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 90,
+    "query": "typical Bicarbonate reference interval in plasma",
+    "gold_parameter": "Bicarbonate",
+    "gold_parameter_norm": "bicarbonate",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 433,
+    "query": "is my Protein electrophoresis (serum protein electrophoresis [SPEP]) result within the reference range in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 433,
+    "query": "how do I know if Protein electrophoresis (serum protein electrophoresis [SPEP]) is too high or too low in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 33,
+    "query": "how do I know if Amino acid fractionation is too high or too low in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 33,
+    "query": "typical Amino acid fractionation reference interval in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 31,
+    "query": "how do I know if Amino acid fractionation is too high or too low in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 31,
+    "query": "Amino acid fractionation normal range in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 96,
+    "query": "how do I know if Blood gases is too high or too low in arterial blood?",
+    "gold_parameter": "Blood gases",
+    "gold_parameter_norm": "blood gases",
+    "gold_specimen": "Arterial blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 96,
+    "query": "Blood gases normal range in arterial blood",
+    "gold_parameter": "Blood gases",
+    "gold_parameter_norm": "blood gases",
+    "gold_specimen": "Arterial blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 224,
+    "query": "typical Electrolytes reference interval in plasma",
+    "gold_parameter": "Electrolytes",
+    "gold_parameter_norm": "electrolytes",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 224,
+    "query": "is my Electrolytes result within the reference range in plasma?",
+    "gold_parameter": "Electrolytes",
+    "gold_parameter_norm": "electrolytes",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 239,
+    "query": "is my Estrogens result within the reference range for a female in serum?",
+    "gold_parameter": "Estrogens",
+    "gold_parameter_norm": "estrogens",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 239,
+    "query": "Estrogens normal range for a female in serum",
+    "gold_parameter": "Estrogens",
+    "gold_parameter_norm": "estrogens",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 518,
+    "query": "what is a normal Vancomycin level in plasma, serum?",
+    "gold_parameter": "Vancomycin",
+    "gold_parameter_norm": "vancomycin",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 518,
+    "query": "how do I know if Vancomycin is too high or too low in plasma, serum?",
+    "gold_parameter": "Vancomycin",
+    "gold_parameter_norm": "vancomycin",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 28,
+    "query": "what is a normal Amino acid fractionation level in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 28,
+    "query": "is my Amino acid fractionation result within the reference range in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 204,
+    "query": "is my Creatinine result within the reference range in serum, plasma?",
+    "gold_parameter": "Creatinine",
+    "gold_parameter_norm": "creatinine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 204,
+    "query": "Creatinine normal range in serum, plasma",
+    "gold_parameter": "Creatinine",
+    "gold_parameter_norm": "creatinine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 430,
+    "query": "how do I know if Protein electrophoresis (serum protein electrophoresis [SPEP]) is too high or too low in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 430,
+    "query": "what is a normal Protein electrophoresis (serum protein electrophoresis [SPEP]) level in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 226,
+    "query": "Epinephrine normal range in plasma",
+    "gold_parameter": "Epinephrine",
+    "gold_parameter_norm": "epinephrine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 226,
+    "query": "how do I know if Epinephrine is too high or too low in plasma?",
+    "gold_parameter": "Epinephrine",
+    "gold_parameter_norm": "epinephrine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 460,
+    "query": "how do I know if Sedimentation rate is too high or too low in whole blood?",
+    "gold_parameter": "Sedimentation rate",
+    "gold_parameter_norm": "sedimentation rate",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 460,
+    "query": "Sedimentation rate normal range in whole blood",
+    "gold_parameter": "Sedimentation rate",
+    "gold_parameter_norm": "sedimentation rate",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 285,
+    "query": "how do I know if Haptoglobin is too high or too low in serum?",
+    "gold_parameter": "Haptoglobin",
+    "gold_parameter_norm": "haptoglobin",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 285,
+    "query": "typical Haptoglobin reference interval in serum",
+    "gold_parameter": "Haptoglobin",
+    "gold_parameter_norm": "haptoglobin",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 7,
+    "query": "how do I know if Adrenocorticotropic hormone is too high or too low in plasma?",
+    "gold_parameter": "Adrenocorticotropic hormone",
+    "gold_parameter_norm": "adrenocorticotropic hormone",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 7,
+    "query": "what is a normal Adrenocorticotropic hormone level in plasma?",
+    "gold_parameter": "Adrenocorticotropic hormone",
+    "gold_parameter_norm": "adrenocorticotropic hormone",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 164,
+    "query": "what is a normal Complete blood count (CBC) level for a female in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 164,
+    "query": "typical Complete blood count (CBC) reference interval for a female in whole blood",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 542,
+    "query": "typical White blood cell count reference interval in whole blood",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 542,
+    "query": "what is a normal White blood cell count level in whole blood?",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 349,
+    "query": "typical Lysine reference interval in plasma",
+    "gold_parameter": "Lysine",
+    "gold_parameter_norm": "lysine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 349,
+    "query": "Lysine normal range in plasma",
+    "gold_parameter": "Lysine",
+    "gold_parameter_norm": "lysine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 530,
+    "query": "is my Vitamin D result within the reference range in plasma, serum?",
+    "gold_parameter": "Vitamin D",
+    "gold_parameter_norm": "vitamin d",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 530,
+    "query": "Vitamin D normal range in plasma, serum",
+    "gold_parameter": "Vitamin D",
+    "gold_parameter_norm": "vitamin d",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 160,
+    "query": "what is a normal Coagulation factor XII level in plasma?",
+    "gold_parameter": "Coagulation factor XII",
+    "gold_parameter_norm": "coagulation factor xii",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 160,
+    "query": "typical Coagulation factor XII reference interval in plasma",
+    "gold_parameter": "Coagulation factor XII",
+    "gold_parameter_norm": "coagulation factor xii",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 221,
+    "query": "how do I know if Electrolytes is too high or too low in serum, plasma?",
+    "gold_parameter": "Electrolytes",
+    "gold_parameter_norm": "electrolytes",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 221,
+    "query": "is my Electrolytes result within the reference range in serum, plasma?",
+    "gold_parameter": "Electrolytes",
+    "gold_parameter_norm": "electrolytes",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 345,
+    "query": "how do I know if Luteinizing hormone (LH) is too high or too low for a female in serum?",
+    "gold_parameter": "Luteinizing hormone (LH)",
+    "gold_parameter_norm": "luteinizing hormone (lh)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 345,
+    "query": "what is a normal Luteinizing hormone (LH) level for a female in serum?",
+    "gold_parameter": "Luteinizing hormone (LH)",
+    "gold_parameter_norm": "luteinizing hormone (lh)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 544,
+    "query": "typical White blood cell count reference interval in whole blood",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 544,
+    "query": "is my White blood cell count result within the reference range in whole blood?",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 95,
+    "query": "is my Bismuth result within the reference range in whole blood?",
+    "gold_parameter": "Bismuth",
+    "gold_parameter_norm": "bismuth",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 95,
+    "query": "typical Bismuth reference interval in whole blood",
+    "gold_parameter": "Bismuth",
+    "gold_parameter_norm": "bismuth",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 390,
+    "query": "is my Osmolality result within the reference range in urine?",
+    "gold_parameter": "Osmolality",
+    "gold_parameter_norm": "osmolality",
+    "gold_specimen": "Urine",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 390,
+    "query": "what is a normal Osmolality level in urine?",
+    "gold_parameter": "Osmolality",
+    "gold_parameter_norm": "osmolality",
+    "gold_specimen": "Urine",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 100,
+    "query": "how do I know if Brain natriuretic peptide (BNP) is too high or too low in plasma?",
+    "gold_parameter": "Brain natriuretic peptide (BNP)",
+    "gold_parameter_norm": "brain natriuretic peptide (bnp)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 100,
+    "query": "typical Brain natriuretic peptide (BNP) reference interval in plasma",
+    "gold_parameter": "Brain natriuretic peptide (BNP)",
+    "gold_parameter_norm": "brain natriuretic peptide (bnp)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 368,
+    "query": "Metoprolol normal range in serum, plasma",
+    "gold_parameter": "Metoprolol",
+    "gold_parameter_norm": "metoprolol",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 368,
+    "query": "what is a normal Metoprolol level in serum, plasma?",
+    "gold_parameter": "Metoprolol",
+    "gold_parameter_norm": "metoprolol",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 353,
+    "query": "what is a normal Maprotiline  level in plasma, serum?",
+    "gold_parameter": "Maprotiline ",
+    "gold_parameter_norm": "maprotiline",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 353,
+    "query": "typical Maprotiline  reference interval in plasma, serum",
+    "gold_parameter": "Maprotiline ",
+    "gold_parameter_norm": "maprotiline",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 271,
+    "query": "typical Glucagon reference interval in plasma",
+    "gold_parameter": "Glucagon",
+    "gold_parameter_norm": "glucagon",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 271,
+    "query": "is my Glucagon result within the reference range in plasma?",
+    "gold_parameter": "Glucagon",
+    "gold_parameter_norm": "glucagon",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 45,
+    "query": "what is a normal Amino acid fractionation level in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 45,
+    "query": "is my Amino acid fractionation result within the reference range in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 471,
+    "query": "how do I know if Protein electrophoresis (serum protein electrophoresis [SPEP]) is too high or too low in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 471,
+    "query": "what is a normal Protein electrophoresis (serum protein electrophoresis [SPEP]) level in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 128,
+    "query": "what is a normal Chlordiazepoxide level in serum, plasma?",
+    "gold_parameter": "Chlordiazepoxide",
+    "gold_parameter_norm": "chlordiazepoxide",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 128,
+    "query": "Chlordiazepoxide normal range in serum, plasma",
+    "gold_parameter": "Chlordiazepoxide",
+    "gold_parameter_norm": "chlordiazepoxide",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 499,
+    "query": "what is a normal Tissue plasminogen activator level in plasma?",
+    "gold_parameter": "Tissue plasminogen activator",
+    "gold_parameter_norm": "tissue plasminogen activator",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 499,
+    "query": "is my Tissue plasminogen activator result within the reference range in plasma?",
+    "gold_parameter": "Tissue plasminogen activator",
+    "gold_parameter_norm": "tissue plasminogen activator",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 473,
+    "query": "is my Protein electrophoresis (serum protein electrophoresis [SPEP]) result within the reference range in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 473,
+    "query": "Protein electrophoresis (serum protein electrophoresis [SPEP]) normal range in serum",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 194,
+    "query": "how do I know if Corticotropin is too high or too low in plasma?",
+    "gold_parameter": "Corticotropin",
+    "gold_parameter_norm": "corticotropin",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 194,
+    "query": "is my Corticotropin result within the reference range in plasma?",
+    "gold_parameter": "Corticotropin",
+    "gold_parameter_norm": "corticotropin",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 41,
+    "query": "typical Amino acid fractionation reference interval in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 41,
+    "query": "Amino acid fractionation normal range in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 283,
+    "query": "is my Growth hormone (GH, somatotropin) result within the reference range (adult) in plasma, serum?",
+    "gold_parameter": "Growth hormone (GH, somatotropin)",
+    "gold_parameter_norm": "growth hormone (gh, somatotropin)",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "Adult"
+  },
+  {
+    "ref_id": 283,
+    "query": "how do I know if Growth hormone (GH, somatotropin) is too high or too low (adult) in plasma, serum?",
+    "gold_parameter": "Growth hormone (GH, somatotropin)",
+    "gold_parameter_norm": "growth hormone (gh, somatotropin)",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "Adult"
+  },
+  {
+    "ref_id": 151,
+    "query": "typical Clonazepam reference interval in serum",
+    "gold_parameter": "Clonazepam",
+    "gold_parameter_norm": "clonazepam",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 151,
+    "query": "Clonazepam normal range in serum",
+    "gold_parameter": "Clonazepam",
+    "gold_parameter_norm": "clonazepam",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 425,
+    "query": "typical Proline reference interval in plasma",
+    "gold_parameter": "Proline",
+    "gold_parameter_norm": "proline",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 425,
+    "query": "Proline normal range in plasma",
+    "gold_parameter": "Proline",
+    "gold_parameter_norm": "proline",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 322,
+    "query": "how do I know if Insulin--like growth factor is too high or too low in serum?",
+    "gold_parameter": "Insulin--like growth factor",
+    "gold_parameter_norm": "insulin--like growth factor",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 322,
+    "query": "Insulin--like growth factor normal range in serum",
+    "gold_parameter": "Insulin--like growth factor",
+    "gold_parameter_norm": "insulin--like growth factor",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 317,
+    "query": "what is a normal Inhibin A level for a female in serum?",
+    "gold_parameter": "Inhibin A",
+    "gold_parameter_norm": "inhibin a",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 317,
+    "query": "is my Inhibin A result within the reference range for a female in serum?",
+    "gold_parameter": "Inhibin A",
+    "gold_parameter_norm": "inhibin a",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 454,
+    "query": "is my Reticulocyte count result within the reference range in whole blood?",
+    "gold_parameter": "Reticulocyte count",
+    "gold_parameter_norm": "reticulocyte count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 454,
+    "query": "what is a normal Reticulocyte count level in whole blood?",
+    "gold_parameter": "Reticulocyte count",
+    "gold_parameter_norm": "reticulocyte count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 442,
+    "query": "typical Prothrombin time (PT) reference interval in plasma",
+    "gold_parameter": "Prothrombin time (PT)",
+    "gold_parameter_norm": "prothrombin time (pt)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 442,
+    "query": "what is a normal Prothrombin time (PT) level in plasma?",
+    "gold_parameter": "Prothrombin time (PT)",
+    "gold_parameter_norm": "prothrombin time (pt)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 186,
+    "query": "how do I know if Complete blood count (CBC) is too high or too low in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 186,
+    "query": "is my Complete blood count (CBC) result within the reference range in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 296,
+    "query": "how do I know if Homocysteine is too high or too low in plasma, serum?",
+    "gold_parameter": "Homocysteine",
+    "gold_parameter_norm": "homocysteine",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 296,
+    "query": "is my Homocysteine result within the reference range in plasma, serum?",
+    "gold_parameter": "Homocysteine",
+    "gold_parameter_norm": "homocysteine",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 99,
+    "query": "what is a normal Blood urea nitrogen (BUN) level in blood?",
+    "gold_parameter": "Blood urea nitrogen (BUN)",
+    "gold_parameter_norm": "blood urea nitrogen (bun)",
+    "gold_specimen": "Blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 99,
+    "query": "how do I know if Blood urea nitrogen (BUN) is too high or too low in blood?",
+    "gold_parameter": "Blood urea nitrogen (BUN)",
+    "gold_parameter_norm": "blood urea nitrogen (bun)",
+    "gold_specimen": "Blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 361,
+    "query": "what is a normal Methadone level in serum, plasma?",
+    "gold_parameter": "Methadone",
+    "gold_parameter_norm": "methadone",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 361,
+    "query": "is my Methadone result within the reference range in serum, plasma?",
+    "gold_parameter": "Methadone",
+    "gold_parameter_norm": "methadone",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 36,
+    "query": "what is a normal Amino acid fractionation level in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 36,
+    "query": "how do I know if Amino acid fractionation is too high or too low in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 24,
+    "query": "typical Amikacin reference interval in serum, plasma",
+    "gold_parameter": "Amikacin",
+    "gold_parameter_norm": "amikacin",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 24,
+    "query": "what is a normal Amikacin level in serum, plasma?",
+    "gold_parameter": "Amikacin",
+    "gold_parameter_norm": "amikacin",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 339,
+    "query": "how do I know if Lipoprotein(a) (Lp(a)) is too high or too low in serum, plasma?",
+    "gold_parameter": "Lipoprotein(a) (Lp(a))",
+    "gold_parameter_norm": "lipoprotein(a) (lp(a))",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 339,
+    "query": "is my Lipoprotein(a) (Lp(a)) result within the reference range in serum, plasma?",
+    "gold_parameter": "Lipoprotein(a) (Lp(a))",
+    "gold_parameter_norm": "lipoprotein(a) (lp(a))",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 117,
+    "query": "typical Carbamazepine reference interval in serum, plasma",
+    "gold_parameter": "Carbamazepine",
+    "gold_parameter_norm": "carbamazepine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 117,
+    "query": "Carbamazepine normal range in serum, plasma",
+    "gold_parameter": "Carbamazepine",
+    "gold_parameter_norm": "carbamazepine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 396,
+    "query": "is my Pantothenic acid result within the reference range in nan?",
+    "gold_parameter": "Pantothenic acid",
+    "gold_parameter_norm": "pantothenic acid",
+    "gold_specimen": "nan",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 396,
+    "query": "how do I know if Pantothenic acid is too high or too low in nan?",
+    "gold_parameter": "Pantothenic acid",
+    "gold_parameter_norm": "pantothenic acid",
+    "gold_specimen": "nan",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 149,
+    "query": "how do I know if Citrate is too high or too low in serum?",
+    "gold_parameter": "Citrate",
+    "gold_parameter_norm": "citrate",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 149,
+    "query": "Citrate normal range in serum",
+    "gold_parameter": "Citrate",
+    "gold_parameter_norm": "citrate",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 508,
+    "query": "is my Triiodothyronine (T₃) result within the reference range in serum?",
+    "gold_parameter": "Triiodothyronine (T₃)",
+    "gold_parameter_norm": "triiodothyronine (t₃)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 508,
+    "query": "Triiodothyronine (T₃) normal range in serum",
+    "gold_parameter": "Triiodothyronine (T₃)",
+    "gold_parameter_norm": "triiodothyronine (t₃)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 438,
+    "query": "Protein electrophoresis (serum protein electrophoresis [SPEP]) normal range in serum",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 438,
+    "query": "is my Protein electrophoresis (serum protein electrophoresis [SPEP]) result within the reference range in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 120,
+    "query": "what is a normal Carboxyhemoglobin (carbon monoxide) level in whole blood?",
+    "gold_parameter": "Carboxyhemoglobin (carbon monoxide)",
+    "gold_parameter_norm": "carboxyhemoglobin (carbon monoxide)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 120,
+    "query": "how do I know if Carboxyhemoglobin (carbon monoxide) is too high or too low in whole blood?",
+    "gold_parameter": "Carboxyhemoglobin (carbon monoxide)",
+    "gold_parameter_norm": "carboxyhemoglobin (carbon monoxide)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 444,
+    "query": "Prostate--specific antigen (PSA) normal range in serum",
+    "gold_parameter": "Prostate--specific antigen (PSA)",
+    "gold_parameter_norm": "prostate--specific antigen (psa)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 444,
+    "query": "typical Prostate--specific antigen (PSA) reference interval in serum",
+    "gold_parameter": "Prostate--specific antigen (PSA)",
+    "gold_parameter_norm": "prostate--specific antigen (psa)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 52,
+    "query": "Amitriptyline normal range in serum, plasma",
+    "gold_parameter": "Amitriptyline",
+    "gold_parameter_norm": "amitriptyline",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 52,
+    "query": "how do I know if Amitriptyline is too high or too low in serum, plasma?",
+    "gold_parameter": "Amitriptyline",
+    "gold_parameter_norm": "amitriptyline",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 195,
+    "query": "Cortisol normal range in plasma",
+    "gold_parameter": "Cortisol",
+    "gold_parameter_norm": "cortisol",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 195,
+    "query": "what is a normal Cortisol level in plasma?",
+    "gold_parameter": "Cortisol",
+    "gold_parameter_norm": "cortisol",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 545,
+    "query": "what is a normal White blood cell count level in whole blood?",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 545,
+    "query": "how do I know if White blood cell count is too high or too low in whole blood?",
+    "gold_parameter": "White blood cell count",
+    "gold_parameter_norm": "white blood cell count",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 233,
+    "query": "Estradiol (E2) normal range for a female in serum",
+    "gold_parameter": "Estradiol (E2)",
+    "gold_parameter_norm": "estradiol (e2)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 233,
+    "query": "typical Estradiol (E2) reference interval for a female in serum",
+    "gold_parameter": "Estradiol (E2)",
+    "gold_parameter_norm": "estradiol (e2)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 326,
+    "query": "what is a normal Isoleucine level in plasma?",
+    "gold_parameter": "Isoleucine",
+    "gold_parameter_norm": "isoleucine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 326,
+    "query": "is my Isoleucine result within the reference range in plasma?",
+    "gold_parameter": "Isoleucine",
+    "gold_parameter_norm": "isoleucine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 428,
+    "query": "is my Protein result within the reference range in serum?",
+    "gold_parameter": "Protein",
+    "gold_parameter_norm": "protein",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 428,
+    "query": "how do I know if Protein is too high or too low in serum?",
+    "gold_parameter": "Protein",
+    "gold_parameter_norm": "protein",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 187,
+    "query": "how do I know if Complete blood count (CBC) is too high or too low in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 187,
+    "query": "Complete blood count (CBC) normal range in whole blood",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 84,
+    "query": "is my Basophils result within the reference range in whole blood?",
+    "gold_parameter": "Basophils",
+    "gold_parameter_norm": "basophils",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 84,
+    "query": "Basophils normal range in whole blood",
+    "gold_parameter": "Basophils",
+    "gold_parameter_norm": "basophils",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 190,
+    "query": "is my Complete blood count (CBC) result within the reference range in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 190,
+    "query": "typical Complete blood count (CBC) reference interval in whole blood",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 182,
+    "query": "Complete blood count (CBC) normal range in whole blood",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 182,
+    "query": "is my Complete blood count (CBC) result within the reference range in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 108,
+    "query": "what is a normal CA27.29 level in serum?",
+    "gold_parameter": "CA27.29",
+    "gold_parameter_norm": "ca27.29",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 108,
+    "query": "CA27.29 normal range in serum",
+    "gold_parameter": "CA27.29",
+    "gold_parameter_norm": "ca27.29",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 344,
+    "query": "how do I know if Luteinizing hormone (LH) is too high or too low for a female in serum?",
+    "gold_parameter": "Luteinizing hormone (LH)",
+    "gold_parameter_norm": "luteinizing hormone (lh)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 344,
+    "query": "what is a normal Luteinizing hormone (LH) level for a female in serum?",
+    "gold_parameter": "Luteinizing hormone (LH)",
+    "gold_parameter_norm": "luteinizing hormone (lh)",
+    "gold_specimen": "Serum",
+    "gold_gender": "Female",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 137,
+    "query": "what is a normal Cholesterol, low--density lipoproteins (LDL) level in plasma?",
+    "gold_parameter": "Cholesterol, low--density lipoproteins (LDL)",
+    "gold_parameter_norm": "cholesterol, low--density lipoproteins (ldl)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 137,
+    "query": "how do I know if Cholesterol, low--density lipoproteins (LDL) is too high or too low in plasma?",
+    "gold_parameter": "Cholesterol, low--density lipoproteins (LDL)",
+    "gold_parameter_norm": "cholesterol, low--density lipoproteins (ldl)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 360,
+    "query": "what is a normal Metanephrines level in urine?",
+    "gold_parameter": "Metanephrines",
+    "gold_parameter_norm": "metanephrines",
+    "gold_specimen": "Urine",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 360,
+    "query": "is my Metanephrines result within the reference range in urine?",
+    "gold_parameter": "Metanephrines",
+    "gold_parameter_norm": "metanephrines",
+    "gold_specimen": "Urine",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 350,
+    "query": "is my Lysozyme (muramidase) result within the reference range in serum?",
+    "gold_parameter": "Lysozyme (muramidase)",
+    "gold_parameter_norm": "lysozyme (muramidase)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 350,
+    "query": "Lysozyme (muramidase) normal range in serum",
+    "gold_parameter": "Lysozyme (muramidase)",
+    "gold_parameter_norm": "lysozyme (muramidase)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 332,
+    "query": "Lamotrigine normal range in serum, plasma",
+    "gold_parameter": "Lamotrigine",
+    "gold_parameter_norm": "lamotrigine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 332,
+    "query": "how do I know if Lamotrigine is too high or too low in serum, plasma?",
+    "gold_parameter": "Lamotrigine",
+    "gold_parameter_norm": "lamotrigine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 37,
+    "query": "is my Amino acid fractionation result within the reference range in plasma?",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 37,
+    "query": "Amino acid fractionation normal range in plasma",
+    "gold_parameter": "Amino acid fractionation",
+    "gold_parameter_norm": "amino acid fractionation",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 312,
+    "query": "what is a normal Immunoglobulin G (IgG) level in serum?",
+    "gold_parameter": "Immunoglobulin G (IgG)",
+    "gold_parameter_norm": "immunoglobulin g (igg)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 312,
+    "query": "is my Immunoglobulin G (IgG) result within the reference range in serum?",
+    "gold_parameter": "Immunoglobulin G (IgG)",
+    "gold_parameter_norm": "immunoglobulin g (igg)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 482,
+    "query": "Sulfhemoglobin normal range in whole blood",
+    "gold_parameter": "Sulfhemoglobin",
+    "gold_parameter_norm": "sulfhemoglobin",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 482,
+    "query": "what is a normal Sulfhemoglobin level in whole blood?",
+    "gold_parameter": "Sulfhemoglobin",
+    "gold_parameter_norm": "sulfhemoglobin",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 88,
+    "query": "Benzodiazepines normal range in serum, plasma",
+    "gold_parameter": "Benzodiazepines",
+    "gold_parameter_norm": "benzodiazepines",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 88,
+    "query": "typical Benzodiazepines reference interval in serum, plasma",
+    "gold_parameter": "Benzodiazepines",
+    "gold_parameter_norm": "benzodiazepines",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 274,
+    "query": "Glucose--6--phosphate dehydrogenase normal range in red blood cells",
+    "gold_parameter": "Glucose--6--phosphate dehydrogenase",
+    "gold_parameter_norm": "glucose--6--phosphate dehydrogenase",
+    "gold_specimen": "Red blood cells",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 274,
+    "query": "typical Glucose--6--phosphate dehydrogenase reference interval in red blood cells",
+    "gold_parameter": "Glucose--6--phosphate dehydrogenase",
+    "gold_parameter_norm": "glucose--6--phosphate dehydrogenase",
+    "gold_specimen": "Red blood cells",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 374,
+    "query": "Morphine normal range in serum, plasma",
+    "gold_parameter": "Morphine",
+    "gold_parameter_norm": "morphine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 374,
+    "query": "how do I know if Morphine is too high or too low in serum, plasma?",
+    "gold_parameter": "Morphine",
+    "gold_parameter_norm": "morphine",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 126,
+    "query": "is my Ceruloplasmin result within the reference range in serum?",
+    "gold_parameter": "Ceruloplasmin",
+    "gold_parameter_norm": "ceruloplasmin",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 126,
+    "query": "how do I know if Ceruloplasmin is too high or too low in serum?",
+    "gold_parameter": "Ceruloplasmin",
+    "gold_parameter_norm": "ceruloplasmin",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 479,
+    "query": "typical Somatomedin C reference interval in serum",
+    "gold_parameter": "Somatomedin C",
+    "gold_parameter_norm": "somatomedin c",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 479,
+    "query": "is my Somatomedin C result within the reference range in serum?",
+    "gold_parameter": "Somatomedin C",
+    "gold_parameter_norm": "somatomedin c",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 237,
+    "query": "what is a normal Estriol (E3) level in serum?",
+    "gold_parameter": "Estriol (E3)",
+    "gold_parameter_norm": "estriol (e3)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 237,
+    "query": "how do I know if Estriol (E3) is too high or too low in serum?",
+    "gold_parameter": "Estriol (E3)",
+    "gold_parameter_norm": "estriol (e3)",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 485,
+    "query": "typical Testosterone reference interval for a male in plasma, serum",
+    "gold_parameter": "Testosterone",
+    "gold_parameter_norm": "testosterone",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 485,
+    "query": "what is a normal Testosterone level for a male in plasma, serum?",
+    "gold_parameter": "Testosterone",
+    "gold_parameter_norm": "testosterone",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 139,
+    "query": "what is a normal Cholesterol, low--density lipoproteins (LDL) level in plasma?",
+    "gold_parameter": "Cholesterol, low--density lipoproteins (LDL)",
+    "gold_parameter_norm": "cholesterol, low--density lipoproteins (ldl)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 139,
+    "query": "Cholesterol, low--density lipoproteins (LDL) normal range in plasma",
+    "gold_parameter": "Cholesterol, low--density lipoproteins (LDL)",
+    "gold_parameter_norm": "cholesterol, low--density lipoproteins (ldl)",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 328,
+    "query": "how do I know if Isopropanol is too high or too low in plasma, serum?",
+    "gold_parameter": "Isopropanol",
+    "gold_parameter_norm": "isopropanol",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 328,
+    "query": "is my Isopropanol result within the reference range in plasma, serum?",
+    "gold_parameter": "Isopropanol",
+    "gold_parameter_norm": "isopropanol",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 516,
+    "query": "what is a normal Valine level in plasma?",
+    "gold_parameter": "Valine",
+    "gold_parameter_norm": "valine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 516,
+    "query": "how do I know if Valine is too high or too low in plasma?",
+    "gold_parameter": "Valine",
+    "gold_parameter_norm": "valine",
+    "gold_specimen": "Plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 286,
+    "query": "is my Hematocrit result within the reference range for a male in whole blood?",
+    "gold_parameter": "Hematocrit",
+    "gold_parameter_norm": "hematocrit",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 286,
+    "query": "what is a normal Hematocrit level for a male in whole blood?",
+    "gold_parameter": "Hematocrit",
+    "gold_parameter_norm": "hematocrit",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 113,
+    "query": "how do I know if Calcitonin is too high or too low in serum, plasma?",
+    "gold_parameter": "Calcitonin",
+    "gold_parameter_norm": "calcitonin",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 113,
+    "query": "what is a normal Calcitonin level in serum, plasma?",
+    "gold_parameter": "Calcitonin",
+    "gold_parameter_norm": "calcitonin",
+    "gold_specimen": "Serum, plasma",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 351,
+    "query": "is my Magnesium result within the reference range in serum?",
+    "gold_parameter": "Magnesium",
+    "gold_parameter_norm": "magnesium",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 351,
+    "query": "Magnesium normal range in serum",
+    "gold_parameter": "Magnesium",
+    "gold_parameter_norm": "magnesium",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 167,
+    "query": "what is a normal Complete blood count (CBC) level for a male in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 167,
+    "query": "is my Complete blood count (CBC) result within the reference range for a male in whole blood?",
+    "gold_parameter": "Complete blood count (CBC)",
+    "gold_parameter_norm": "complete blood count (cbc)",
+    "gold_specimen": "Whole blood",
+    "gold_gender": "Male",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 432,
+    "query": "how do I know if Protein electrophoresis (serum protein electrophoresis [SPEP]) is too high or too low in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 432,
+    "query": "what is a normal Protein electrophoresis (serum protein electrophoresis [SPEP]) level in serum?",
+    "gold_parameter": "Protein electrophoresis (serum protein electrophoresis [SPEP])",
+    "gold_parameter_norm": "protein electrophoresis (serum protein electrophoresis [spep])",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 394,
+    "query": "how do I know if Oxycodone is too high or too low in plasma, serum?",
+    "gold_parameter": "Oxycodone",
+    "gold_parameter_norm": "oxycodone",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 394,
+    "query": "what is a normal Oxycodone level in plasma, serum?",
+    "gold_parameter": "Oxycodone",
+    "gold_parameter_norm": "oxycodone",
+    "gold_specimen": "Plasma, serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 398,
+    "query": "Parathyroid hormone normal range in serum",
+    "gold_parameter": "Parathyroid hormone",
+    "gold_parameter_norm": "parathyroid hormone",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  },
+  {
+    "ref_id": 398,
+    "query": "typical Parathyroid hormone reference interval in serum",
+    "gold_parameter": "Parathyroid hormone",
+    "gold_parameter_norm": "parathyroid hormone",
+    "gold_specimen": "Serum",
+    "gold_gender": "all",
+    "gold_age_group": "all"
+  }
+]

@@ -30,11 +30,11 @@ for name in ["train", "val", "test"]:
                     elif val > 5.6:
                         hba1c_stats["abnormal/high (> 5.6%)"] += 1
                     else:
-                        hba1c_stats["other_ranges"] += 1 # 3.5 ile 4.0 arası olanlar vb.
+                        hba1c_stats["other_ranges"] += 1 # Others (e.g. 3.5 to 4.0)
                         
     except FileNotFoundError:
-        print(f"Uyarı: {file_path} bulunamadı, atlanıyor.")
+        print(f"Warning: {file_path} not found, skipping.")
 
-print("\n--- Gerçek HbA1c Dağılım Raporu ---")
+print("\n--- Real HbA1c Distribution Report ---")
 for category, count in hba1c_stats.items():
     print(f"  {category}: {count}")
